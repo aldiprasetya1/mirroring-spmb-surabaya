@@ -1,0 +1,20 @@
+{
+  "name": "smp-ranking-mirror",
+  "version": "1.0.0",
+  "description": "Mirroring peringkat SPMB SMP Surabaya dengan kalkulator kecocokan",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "spmb",
+    "surabaya",
+    "smp",
+    "ranking"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}

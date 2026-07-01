@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SPMB SMP Surabaya - Rapor Ranking Mirror & Kalkulator Kelayakan</title>
+  <meta name="description" content="Mirroring data peringkat sementara jalur prestasi rapor SMP Negeri Surabaya dan kalkulator kelayakan target TKA.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-area">
+        <div class="logo-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 2 2 3 6 3s6-1 6-3v-5"/></svg>
+        </div>
+        <div class="logo-text">
+          <h1>SPMB SMP Surabaya</h1>
+          <p>Rapor Ranking Mirror & Kalkulator Kelayakan</p>
+        </div>
+      </div>
+      
+      <div class="header-status">
+        <div class="status-indicator">
+          <span class="pulse-dot"></span>
+          <span id="update-timestamp">Memuat data...</span>
+          <span id="auto-refresh-timer" style="margin-left: 8px; border-left: 1px solid var(--input-border); padding-left: 8px; font-weight: 500; font-size: 0.8rem; color: var(--text-muted);">Auto-refresh: 120s</span>
+        </div>
+        <button id="btn-theme-toggle" class="btn btn-secondary" title="Ganti Tema">
+          <svg id="theme-icon-sun" class="hidden" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+          <svg id="theme-icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <span>Tema</span>
+        </button>
+        <button id="btn-refresh-data" class="btn btn-secondary">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+          Perbarui Semua Data
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Grid -->
+    <main class="app-content">
+      <!-- Calculator Panel (Left/Top) -->
+      <section class="calculator-panel card-glass">
+        <div class="card-header">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2" ry="2"/><line x1="9" y1="22" x2="15" y2="22"/><line x1="8" y1="5" x2="16" y2="5"/><line x1="8" y1="9" x2="16" y2="9"/><line x1="16" y1="14" x2="16" y2="18"/><path d="M12 14h.01M12 18h.01M8 14h.01M8 18h.01"/></svg>
+          <h2>Simulasi Nilai Kelayakan</h2>
+        </div>
+        
+        <div class="card-body">
+          <!-- NRS Input -->
+          <div class="input-group">
+            <div class="input-label-row">
+              <label for="input-nrs">Rata-rata Rapor (NRS)</label>
+              <span class="input-tooltip" title="Nilai Rapor Sekolah rata-rata semester 7-11 (Bobot 60%)">?</span>
+            </div>
+            <input type="number" id="input-nrs" min="0" max="100" step="0.01" placeholder="Masukkan nilai rapor..." value="90.00">
+          </div>
+
+          <!-- TKA Input -->
+          <div id="tka-input-container" class="input-group">
+            <div class="input-label-row">
+              <label for="input-tka">Rerata TKA (Tes Kemampuan Akademik)</label>
+              <span class="badge-percentage">Bobot 40%</span>
+            </div>
+            <input type="number" id="input-tka" min="0" max="100" step="0.01" placeholder="Masukkan nilai TKA..." value="80.00">
+          </div>
+
+          <div class="formula-info">
+            <div class="formula-title">Rumus Kelulusan Akademik</div>
+            <div class="formula-math">Nilai Akhir = (60% × Rapor) + (40% × TKA)</div>
+          </div>
+          
+          <!-- Recommendation Overview -->
+          <div class="recommendation-overview">
+            <div class="overview-item status-safe">
+              <div class="num" id="count-safe">0</div>
+              <div class="lbl">Aman</div>
+            </div>
+            <div class="overview-item status-warning">
+              <div class="num" id="count-warning">0</div>
+              <div class="lbl">Butuh TKA</div>
+            </div>
+            <div class="overview-item status-danger">
+              <div class="num" id="count-danger">0</div>
+              <div class="lbl">Sulit</div>
+            </div>
+          </div>
+
+          <!-- Text Summary Section -->
+          <div class="summary-text-box" id="summary-text-box">
+            <p class="text-muted text-xs">Membuat rangkuman kelayakan...</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Schools Directory Panel (Right/Bottom) -->
+      <section class="directory-panel">
+        <!-- Controls Bar -->
+        <div class="directory-controls card-glass">
+          <div class="search-box">
+            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="text" id="search-school" placeholder="Cari nama sekolah (misal: SMPN 1)...">
+          </div>
+          
+          <div class="filter-sort-group">
+            <div class="select-wrapper">
+              <select id="filter-status">
+                <option value="all">Semua Status Kelayakan</option>
+                <option value="safe">Status: Lolos / Aman</option>
+                <option value="warning">Status: Butuh TKA (0 - 100)</option>
+                <option value="danger">Status: Sulit Lolos</option>
+              </select>
+            </div>
+            
+            <div class="select-wrapper">
+              <select id="sort-by">
+                <option value="relevance" selected>Urut: Peluang Kelulusan</option>
+                <option value="id">Urut: Nomor Sekolah</option>
+                <option value="lowest-asc">Urut: Passing Grade (Rendah ke Tinggi)</option>
+                <option value="lowest-desc">Urut: Passing Grade (Tinggi ke Rendah)</option>
+                <option value="pagu-desc">Urut: Pagu Kuota Terbanyak</option>
+                <option value="applicants-desc">Urut: Pendaftar Terbanyak</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Cards Grid -->
+        <div id="schools-grid" class="schools-grid">
+          <!-- Dynamically populated via JS -->
+          <div class="loading-state">
+            <div class="spinner"></div>
+            <p>Memuat data sekolah dan ranking...</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Detail Modal -->
+  <div id="school-modal" class="modal-overlay hidden">
+    <div class="modal-content card-glass">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <div class="modal-title-area">
+          <h3 id="modal-school-name">SMPN 1 Surabaya</h3>
+          <span id="modal-school-pagu" class="pagu-badge">Pagu: --</span>
+        </div>
+        <button id="modal-close" class="btn-close">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </div>
+
+      <!-- Modal Body -->
+      <div class="modal-body-scroll">
+        <!-- Quick Stats and User Status -->
+        <div class="modal-stats-grid">
+          <div class="stat-card">
+            <div class="lbl">Pendaftar Pilihan 1</div>
+            <div class="val" id="modal-choice1">--</div>
+          </div>
+          <div class="stat-card">
+            <div class="lbl">Pendaftar Pilihan 2</div>
+            <div class="val" id="modal-choice2">--</div>
+          </div>
+          <div class="stat-card">
+            <div class="lbl">Passing Grade (Terendah)</div>
+            <div class="val text-warning" id="modal-lowest-score">--</div>
+          </div>
+          <div class="stat-card">
+            <div class="lbl">Nilai Tertinggi</div>
+            <div class="val text-success" id="modal-highest-score">--</div>
+          </div>
+        </div>
+
+        <!-- User Match Result Details -->
+        <div id="modal-match-box" class="modal-match-box">
+          <div class="match-left">
+            <div class="match-title">Analisis Peluang Anda</div>
+            <div id="modal-match-desc" class="match-desc">Memuat analisis...</div>
+          </div>
+          <div class="match-right">
+            <div id="modal-match-badge" class="badge-status-lg">--</div>
+          </div>
+        </div>
+
+        <!-- Students Table -->
+        <div class="table-section">
+          <div class="table-header-row">
+            <h4>Daftar Peringkat Sementara Saat Ini</h4>
+            <div class="table-search">
+              <input type="text" id="search-student" placeholder="Cari nama siswa...">
+            </div>
+          </div>
+          <div class="table-wrapper">
+            <table class="students-table">
+              <thead>
+                <tr>
+                  <th width="80">Peringkat</th>
+                  <th>Nama Lengkap</th>
+                  <th width="100">Nilai Akhir</th>
+                  <th width="80">Pilihan Ke</th>
+                  <th width="70" class="mobile-hide">B.Ind</th>
+                  <th width="70" class="mobile-hide">MAT</th>
+                  <th width="70" class="mobile-hide">IPA</th>
+                </tr>
+              </thead>
+              <tbody id="modal-students-list">
+                <!-- Dynamically populated via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Refresh Instruction Popup -->
+  <div id="refresh-popup" class="modal-overlay hidden">
+    <div class="modal-content card-glass popup-small">
+      <div class="modal-header">
+        <h3>Memperbarui Data Mirror</h3>
+        <button id="popup-close" class="btn-close">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </div>
+      <div class="modal-body-scroll">
+        <p>Untuk memperbarui database mirror lokal dari API pusat secara menyeluruh, silakan jalankan perintah berikut di terminal Anda:</p>
+        <div class="code-block-wrapper">
+          <code>npm run scrape</code>
+          <button id="btn-copy-command" class="btn btn-secondary btn-sm">Copy</button>
+        </div>
+        <p class="text-muted text-xs mt-3">Skrip ini akan mengambil data terbaru untuk ke-63 SMP Negeri Surabaya. Server lokal Anda tidak perlu dimatikan saat melakukan scraping.</p>
+        <div class="modal-actions">
+          <button id="btn-run-scrape-local" class="btn btn-primary">Refresh via Client (Lambat)</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JS App Script -->
+  <script src="app.js"></script>
+</body>
+</html>
