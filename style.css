@@ -6,34 +6,34 @@
 }
 
 :root {
-  /* Default: Light Theme */
-  --bg-primary: #f8fafc; /* slate-50 */
-  --bg-secondary: #f1f5f9; /* slate-100 */
-  --card-bg: rgba(255, 255, 255, 0.85);
-  --card-border: rgba(15, 23, 42, 0.08);
-  --card-border-hover: rgba(59, 130, 246, 0.35);
+  /* Default: Apple Light Theme */
+  --bg-primary: #f5f5f7; /* Apple System Gray 6 */
+  --bg-secondary: #ffffff; /* System White */
+  --card-bg: rgba(255, 255, 255, 0.82); /* Frosted Glass Card */
+  --card-border: rgba(0, 0, 0, 0.05); /* Clean hairline border */
+  --card-border-hover: rgba(0, 113, 227, 0.3); /* Apple System Blue glow */
   
-  --text-primary: #0f172a; /* slate-900 */
-  --text-secondary: #334155; /* slate-700 */
-  --text-muted: #64748b; /* slate-500 */
+  --text-primary: #1d1d1f; /* Apple Dark Text */
+  --text-secondary: #48484a; /* System Gray 2 */
+  --text-muted: #86868b; /* System Gray */
   
-  --color-primary: #2563eb; /* blue-600 */
-  --color-primary-hover: #1d4ed8; /* blue-700 */
-  --color-primary-glow: rgba(37, 99, 235, 0.08);
+  --color-primary: #0071e3; /* Apple System Blue */
+  --color-primary-hover: #0077ed;
+  --color-primary-glow: rgba(0, 113, 227, 0.08);
   
-  --color-safe: #059669; /* emerald-600 */
-  --color-safe-bg: rgba(5, 150, 105, 0.06);
-  --color-safe-border: rgba(5, 150, 105, 0.15);
+  --color-safe: #30d158; /* Apple System Green */
+  --color-safe-bg: rgba(48, 209, 88, 0.06);
+  --color-safe-border: rgba(48, 209, 88, 0.15);
   
-  --color-warning: #d97706; /* amber-600 */
-  --color-warning-bg: rgba(217, 119, 6, 0.06);
-  --color-warning-border: rgba(217, 119, 6, 0.15);
+  --color-warning: #ff9f0a; /* Apple System Orange */
+  --color-warning-bg: rgba(255, 159, 10, 0.06);
+  --color-warning-border: rgba(255, 159, 10, 0.15);
   
-  --color-danger: #e11d48; /* rose-600 */
-  --color-danger-bg: rgba(225, 29, 72, 0.06);
-  --color-danger-border: rgba(225, 29, 72, 0.15);
+  --color-danger: #ff453a; /* Apple System Red */
+  --color-danger-bg: rgba(255, 69, 58, 0.06);
+  --color-danger-border: rgba(255, 69, 58, 0.15);
   
-  --font-family: 'Outfit', sans-serif;
+  --font-family: -apple-system, BlinkMacSystemFont, "Outfit", "SF Pro Text", "SF Pro Display", "Segoe UI", Roboto, sans-serif;
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
@@ -44,55 +44,55 @@
 
   /* Theme-specific custom styles */
   --input-bg: #ffffff;
-  --input-border: rgba(15, 23, 42, 0.12);
-  --card-inner-bg: rgba(15, 23, 42, 0.02);
-  --card-inner-border: rgba(15, 23, 42, 0.04);
-  --table-th-bg: #f1f5f9;
-  --table-tr-border: rgba(15, 23, 42, 0.05);
-  --modal-backdrop: rgba(15, 23, 42, 0.4);
-  --code-block-bg: rgba(15, 23, 42, 0.03);
-  --code-block-border: rgba(15, 23, 42, 0.06);
-  --bg-gradient-opacity: 0.45;
+  --input-border: rgba(0, 0, 0, 0.12);
+  --card-inner-bg: rgba(0, 0, 0, 0.02);
+  --card-inner-border: rgba(0, 0, 0, 0.03);
+  --table-th-bg: #e8e8ed;
+  --table-tr-border: rgba(0, 0, 0, 0.05);
+  --modal-backdrop: rgba(0, 0, 0, 0.3);
+  --code-block-bg: rgba(0, 0, 0, 0.02);
+  --code-block-border: rgba(0, 0, 0, 0.04);
+  --bg-gradient-opacity: 0.35;
 }
 
 [data-theme="dark"] {
-  /* Dark Theme */
-  --bg-primary: #030712;
-  --bg-secondary: #0b0f19;
-  --card-bg: rgba(17, 24, 39, 0.65);
-  --card-border: rgba(255, 255, 255, 0.07);
-  --card-border-hover: rgba(59, 130, 246, 0.3);
+  /* Apple Dark Theme (Soft Gray, not Pitch Black) */
+  --bg-primary: #1c1c1e; /* Apple System Background (Soft Gray) */
+  --bg-secondary: #2c2c2e; /* Apple System Secondary Background */
+  --card-bg: rgba(44, 44, 46, 0.78); /* Frosted Glass Dark Card */
+  --card-border: rgba(255, 255, 255, 0.08);
+  --card-border-hover: rgba(10, 132, 255, 0.4); /* Apple System Blue (Dark) glow */
   
-  --text-primary: #f3f4f6;
-  --text-secondary: #9ca3af;
-  --text-muted: #6b7280;
+  --text-primary: #f5f5f7; /* Apple Light Text */
+  --text-secondary: #d1d1d6; /* System Gray 4 */
+  --text-muted: #8e8e93; /* System Gray */
   
-  --color-primary: #3b82f6;
-  --color-primary-hover: #2563eb;
-  --color-primary-glow: rgba(59, 130, 246, 0.15);
+  --color-primary: #0a84ff; /* Apple System Blue (Dark Mode) */
+  --color-primary-hover: #2094ff;
+  --color-primary-glow: rgba(10, 132, 255, 0.12);
   
-  --color-safe: #10b981;
-  --color-safe-bg: rgba(16, 185, 129, 0.1);
-  --color-safe-border: rgba(16, 185, 129, 0.2);
+  --color-safe: #30d158; /* Apple System Green (Dark Mode) */
+  --color-safe-bg: rgba(48, 209, 88, 0.1);
+  --color-safe-border: rgba(48, 209, 88, 0.20);
   
-  --color-warning: #f59e0b;
-  --color-warning-bg: rgba(245, 158, 11, 0.1);
-  --color-warning-border: rgba(245, 158, 11, 0.2);
+  --color-warning: #ff9f0a; /* Apple System Orange (Dark Mode) */
+  --color-warning-bg: rgba(255, 159, 10, 0.1);
+  --color-warning-border: rgba(255, 159, 10, 0.20);
   
-  --color-danger: #ef4444;
-  --color-danger-bg: rgba(239, 68, 68, 0.1);
-  --color-danger-border: rgba(239, 68, 68, 0.2);
+  --color-danger: #ff453a; /* Apple System Red (Dark Mode) */
+  --color-danger-bg: rgba(255, 69, 58, 0.1);
+  --color-danger-border: rgba(255, 69, 58, 0.20);
 
-  --input-bg: rgba(255, 255, 255, 0.03);
-  --input-border: rgba(255, 255, 255, 0.08);
-  --card-inner-bg: rgba(255, 255, 255, 0.02);
-  --card-inner-border: rgba(255, 255, 255, 0.03);
-  --table-th-bg: #111827;
-  --table-tr-border: rgba(255, 255, 255, 0.03);
-  --modal-backdrop: rgba(2, 6, 17, 0.75);
-  --code-block-bg: rgba(0, 0, 0, 0.2);
+  --input-bg: rgba(255, 255, 255, 0.06);
+  --input-border: rgba(255, 255, 255, 0.12);
+  --card-inner-bg: rgba(255, 255, 255, 0.03);
+  --card-inner-border: rgba(255, 255, 255, 0.04);
+  --table-th-bg: #2c2c2e;
+  --table-tr-border: rgba(255, 255, 255, 0.06);
+  --modal-backdrop: rgba(0, 0, 0, 0.55);
+  --code-block-bg: rgba(255, 255, 255, 0.04);
   --code-block-border: rgba(255, 255, 255, 0.06);
-  --bg-gradient-opacity: 1;
+  --bg-gradient-opacity: 0.55;
 }
 
 body {
