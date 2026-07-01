@@ -54,20 +54,44 @@ const elBtnRunScrapeLocal = document.getElementById('btn-run-scrape-local');
 async function initApp() {
   initTheme();
   try {
-    const response = await fetch('data/smp_data.json');
-    if (!response.ok) {
-      throw new Error('Gagal mengambil file JSON data');
+    // Check if we have cached live data in localStorage
+    const cachedDataStr = localStorage.getItem('smp_live_data');
+    let loadedFromCache = false;
+
+    if (cachedDataStr) {
+      try {
+        const cached = JSON.parse(cachedDataStr);
+        if (cached && cached.schools && cached.schools.length > 0) {
+          state.schools = cached.schools;
+          state.lastUpdated = cached.lastUpdated;
+          loadedFromCache = true;
+
+          if (state.lastUpdated) {
+            const date = new Date(state.lastUpdated);
+            elUpdateTimestamp.textContent = `Data diupdate (Browser Cache): ${date.toLocaleString('id-ID')}`;
+          }
+        }
+      } catch (e) {
+        console.warn('Failed to parse cached live data:', e);
+      }
     }
-    const data = await response.json();
-    state.schools = data.schools || [];
-    state.lastUpdated = data.last_updated;
-    
-    // Set update timestamp
-    if (state.lastUpdated) {
-      const date = new Date(state.lastUpdated);
-      elUpdateTimestamp.textContent = `Data diupdate: ${date.toLocaleString('id-ID')}`;
-    } else {
-      elUpdateTimestamp.textContent = 'Data offline termuat';
+
+    if (!loadedFromCache) {
+      const response = await fetch('data/smp_data.json');
+      if (!response.ok) {
+        throw new Error('Gagal mengambil file JSON data');
+      }
+      const data = await response.json();
+      state.schools = data.schools || [];
+      state.lastUpdated = data.last_updated;
+      
+      // Set update timestamp
+      if (state.lastUpdated) {
+        const date = new Date(state.lastUpdated);
+        elUpdateTimestamp.textContent = `Data diupdate: ${date.toLocaleString('id-ID')}`;
+      } else {
+        elUpdateTimestamp.textContent = 'Data offline termuat';
+      }
     }
     
     setupEventListeners();
@@ -84,10 +108,9 @@ async function initApp() {
     `;
     
     document.getElementById('btn-initial-scrape')?.addEventListener('click', () => {
-      elRefreshPopup.classList.remove('hidden');
+      runBrowserScraper();
     });
     
-    // Still setup the popup and refresh events so user can scrape
     setupPopupEvents();
   }
 }
@@ -363,11 +386,11 @@ function renderSchoolsList() {
           </div>
           <div class="stat-item">
             <span class="lbl">Pilihan 1</span>
-            <span class="val">${school.jp_pilihan1}</span>
+            <span class="val">${school.jp_pilihan1 ?? '-'}</span>
           </div>
           <div class="stat-item">
             <span class="lbl">Pilihan 2</span>
-            <span class="val">${school.jp_pilihan2}</span>
+            <span class="val">${school.jp_pilihan2 ?? '-'}</span>
           </div>
         </div>
         
@@ -404,8 +427,8 @@ function renderSchoolsList() {
 function showSchoolDetails(school) {
   elModalSchoolName.textContent = school.nama;
   elModalSchoolPagu.textContent = `Pagu: ${school.pagu} Kursi`;
-  elModalChoice1.textContent = `${school.jp_pilihan1} Siswa`;
-  elModalChoice2.textContent = `${school.jp_pilihan2} Siswa`;
+  elModalChoice1.textContent = `${school.jp_pilihan1 ?? '-'} Siswa`;
+  elModalChoice2.textContent = `${school.jp_pilihan2 ?? '-'} Siswa`;
   elModalLowestScore.textContent = school.lowest_score ? school.lowest_score.toFixed(4) : '-';
   elModalHighestScore.textContent = school.highest_score ? school.highest_score.toFixed(4) : '-';
 
@@ -535,6 +558,12 @@ async function refreshSingleSchool(id) {
         
         console.log(`Live refreshed SMPN ${id} successfully.`);
         calculateAndRender();
+
+        // Save to localStorage
+        localStorage.setItem('smp_live_data', JSON.stringify({
+          schools: state.schools,
+          lastUpdated: state.lastUpdated || new Date().toISOString()
+        }));
       }
     }
   } catch (error) {
@@ -628,6 +657,12 @@ async function runBrowserScraper() {
   // Update timestamps
   state.lastUpdated = new Date().toISOString();
   elUpdateTimestamp.textContent = `Data diupdate (Browser): ${new Date().toLocaleString('id-ID')}`;
+
+  // Save to localStorage
+  localStorage.setItem('smp_live_data', JSON.stringify({
+    schools: state.schools,
+    lastUpdated: state.lastUpdated
+  }));
   
   // Re-save or just notify and render
   calculateAndRender();
