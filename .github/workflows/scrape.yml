@@ -1,0 +1,32 @@
+name: Auto Scrape SMP Data
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Berjalan otomatis setiap 15 menit
+  workflow_dispatch: # Memungkinkan pencetan tombol manual dari tab Actions di GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Run Scraper
+        run: node scrape.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/smp_data.json
+          git diff-index --quiet HEAD || (echo "No changes to commit" && exit 0)
+          git commit -m "Auto-update SMP data [skip ci]"
+          git push
