@@ -23,6 +23,39 @@ const MIME_TYPES = {
 const server = http.createServer((req, res) => {
   console.log(`${req.method} ${req.url}`);
 
+  // Handle local proxy requests to bypass CORS
+  if (req.url.startsWith('/api/proxy')) {
+    const urlObj = new URL(req.url, `http://${req.headers.host}`);
+    const id = urlObj.searchParams.get('id');
+    if (!id) {
+      res.writeHead(400, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ error: 'Missing school id parameter' }));
+      return;
+    }
+    const targetUrl = `https://smpapi2.spmbsurabaya.net/api/ranking/negeri/rapor/${id}`;
+    const options = {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'application/json',
+        'Referer': 'https://smp.spmbsurabaya.net/',
+        'Origin': 'https://smp.spmbsurabaya.net'
+      }
+    };
+    import('https').then((https) => {
+      https.get(targetUrl, options, (targetRes) => {
+        res.writeHead(targetRes.statusCode, {
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*'
+        });
+        targetRes.pipe(res);
+      }).on('error', (err) => {
+        res.writeHead(500, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ error: err.message }));
+      });
+    });
+    return;
+  }
+
   // Handle URL normalization
   let filePath = req.url === '/' 
     ? path.join(__dirname, 'index.html') 

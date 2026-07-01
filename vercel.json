@@ -4,6 +4,11 @@
     { "src": "index.html", "use": "@vercel/static" },
     { "src": "style.css", "use": "@vercel/static" },
     { "src": "app.js", "use": "@vercel/static" },
-    { "src": "data/smp_data.json", "use": "@vercel/static" }
+    { "src": "data/smp_data.json", "use": "@vercel/static" },
+    { "src": "api/proxy.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/proxy", "dest": "/api/proxy.js" },
+    { "src": "/(.*)", "dest": "/$1" }
   ]
 }

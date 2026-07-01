@@ -140,7 +140,7 @@ function setupEventListeners() {
 
 function setupPopupEvents() {
   elBtnRefreshData.addEventListener('click', () => {
-    elRefreshPopup.classList.remove('hidden');
+    runBrowserScraper();
   });
 
   elPopupClose.addEventListener('click', () => {
@@ -526,7 +526,7 @@ function insertUserRow(tbody, score) {
 
 // Refresh Live data for a single school directly via client fetch
 async function refreshSingleSchool(id) {
-  const url = `https://smpapi2.spmbsurabaya.net/api/ranking/negeri/rapor/${id}`;
+  const url = `/api/proxy?id=${id}`;
   try {
     const res = await fetch(url);
     if (!res.ok) throw new Error(`HTTP status ${res.status}`);
@@ -582,28 +582,27 @@ async function refreshSingleSchool(id) {
 }
 
 // Client-side scraper loop in browser
+// Client-side scraper loop in browser (Parallelized)
 async function runBrowserScraper() {
   elSchoolsGrid.innerHTML = `
     <div class="loading-state">
       <div class="spinner"></div>
-      <p id="scrape-progress-text">Memulai refresh seluruh data via browser (0/63)...</p>
-      <p class="text-xs text-muted">Silakan tunggu, ini membutuhkan waktu sekitar 15-20 detik.</p>
+      <p id="scrape-progress-text">Menghubungkan ke API pusat (0/63)...</p>
+      <p class="text-xs text-muted">Sedang mengunduh data real-time untuk 63 sekolah...</p>
     </div>
   `;
 
   const total = 63;
   let countSuccess = 0;
+  const textEl = document.getElementById('scrape-progress-text');
+  
+  const fetchPromises = [];
 
   for (let id = 1; id <= total; id++) {
-    const textEl = document.getElementById('scrape-progress-text');
-    if (textEl) {
-      textEl.textContent = `Mengunduh data SMPN ${id} Surabaya (${id}/${total})...`;
-    }
-
-    try {
-      const url = `https://smpapi2.spmbsurabaya.net/api/ranking/negeri/rapor/${id}`;
-      const res = await fetch(url);
-      if (res.ok) {
+    const url = `/api/proxy?id=${id}`;
+    const promise = fetch(url)
+      .then(async (res) => {
+        if (!res.ok) throw new Error(`HTTP status ${res.status}`);
         const result = await res.json();
         if (result && result.success && result.data) {
           const d = result.data;
@@ -647,15 +646,22 @@ async function runBrowserScraper() {
           } else {
             state.schools.push(schoolObj);
           }
+          
           countSuccess++;
+          if (textEl) {
+            textEl.textContent = `Mengunduh data real-time: Berhasil ${countSuccess}/${total} sekolah...`;
+          }
         }
-      }
-    } catch (e) {
-      console.warn(`Browser scraper failed for school ${id}:`, e);
-    }
-    // Small delay to prevent rate limiting
-    await new Promise(r => setTimeout(r, 150));
+      })
+      .catch(err => {
+        console.warn(`Browser scraper failed for school ${id}:`, err);
+      });
+    
+    fetchPromises.push(promise);
   }
+
+  // Wait for all fetches to complete
+  await Promise.all(fetchPromises);
 
   // Update timestamps
   state.lastUpdated = new Date().toISOString();
