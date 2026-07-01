@@ -27,7 +27,6 @@ const elSortBy = document.getElementById('sort-by');
 
 // Counters
 const elCountSafe = document.getElementById('count-safe');
-const elCountWarning = document.getElementById('count-warning');
 const elCountDanger = document.getElementById('count-danger');
 
 // Modal Elements
@@ -192,12 +191,9 @@ function evaluateSchool(school) {
       userTotal: userTotal
     };
   } else {
-    // If gap is small, show as warning, else danger
-    const status = gap >= -2.0 ? 'warning' : 'danger';
-    const badgeText = gap >= -2.0 ? 'KRITIS' : 'GUGUR';
     return {
-      status: status,
-      badgeText: badgeText,
+      status: 'danger',
+      badgeText: 'GUGUR',
       description: `Nilai Akhir Anda (${userTotal.toFixed(4)}) di bawah passing grade (${gap.toFixed(4)}).`,
       tkaRequired: tkaRequired,
       userTotal: userTotal
@@ -210,20 +206,17 @@ function calculateAndRender() {
   if (state.schools.length === 0) return;
 
   let safeCount = 0;
-  let warningCount = 0;
   let dangerCount = 0;
 
   // Add evaluation data to each school object in memory
   state.schools.forEach(school => {
     school.eval = evaluateSchool(school);
     if (school.eval.status === 'safe') safeCount++;
-    else if (school.eval.status === 'warning') warningCount++;
     else if (school.eval.status === 'danger') dangerCount++;
   });
 
   // Update counter elements
   elCountSafe.textContent = safeCount;
-  elCountWarning.textContent = warningCount;
   elCountDanger.textContent = dangerCount;
 
   // Render list
@@ -246,13 +239,9 @@ function updateTextSummary() {
 
   // Filter schools by status
   const safeSchools = state.schools.filter(s => s.eval.status === 'safe');
-  const warningSchools = state.schools.filter(s => s.eval.status === 'warning');
 
   // Sort safe schools: safest first (lowest 'lowest_score')
   safeSchools.sort((a, b) => (a.lowest_score || 0) - (b.lowest_score || 0));
-
-  // Sort warning schools: easiest first (lowest 'tkaRequired')
-  warningSchools.sort((a, b) => a.eval.tkaRequired - b.eval.tkaRequired);
 
   let htmlContent = '';
 
@@ -263,7 +252,7 @@ function updateTextSummary() {
       <div class="summary-text-item">
         <div class="summary-section-title">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--color-safe)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-          <span style="color: var(--color-safe)">Peluang Diterima Tinggi:</span>
+          <span style="color: var(--color-safe)">Berpeluang Lolos:</span>
         </div>
         <p>Anda berpeluang tinggi diterima di: ${safeNamesList}.</p>
       </div>
@@ -273,36 +262,9 @@ function updateTextSummary() {
       <div class="summary-text-item">
         <div class="summary-section-title">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--color-danger)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
-          <span style="color: var(--color-danger)">Peluang Diterima Tinggi:</span>
+          <span style="color: var(--color-danger)">Berpeluang Lolos:</span>
         </div>
         <p>Nilai Anda saat ini belum berada di zona aman untuk sekolah mana pun.</p>
-      </div>
-    `;
-  }
-
-  // 2. Warning/Borderline summary
-  if (warningSchools.length > 0) {
-    const warningNamesList = warningSchools.map(s => `<strong>${s.nama}</strong>`).join(', ');
-    
-    const desc = `Nilai Akhir Anda mendekati batas passing grade (berselisih tipis) di: ${warningNamesList}.`;
-    
-    htmlContent += `
-      <div class="summary-text-item" style="border-top: 1px solid var(--card-inner-border); padding-top: 0.75rem;">
-        <div class="summary-section-title">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--color-warning)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
-          <span style="color: var(--color-warning)">Mendekati Batas Nilai Terakhir:</span>
-        </div>
-        <p>${desc}</p>
-      </div>
-    `;
-  } else {
-    htmlContent += `
-      <div class="summary-text-item" style="border-top: 1px solid var(--card-inner-border); padding-top: 0.75rem;">
-        <div class="summary-section-title">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
-          <span style="color: var(--text-muted)">Mendekati Batas Nilai Terakhir:</span>
-        </div>
-        <p>Tidak ada sekolah yang nilainya mendekati batas kelolosan tipis.</p>
       </div>
     `;
   }
