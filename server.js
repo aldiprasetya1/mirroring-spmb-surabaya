@@ -27,12 +27,21 @@ const server = http.createServer((req, res) => {
   if (req.url.startsWith('/api/proxy')) {
     const urlObj = new URL(req.url, `http://${req.headers.host}`);
     const id = urlObj.searchParams.get('id');
+    const type = urlObj.searchParams.get('type');
     if (!id) {
       res.writeHead(400, { 'Content-Type': 'application/json' });
       res.end(JSON.stringify({ error: 'Missing school id parameter' }));
       return;
     }
-    const targetUrl = `https://smpapi2.spmbsurabaya.net/api/ranking/negeri/rapor/${id}`;
+    
+    let subpath = 'rapor';
+    if (type === 'domisili-1' || type === 'domisili') {
+      subpath = 'domisili';
+    } else if (type === 'domisili-2' || type === 'domisili-khusus') {
+      subpath = 'domisili-khusus';
+    }
+
+    const targetUrl = `https://smpapi2.spmbsurabaya.net/api/ranking/negeri/${subpath}/${id}`;
     const options = {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',

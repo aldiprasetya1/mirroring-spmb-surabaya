@@ -3,12 +3,20 @@ export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
 
-  const { id } = req.query;
+  const { id, type } = req.query;
   if (!id) {
     return res.status(400).json({ error: 'Missing school id parameter' });
   }
 
-  const targetUrl = `https://smpapi2.spmbsurabaya.net/api/ranking/negeri/rapor/${id}`;
+  // Determine target endpoint based on type
+  let path = 'rapor';
+  if (type === 'domisili-1' || type === 'domisili') {
+    path = 'domisili';
+  } else if (type === 'domisili-2' || type === 'domisili-khusus') {
+    path = 'domisili-khusus';
+  }
+
+  const targetUrl = `https://smpapi2.spmbsurabaya.net/api/ranking/negeri/${path}/${id}`;
 
   try {
     const response = await fetch(targetUrl, {
