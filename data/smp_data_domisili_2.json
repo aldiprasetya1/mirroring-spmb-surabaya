@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T17:18:37.256Z",
+  "last_updated": "2026-07-05T18:39:12.096Z",
   "schools": [
     {
       "id": 1,
@@ -10,7 +10,7 @@
       "total_pendaftar": 78,
       "highest_score": 683.69892,
       "lowest_score": 2277.20421,
-      "waktu_api": "2026-07-05T17:13:01.869332Z",
+      "waktu_api": "2026-07-05T18:13:21.207657Z",
       "ranking": [
         {
           "urutan": 1,
@@ -361,11 +361,11 @@
       "nama": "SMPN 2 Surabaya",
       "pagu": 60,
       "jp_pilihan1": 28,
-      "jp_pilihan2": 44,
-      "total_pendaftar": 72,
+      "jp_pilihan2": 45,
+      "total_pendaftar": 73,
       "highest_score": 1757.51617,
       "lowest_score": 2835.30454,
-      "waktu_api": "2026-07-05T17:12:11.433221Z",
+      "waktu_api": "2026-07-05T18:12:29.392060Z",
       "ranking": [
         {
           "urutan": 1,
@@ -756,7 +756,7 @@
       "total_pendaftar": 52,
       "highest_score": 584.61359,
       "lowest_score": 2148.43389,
-      "waktu_api": "2026-07-05T17:14:17.003263Z",
+      "waktu_api": "2026-07-05T18:15:35.527273Z",
       "ranking": [
         {
           "urutan": 1,
@@ -967,7 +967,7 @@
       "total_pendaftar": 51,
       "highest_score": 558.11466,
       "lowest_score": 1881.82551,
-      "waktu_api": "2026-07-05T16:49:32.636323Z",
+      "waktu_api": "2026-07-05T18:35:01.662717Z",
       "ranking": [
         {
           "urutan": 1,
@@ -1106,7 +1106,7 @@
       "total_pendaftar": 161,
       "highest_score": 363.4163,
       "lowest_score": 902.46937,
-      "waktu_api": "2026-07-05T17:11:56.480888Z",
+      "waktu_api": "2026-07-05T18:12:15.948175Z",
       "ranking": [
         {
           "urutan": 1,
@@ -1479,7 +1479,7 @@
       "total_pendaftar": 419,
       "highest_score": 645.57542,
       "lowest_score": 745.02598,
-      "waktu_api": "2026-07-05T17:12:03.210493Z",
+      "waktu_api": "2026-07-05T18:13:13.722698Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2082,11 +2082,11 @@
       "nama": "SMPN 7 Surabaya",
       "pagu": 50,
       "jp_pilihan1": 26,
-      "jp_pilihan2": 60,
-      "total_pendaftar": 86,
+      "jp_pilihan2": 63,
+      "total_pendaftar": 89,
       "highest_score": 1300.59306,
       "lowest_score": 1606.72672,
-      "waktu_api": "2026-07-05T17:13:08.667488Z",
+      "waktu_api": "2026-07-05T18:13:32.969863Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2313,28 +2313,10 @@
       "jp_pilihan1": 12,
       "jp_pilihan2": 102,
       "total_pendaftar": 114,
-      "highest_score": 1960.13998,
+      "highest_score": 11.84895,
       "lowest_score": 1686.07181,
-      "waktu_api": "2026-07-05T16:48:25.660111Z",
+      "waktu_api": "2026-07-05T18:30:40.407138Z",
       "ranking": [
-        {
-          "urutan": 1,
-          "nama_siswa": "THALIA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:07:47",
-          "sekolah_asal": "SDN KREMBANGAN UTARA II/57",
-          "jarak": 1960.13998,
-          "asal_kelurahan": "KREMBANGANUTARA"
-        },
-        {
-          "urutan": 1,
-          "nama_siswa": "VIRA FATMARROHMA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 03:26:40",
-          "sekolah_asal": "SDN KREMBANGAN SELATAN X",
-          "jarak": 2189.47451,
-          "asal_kelurahan": "TANJUNGPERAK"
-        },
         {
           "urutan": 1,
           "nama_siswa": "NASYWA QUROTA`AYUN",
@@ -2346,12 +2328,48 @@
         },
         {
           "urutan": 1,
+          "nama_siswa": "THALIA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:07:47",
+          "sekolah_asal": "SDN KREMBANGAN UTARA II/57",
+          "jarak": 1960.13998,
+          "asal_kelurahan": "KREMBANGANUTARA"
+        },
+        {
+          "urutan": 1,
           "nama_siswa": "FABIIA ZAHRA RAZULLA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 14:19:49",
           "sekolah_asal": "SDN TANAH KALI KEDINDING V",
           "jarak": 870.57977,
           "asal_kelurahan": "NYAMPLUNGAN"
+        },
+        {
+          "urutan": 1,
+          "nama_siswa": "VIRA FATMARROHMA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 03:26:40",
+          "sekolah_asal": "SDN KREMBANGAN SELATAN X",
+          "jarak": 2189.47451,
+          "asal_kelurahan": "TANJUNGPERAK"
+        },
+        {
+          "urutan": 2,
+          "nama_siswa": "R. AHMAD DAFA MAARIF",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:19:04",
+          "sekolah_asal": "SDN KREMBANGAN SELATAN IX NO. 20",
+          "jarak": 2218.55071,
+          "asal_kelurahan": "TANJUNGPERAK"
+        },
+        {
+          "urutan": 2,
+          "nama_siswa": "ALVONIX TRISTAN PANDY",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 06:53:16",
+          "sekolah_asal": "SD ST. JOSEPH RAJAWALI",
+          "jarak": 1967.29318,
+          "asal_kelurahan": "KREMBANGANUTARA"
         },
         {
           "urutan": 2,
@@ -2372,22 +2390,13 @@
           "asal_kelurahan": "NYAMPLUNGAN"
         },
         {
-          "urutan": 2,
-          "nama_siswa": "ALVONIX TRISTAN PANDY",
+          "urutan": 3,
+          "nama_siswa": "DEVINA AULIA RAHMA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:53:16",
-          "sekolah_asal": "SD ST. JOSEPH RAJAWALI",
-          "jarak": 1967.29318,
-          "asal_kelurahan": "KREMBANGANUTARA"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "R. AHMAD DAFA MAARIF",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:19:04",
-          "sekolah_asal": "SDN KREMBANGAN SELATAN IX NO. 20",
-          "jarak": 2218.55071,
-          "asal_kelurahan": "TANJUNGPERAK"
+          "waktu_pendaftaran": "2026-07-05 02:10:36",
+          "sekolah_asal": "SDN SIDODADI II/154",
+          "jarak": 890.13746,
+          "asal_kelurahan": "NYAMPLUNGAN"
         },
         {
           "urutan": 3,
@@ -2400,15 +2409,6 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "AJI PRASETYO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:22:56",
-          "sekolah_asal": "SDN SIMOKERTO I/134",
-          "jarak": 445.56603,
-          "asal_kelurahan": "BONGKARAN"
-        },
-        {
-          "urutan": 3,
           "nama_siswa": "ABIZAR LUCKY PERDANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 16:27:38",
@@ -2418,21 +2418,21 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "DEVINA AULIA RAHMA",
+          "nama_siswa": "AJI PRASETYO",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:10:36",
-          "sekolah_asal": "SDN SIDODADI II/154",
-          "jarak": 890.13746,
-          "asal_kelurahan": "NYAMPLUNGAN"
+          "waktu_pendaftaran": "2026-07-05 01:22:56",
+          "sekolah_asal": "SDN SIMOKERTO I/134",
+          "jarak": 445.56603,
+          "asal_kelurahan": "BONGKARAN"
         },
         {
           "urutan": 4,
-          "nama_siswa": "VICKO ALDIANSYAH",
+          "nama_siswa": "SABRINA AZ ZAHRA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:05:19",
-          "sekolah_asal": "MIS DARUL HIJRAH",
-          "jarak": 900.2667,
-          "asal_kelurahan": "NYAMPLUNGAN"
+          "waktu_pendaftaran": "2026-07-05 01:12:33",
+          "sekolah_asal": "MIS AL AZIEZ",
+          "jarak": 642.40564,
+          "asal_kelurahan": "BONGKARAN"
         },
         {
           "urutan": 4,
@@ -2445,21 +2445,21 @@
         },
         {
           "urutan": 4,
+          "nama_siswa": "VICKO ALDIANSYAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:05:19",
+          "sekolah_asal": "MIS DARUL HIJRAH",
+          "jarak": 900.2667,
+          "asal_kelurahan": "NYAMPLUNGAN"
+        },
+        {
+          "urutan": 4,
           "nama_siswa": "NESYA AULIA AZZAHRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:26:51",
           "sekolah_asal": "SDN KREMBANGAN UTARA I/56",
           "jarak": 2226.3443,
           "asal_kelurahan": "TANJUNGPERAK"
-        },
-        {
-          "urutan": 4,
-          "nama_siswa": "SABRINA AZ ZAHRA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:12:33",
-          "sekolah_asal": "MIS AL AZIEZ",
-          "jarak": 642.40564,
-          "asal_kelurahan": "BONGKARAN"
         },
         {
           "urutan": 5,
@@ -2490,21 +2490,21 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "RIZKI HISAN HABIBI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 12:58:09",
-          "sekolah_asal": "SDN UJUNG V / 30",
-          "jarak": 1523.08008,
-          "asal_kelurahan": "NYAMPLUNGAN"
-        },
-        {
-          "urutan": 6,
           "nama_siswa": "EARLYTA ARSYIFA DWI PUTRI WARDANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 15:41:28",
           "sekolah_asal": "MIS NURUL QOMAR",
           "jarak": 2236.93762,
           "asal_kelurahan": "TANJUNGPERAK"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "RIZKI HISAN HABIBI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 12:58:09",
+          "sekolah_asal": "SDN UJUNG V / 30",
+          "jarak": 1523.08008,
+          "asal_kelurahan": "NYAMPLUNGAN"
         },
         {
           "urutan": 6,
@@ -2517,21 +2517,21 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "ALIFIYANDRA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 12:20:47",
-          "sekolah_asal": "SD ISLAM MUFIDAH SURABAYA",
-          "jarak": 1632.33567,
-          "asal_kelurahan": "NYAMPLUNGAN"
-        },
-        {
-          "urutan": 7,
           "nama_siswa": "NAYLA ZALSABILLA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:19:36",
           "sekolah_asal": "SDN KREMBANGAN UTARA I/56",
           "jarak": 2240.15988,
           "asal_kelurahan": "TANJUNGPERAK"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "ALIFIYANDRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 12:20:47",
+          "sekolah_asal": "SD ISLAM MUFIDAH SURABAYA",
+          "jarak": 1632.33567,
+          "asal_kelurahan": "NYAMPLUNGAN"
         },
         {
           "urutan": 7,
@@ -2577,6 +2577,15 @@
           "sekolah_asal": "SD ISLAM MUFIDAH SURABAYA",
           "jarak": 1666.07335,
           "asal_kelurahan": "NYAMPLUNGAN"
+        },
+        {
+          "urutan": 9,
+          "nama_siswa": "ATALLAH SYAMSI IBRAHIM",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:02:14",
+          "sekolah_asal": "SDN Tempursari 01",
+          "jarak": 2290.25108,
+          "asal_kelurahan": "KREMBANGANUTARA"
         },
         {
           "urutan": 9,
@@ -2629,31 +2638,13 @@
       "id": 9,
       "nama": "SMPN 9 Surabaya",
       "pagu": 56,
-      "jp_pilihan1": 102,
-      "jp_pilihan2": 348,
-      "total_pendaftar": 450,
-      "highest_score": 604.89622,
-      "lowest_score": 677.60625,
-      "waktu_api": "2026-07-05T17:10:54.229702Z",
+      "jp_pilihan1": 104,
+      "jp_pilihan2": 349,
+      "total_pendaftar": 453,
+      "highest_score": 358.89961,
+      "lowest_score": 376.80397,
+      "waktu_api": "2026-07-05T18:11:32.860897Z",
       "ranking": [
-        {
-          "urutan": 1,
-          "nama_siswa": "AYU DEWI SAFIRA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 22:21:33",
-          "sekolah_asal": "SDN TAMBAKSARI  I",
-          "jarak": 604.89622,
-          "asal_kelurahan": "TAMBAKSARI"
-        },
-        {
-          "urutan": 1,
-          "nama_siswa": "FARHAN DZAKI IRFANUL QOWI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 14:02:13",
-          "sekolah_asal": "SD IT AR-RAHMAH",
-          "jarak": 364.0011,
-          "asal_kelurahan": "KAPASMADYABARU"
-        },
         {
           "urutan": 1,
           "nama_siswa": "MICHAEL ADAM AKAZZA",
@@ -2665,12 +2656,30 @@
         },
         {
           "urutan": 1,
+          "nama_siswa": "ZJHAWA NAYDIZA SAFRINA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 00:09:10",
+          "sekolah_asal": "SDN TAMBAKSARI  I",
+          "jarak": 586.4245,
+          "asal_kelurahan": "TAMBAKSARI"
+        },
+        {
+          "urutan": 1,
           "nama_siswa": "MUHAMMAD FEMI VEBRIANTO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:27:26",
           "sekolah_asal": "SDN GADING III",
           "jarak": 1526.14971,
           "asal_kelurahan": "DUKUHSETRO"
+        },
+        {
+          "urutan": 1,
+          "nama_siswa": "SATRIA YOGA SANTOSO",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:09:09",
+          "sekolah_asal": "SDN PLOSO V/176",
+          "jarak": 615.86691,
+          "asal_kelurahan": "GADING"
         },
         {
           "urutan": 1,
@@ -2692,12 +2701,12 @@
         },
         {
           "urutan": 1,
-          "nama_siswa": "SATRIA YOGA SANTOSO",
+          "nama_siswa": "FARHAN DZAKI IRFANUL QOWI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:09:09",
-          "sekolah_asal": "SDN PLOSO V/176",
-          "jarak": 615.86691,
-          "asal_kelurahan": "GADING"
+          "waktu_pendaftaran": "2026-07-05 14:02:13",
+          "sekolah_asal": "SD IT AR-RAHMAH",
+          "jarak": 364.0011,
+          "asal_kelurahan": "KAPASMADYABARU"
         },
         {
           "urutan": 1,
@@ -2710,21 +2719,12 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "WILLYAM RUSANDY",
+          "nama_siswa": "SALSABILLA PUSPITA CAHYA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 05:43:02",
-          "sekolah_asal": "SDN RANGKAH I",
-          "jarak": 612.39112,
-          "asal_kelurahan": "TAMBAKSARI"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "HABIBIE MIKAEL AL SULAEMAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 15:18:09",
-          "sekolah_asal": "SDN RANGKAH VI/168",
-          "jarak": 364.49315,
-          "asal_kelurahan": "RANGKAH"
+          "waktu_pendaftaran": "2026-07-05 04:43:20",
+          "sekolah_asal": "SDN PLOSO III NO.174",
+          "jarak": 758.9715,
+          "asal_kelurahan": "GADING"
         },
         {
           "urutan": 2,
@@ -2734,15 +2734,6 @@
           "sekolah_asal": "SDS MUHAMMADIYAH 26 SURABAYA",
           "jarak": 704.16346,
           "asal_kelurahan": "PACARKEMBANG"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "SALSABILLA PUSPITA CAHYA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 04:43:20",
-          "sekolah_asal": "SDN PLOSO III NO.174",
-          "jarak": 758.9715,
-          "asal_kelurahan": "GADING"
         },
         {
           "urutan": 2,
@@ -2764,6 +2755,15 @@
         },
         {
           "urutan": 2,
+          "nama_siswa": "HABIBIE MIKAEL AL SULAEMAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 15:18:09",
+          "sekolah_asal": "SDN RANGKAH VI/168",
+          "jarak": 364.49315,
+          "asal_kelurahan": "RANGKAH"
+        },
+        {
+          "urutan": 2,
           "nama_siswa": "DEBBY TRISYOU WANITA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:51",
@@ -2781,31 +2781,13 @@
           "asal_kelurahan": "PLOSO"
         },
         {
-          "urutan": 3,
-          "nama_siswa": "FARIS AMRUN PUTRA PRATELLA",
+          "urutan": 2,
+          "nama_siswa": "AYU DEWI SAFIRA",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 11:27:17",
-          "sekolah_asal": "SDN PACARKEMBANG I/192",
-          "jarak": 621.54167,
-          "asal_kelurahan": "PACARKELING"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "SALSA AYU PUSPITASARI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 12:45:56",
-          "sekolah_asal": "SDN GADING III",
-          "jarak": 1541.75951,
-          "asal_kelurahan": "DUKUHSETRO"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "AIRA SYAHRAINI PUTRI ADNAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:02:07",
-          "sekolah_asal": "SDN GADING I",
-          "jarak": 760.81663,
-          "asal_kelurahan": "GADING"
+          "waktu_pendaftaran": "2026-07-05 22:21:33",
+          "sekolah_asal": "SDN TAMBAKSARI  I",
+          "jarak": 604.89622,
+          "asal_kelurahan": "TAMBAKSARI"
         },
         {
           "urutan": 3,
@@ -2818,21 +2800,12 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "KALIANDRA AZFAR IKARADHI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:17:03",
-          "sekolah_asal": "SDN MOJO VI / 225",
-          "jarak": 218.02366,
-          "asal_kelurahan": "PLOSO"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "DIAN ALIYAH NURJANAH",
+          "nama_siswa": "SALSA AYU PUSPITASARI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:15:58",
-          "sekolah_asal": "SDN PLOSO I/172",
-          "jarak": 621.91662,
-          "asal_kelurahan": "TAMBAKSARI"
+          "waktu_pendaftaran": "2026-07-05 12:45:56",
+          "sekolah_asal": "SDN GADING III",
+          "jarak": 1541.75951,
+          "asal_kelurahan": "DUKUHSETRO"
         },
         {
           "urutan": 3,
@@ -2845,12 +2818,57 @@
         },
         {
           "urutan": 3,
+          "nama_siswa": "WILLYAM RUSANDY",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 05:43:02",
+          "sekolah_asal": "SDN RANGKAH I",
+          "jarak": 612.39112,
+          "asal_kelurahan": "TAMBAKSARI"
+        },
+        {
+          "urutan": 3,
           "nama_siswa": "ELVINA SALSABILLAH",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 05:35:19",
           "sekolah_asal": "SDN PACARKEMBANG I/192",
           "jarak": 722.78666,
           "asal_kelurahan": "PACARKEMBANG"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "ALYSIA SALSABILLA RAMADHANI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 00:20:23",
+          "sekolah_asal": "SDN PACARKELING IX/190",
+          "jarak": 609.81365,
+          "asal_kelurahan": "PACARKELING"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "KALIANDRA AZFAR IKARADHI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:17:03",
+          "sekolah_asal": "SDN MOJO VI / 225",
+          "jarak": 218.02366,
+          "asal_kelurahan": "PLOSO"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "AIRA SYAHRAINI PUTRI ADNAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:02:07",
+          "sekolah_asal": "SDN GADING I",
+          "jarak": 760.81663,
+          "asal_kelurahan": "GADING"
+        },
+        {
+          "urutan": 4,
+          "nama_siswa": "MUHAMMAD AL GHOZALI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 22:05:35",
+          "sekolah_asal": "SDN BULAK RUKEM I No. 258",
+          "jarak": 803.60921,
+          "asal_kelurahan": "GADING"
         },
         {
           "urutan": 4,
@@ -2863,11 +2881,11 @@
         },
         {
           "urutan": 4,
-          "nama_siswa": "FATHAN AL-MAIZAN EFENDI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 10:32:02",
-          "sekolah_asal": "SDN KAPASARI VIII",
-          "jarak": 633.15886,
+          "nama_siswa": "FARIS AMRUN PUTRA PRATELLA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 11:27:17",
+          "sekolah_asal": "SDN PACARKEMBANG I/192",
+          "jarak": 621.54167,
           "asal_kelurahan": "PACARKELING"
         },
         {
@@ -2881,12 +2899,12 @@
         },
         {
           "urutan": 4,
-          "nama_siswa": "JAKA PUTRA MAULANA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 08:16:37",
-          "sekolah_asal": "SDN RANGKAH VI/168",
-          "jarak": 391.00236,
-          "asal_kelurahan": "RANGKAH"
+          "nama_siswa": "MALIKA APRIANI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:01:24",
+          "sekolah_asal": "SDN RANGKAH I",
+          "jarak": 313.4733,
+          "asal_kelurahan": "PLOSO"
         },
         {
           "urutan": 4,
@@ -2899,84 +2917,21 @@
         },
         {
           "urutan": 4,
-          "nama_siswa": "MALIKA APRIANI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:01:24",
-          "sekolah_asal": "SDN RANGKAH I",
-          "jarak": 313.4733,
-          "asal_kelurahan": "PLOSO"
-        },
-        {
-          "urutan": 4,
-          "nama_siswa": "ALVARO JUNIOR ROHMAN",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 20:36:49",
-          "sekolah_asal": "SDN PACARKELING V",
-          "jarak": 630.49519,
+          "nama_siswa": "DIAN ALIYAH NURJANAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:15:58",
+          "sekolah_asal": "SDN PLOSO I/172",
+          "jarak": 621.91662,
           "asal_kelurahan": "TAMBAKSARI"
         },
         {
           "urutan": 4,
-          "nama_siswa": "MUHAMMAD AL GHOZALI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 22:05:35",
-          "sekolah_asal": "SDN BULAK RUKEM I No. 258",
-          "jarak": 803.60921,
-          "asal_kelurahan": "GADING"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "ALIYYAH TALITA ZAHRA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 07:00:34",
-          "sekolah_asal": "SDN GADING III",
-          "jarak": 1591.47565,
-          "asal_kelurahan": "DUKUHSETRO"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "BOY ALVAN",
+          "nama_siswa": "JAKA PUTRA MAULANA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:28:45",
+          "waktu_pendaftaran": "2026-07-05 08:16:37",
           "sekolah_asal": "SDN RANGKAH VI/168",
-          "jarak": 711.83893,
-          "asal_kelurahan": "KAPASMADYABARU"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "MUHAMMAD ZHAFRAN ELFRADO BRAMANTIO",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 08:14:19",
-          "sekolah_asal": "SD ISLAM AL AZHAR 35 SURABAYA",
-          "jarak": 670.45475,
-          "asal_kelurahan": "PACARKELING"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "IRSYAD ARIEF PRASTYO UTOMO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:31:44",
-          "sekolah_asal": "SD MUHAMMADIYAH 8 SURABAYA",
-          "jarak": 647.33105,
-          "asal_kelurahan": "TAMBAKSARI"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "NAFISA MAULIDYA AN'NISACIPTA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:47:57",
-          "sekolah_asal": "SDN GADING I",
-          "jarak": 815.80436,
-          "asal_kelurahan": "GADING"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "CAHAYA PUTRY MEZZALUNA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:15:47",
-          "sekolah_asal": "SDN PACARKEMBANG I/192",
-          "jarak": 802.42356,
-          "asal_kelurahan": "PACARKEMBANG"
+          "jarak": 391.00236,
+          "asal_kelurahan": "RANGKAH"
         },
         {
           "urutan": 5,
@@ -2997,13 +2952,58 @@
           "asal_kelurahan": "PLOSO"
         },
         {
-          "urutan": 6,
-          "nama_siswa": "ADRIEL ARFIANSYAH",
+          "urutan": 5,
+          "nama_siswa": "FATHAN AL-MAIZAN EFENDI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 10:32:02",
+          "sekolah_asal": "SDN KAPASARI VIII",
+          "jarak": 633.15886,
+          "asal_kelurahan": "PACARKELING"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "BOY ALVAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:28:45",
+          "sekolah_asal": "SDN RANGKAH VI/168",
+          "jarak": 711.83893,
+          "asal_kelurahan": "KAPASMADYABARU"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "ALIYYAH TALITA ZAHRA",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 19:10:38",
-          "sekolah_asal": "SDN RANGKAH I",
-          "jarak": 409.89593,
-          "asal_kelurahan": "RANGKAH"
+          "waktu_pendaftaran": "2026-07-05 07:00:34",
+          "sekolah_asal": "SDN GADING III",
+          "jarak": 1591.47565,
+          "asal_kelurahan": "DUKUHSETRO"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "CAHAYA PUTRY MEZZALUNA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:15:47",
+          "sekolah_asal": "SDN PACARKEMBANG I/192",
+          "jarak": 802.42356,
+          "asal_kelurahan": "PACARKEMBANG"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "NAFISA MAULIDYA AN'NISACIPTA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:47:57",
+          "sekolah_asal": "SDN GADING I",
+          "jarak": 815.80436,
+          "asal_kelurahan": "GADING"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "ALVARO JUNIOR ROHMAN",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 20:36:49",
+          "sekolah_asal": "SDN PACARKELING V",
+          "jarak": 630.49519,
+          "asal_kelurahan": "TAMBAKSARI"
         },
         {
           "urutan": 6,
@@ -3013,6 +3013,15 @@
           "sekolah_asal": "SDN BULAK RUKEM I No. 258",
           "jarak": 362.79352,
           "asal_kelurahan": "PLOSO"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "ADRIEL ARFIANSYAH",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 19:10:38",
+          "sekolah_asal": "SDN RANGKAH I",
+          "jarak": 409.89593,
+          "asal_kelurahan": "RANGKAH"
         },
         {
           "urutan": 6,
@@ -3034,11 +3043,29 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "ENZO PRADIPTA YUDHA",
+          "nama_siswa": "AHMAD MA'RUF",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 05:59:40",
-          "sekolah_asal": "SDN RANGKAH VI/168",
-          "jarak": 684.92088,
+          "waktu_pendaftaran": "2026-07-05 01:06:48",
+          "sekolah_asal": "SDN GADING I",
+          "jarak": 1616.56486,
+          "asal_kelurahan": "DUKUHSETRO"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "MUHAMMAD ZHAFRAN ELFRADO BRAMANTIO",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 08:14:19",
+          "sekolah_asal": "SD ISLAM AL AZHAR 35 SURABAYA",
+          "jarak": 670.45475,
+          "asal_kelurahan": "PACARKELING"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "IRSYAD ARIEF PRASTYO UTOMO",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 02:31:44",
+          "sekolah_asal": "SD MUHAMMADIYAH 8 SURABAYA",
+          "jarak": 647.33105,
           "asal_kelurahan": "TAMBAKSARI"
         },
         {
@@ -3051,33 +3078,6 @@
           "asal_kelurahan": "GADING"
         },
         {
-          "urutan": 6,
-          "nama_siswa": "KHEVI ALLENA SWASTIKA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 03:40:55",
-          "sekolah_asal": "SDN PACARKELING V",
-          "jarak": 674.24541,
-          "asal_kelurahan": "PACARKELING"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "AHMAD MA'RUF",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:06:48",
-          "sekolah_asal": "SDN GADING I",
-          "jarak": 1616.56486,
-          "asal_kelurahan": "DUKUHSETRO"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "XEANO MAULANA BYFIE KURNIAWAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 09:53:30",
-          "sekolah_asal": "SDN KETABANG",
-          "jarak": 719.5002,
-          "asal_kelurahan": "TAMBAKSARI"
-        },
-        {
           "urutan": 7,
           "nama_siswa": "FACHRI HUDA SEPTIAWAN",
           "pilihan_ke": 2,
@@ -3085,15 +3085,6 @@
           "sekolah_asal": "SDN GADING IV",
           "jarak": 865.26083,
           "asal_kelurahan": "GADING"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "ALKHALIFI ZIKRI NUR HADI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:01:21",
-          "sekolah_asal": "SDN PLOSO III NO.174",
-          "jarak": 1641.72423,
-          "asal_kelurahan": "DUKUHSETRO"
         },
         {
           "urutan": 7,
@@ -3106,15 +3097,6 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "ANUGRAH ANAS HAFIZ AZZIKRI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 05:54:02",
-          "sekolah_asal": "SDN PACARKEMBANG IV",
-          "jarak": 866.10478,
-          "asal_kelurahan": "PACARKEMBANG"
-        },
-        {
-          "urutan": 7,
           "nama_siswa": "IQBAL AL FARISI",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 18:26:53",
@@ -3124,21 +3106,48 @@
         },
         {
           "urutan": 7,
+          "nama_siswa": "ENZO PRADIPTA YUDHA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 05:59:40",
+          "sekolah_asal": "SDN RANGKAH VI/168",
+          "jarak": 684.92088,
+          "asal_kelurahan": "TAMBAKSARI"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "ANUGRAH ANAS HAFIZ AZZIKRI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 05:54:02",
+          "sekolah_asal": "SDN PACARKEMBANG IV",
+          "jarak": 866.10478,
+          "asal_kelurahan": "PACARKEMBANG"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "ALKHALIFI ZIKRI NUR HADI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:01:21",
+          "sekolah_asal": "SDN PLOSO III NO.174",
+          "jarak": 1641.72423,
+          "asal_kelurahan": "DUKUHSETRO"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "KHEVI ALLENA SWASTIKA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 03:40:55",
+          "sekolah_asal": "SDN PACARKELING V",
+          "jarak": 674.24541,
+          "asal_kelurahan": "PACARKELING"
+        },
+        {
+          "urutan": 7,
           "nama_siswa": "ZAHIRAH KHAIRUNNISA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 03:04:56",
           "sekolah_asal": "SDN PLOSO I/172",
           "jarak": 376.80397,
           "asal_kelurahan": "PLOSO"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "GLEND HENDRIK TEHUPURING",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:08:39",
-          "sekolah_asal": "SDN PACARKELING V",
-          "jarak": 677.60625,
-          "asal_kelurahan": "PACARKELING"
         }
       ]
     },
@@ -3151,7 +3160,7 @@
       "total_pendaftar": 287,
       "highest_score": 907.90614,
       "lowest_score": 1363.27913,
-      "waktu_api": "2026-07-05T17:15:21.644789Z",
+      "waktu_api": "2026-07-05T18:17:20.276316Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3654,12 +3663,12 @@
       "id": 11,
       "nama": "SMPN 11 Surabaya",
       "pagu": 50,
-      "jp_pilihan1": 65,
-      "jp_pilihan2": 278,
-      "total_pendaftar": 343,
+      "jp_pilihan1": 66,
+      "jp_pilihan2": 280,
+      "total_pendaftar": 346,
       "highest_score": 63.29218,
       "lowest_score": 953.20111,
-      "waktu_api": "2026-07-05T17:17:25.446943Z",
+      "waktu_api": "2026-07-05T18:19:15.494706Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4118,11 +4127,11 @@
       "nama": "SMPN 12 Surabaya",
       "pagu": 66,
       "jp_pilihan1": 38,
-      "jp_pilihan2": 180,
-      "total_pendaftar": 218,
+      "jp_pilihan2": 181,
+      "total_pendaftar": 219,
       "highest_score": 1015.51175,
       "lowest_score": 826.25809,
-      "waktu_api": "2026-07-05T17:11:30.857591Z",
+      "waktu_api": "2026-07-05T18:13:21.029040Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4680,11 +4689,11 @@
       "nama": "SMPN 13 Surabaya",
       "pagu": 55,
       "jp_pilihan1": 36,
-      "jp_pilihan2": 102,
-      "total_pendaftar": 138,
+      "jp_pilihan2": 103,
+      "total_pendaftar": 139,
       "highest_score": 1252.50219,
       "lowest_score": 1120.88769,
-      "waktu_api": "2026-07-05T17:16:07.320736Z",
+      "waktu_api": "2026-07-05T18:18:56.479465Z",
       "ranking": [
         {
           "urutan": 1,
@@ -5181,10 +5190,28 @@
       "jp_pilihan1": 44,
       "jp_pilihan2": 236,
       "total_pendaftar": 280,
-      "highest_score": 539.76378,
-      "lowest_score": 832.91254,
-      "waktu_api": "2026-07-05T17:15:44.545630Z",
+      "highest_score": 236.17636,
+      "lowest_score": 1849.71835,
+      "waktu_api": "2026-07-05T18:30:15.364381Z",
       "ranking": [
+        {
+          "urutan": 1,
+          "nama_siswa": "NAJWA FANIA LUKMAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:03:10",
+          "sekolah_asal": "SDN BENOWO I",
+          "jarak": 236.17636,
+          "asal_kelurahan": "BENOWO"
+        },
+        {
+          "urutan": 1,
+          "nama_siswa": "RAFKHA YUSUF FARELLAWANTO",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:08:16",
+          "sekolah_asal": "SDN BENOWO I",
+          "jarak": 789.30297,
+          "asal_kelurahan": "SUMBERREJO"
+        },
         {
           "urutan": 1,
           "nama_siswa": "NAZWA ASHOFATUL IZZA",
@@ -5204,22 +5231,13 @@
           "asal_kelurahan": "BABATJERAWAT"
         },
         {
-          "urutan": 1,
-          "nama_siswa": "NAJWA FANIA LUKMAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:03:10",
-          "sekolah_asal": "SDN BENOWO I",
-          "jarak": 236.17636,
-          "asal_kelurahan": "BENOWO"
-        },
-        {
-          "urutan": 1,
-          "nama_siswa": "RAFKHA YUSUF FARELLAWANTO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:08:16",
-          "sekolah_asal": "SDN BENOWO I",
-          "jarak": 789.30297,
-          "asal_kelurahan": "SUMBERREJO"
+          "urutan": 2,
+          "nama_siswa": "AISSEAH HIDAYA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:02:40",
+          "sekolah_asal": "SDN BABAT JERAWAT I",
+          "jarak": 1605.44427,
+          "asal_kelurahan": "BABATJERAWAT"
         },
         {
           "urutan": 2,
@@ -5241,47 +5259,11 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "AISSEAH HIDAYA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:02:40",
-          "sekolah_asal": "SDN BABAT JERAWAT I",
-          "jarak": 1605.44427,
-          "asal_kelurahan": "BABATJERAWAT"
-        },
-        {
-          "urutan": 2,
           "nama_siswa": "MUHAMMAD ADIB FANANI",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 05:28:02",
           "sekolah_asal": "SDN SUMBEREJO II",
           "jarak": 834.78663,
-          "asal_kelurahan": "SUMBERREJO"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "KEEANO DAVIEAN RADITYA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:01:03",
-          "sekolah_asal": "SDN KANDANGAN I / 121",
-          "jarak": 695.2696,
-          "asal_kelurahan": "PAKAL"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "AISHA AYUDIAH INARA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 04:55:15",
-          "sekolah_asal": "SDN BENOWO III/126",
-          "jarak": 308.56217,
-          "asal_kelurahan": "BENOWO"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "KEYLA PUTRI AZZAHRA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 05:09:22",
-          "sekolah_asal": "MIS HASYIM ASY`ARI",
-          "jarak": 868.71347,
           "asal_kelurahan": "SUMBERREJO"
         },
         {
@@ -5294,13 +5276,31 @@
           "asal_kelurahan": "BABATJERAWAT"
         },
         {
-          "urutan": 4,
-          "nama_siswa": "AFRIZA FIRNANDA MAFAZA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:45:47",
-          "sekolah_asal": "SDN BENOWO I",
-          "jarak": 368.96388,
+          "urutan": 3,
+          "nama_siswa": "AISHA AYUDIAH INARA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 04:55:15",
+          "sekolah_asal": "SDN BENOWO III/126",
+          "jarak": 308.56217,
           "asal_kelurahan": "BENOWO"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "KEEANO DAVIEAN RADITYA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:01:03",
+          "sekolah_asal": "SDN KANDANGAN I / 121",
+          "jarak": 695.2696,
+          "asal_kelurahan": "PAKAL"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "KEYLA PUTRI AZZAHRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 05:09:22",
+          "sekolah_asal": "MIS HASYIM ASY`ARI",
+          "jarak": 868.71347,
+          "asal_kelurahan": "SUMBERREJO"
         },
         {
           "urutan": 4,
@@ -5310,6 +5310,15 @@
           "sekolah_asal": "SDN BENOWO I",
           "jarak": 888.32377,
           "asal_kelurahan": "SUMBERREJO"
+        },
+        {
+          "urutan": 4,
+          "nama_siswa": "AFRIZA FIRNANDA MAFAZA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:45:47",
+          "sekolah_asal": "SDN BENOWO I",
+          "jarak": 368.96388,
+          "asal_kelurahan": "BENOWO"
         },
         {
           "urutan": 4,
@@ -5331,15 +5340,6 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "ILHAM ILYAS ARIFIN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 11:16:06",
-          "sekolah_asal": "SD ISLAM TERPADU AL-FATHIMIYYAH",
-          "jarak": 896.12992,
-          "asal_kelurahan": "SUMBERREJO"
-        },
-        {
-          "urutan": 5,
           "nama_siswa": "ALESA OKTAFIO PUTRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:04:38",
@@ -5349,12 +5349,12 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "BALQIS UFAIRAH",
+          "nama_siswa": "ILHAM ILYAS ARIFIN",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:49:22",
-          "sekolah_asal": "SD AL MANAR SURABAYA",
-          "jarak": 739.5265,
-          "asal_kelurahan": "PAKAL"
+          "waktu_pendaftaran": "2026-07-05 11:16:06",
+          "sekolah_asal": "SD ISLAM TERPADU AL-FATHIMIYYAH",
+          "jarak": 896.12992,
+          "asal_kelurahan": "SUMBERREJO"
         },
         {
           "urutan": 5,
@@ -5366,22 +5366,13 @@
           "asal_kelurahan": "BABATJERAWAT"
         },
         {
-          "urutan": 6,
-          "nama_siswa": "HELENA ELSHADA MARANATHA MANURUNG",
+          "urutan": 5,
+          "nama_siswa": "BALQIS UFAIRAH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 03:38:34",
-          "sekolah_asal": "SDN BENOWO I",
-          "jarak": 907.21349,
-          "asal_kelurahan": "SUMBERREJO"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "RASYA NABIL ALAUNA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:25:35",
-          "sekolah_asal": "SD NEGERI PAKAL I",
-          "jarak": 1698.32087,
-          "asal_kelurahan": "BABATJERAWAT"
+          "waktu_pendaftaran": "2026-07-05 02:49:22",
+          "sekolah_asal": "SD AL MANAR SURABAYA",
+          "jarak": 739.5265,
+          "asal_kelurahan": "PAKAL"
         },
         {
           "urutan": 6,
@@ -5402,22 +5393,22 @@
           "asal_kelurahan": "BENOWO"
         },
         {
-          "urutan": 7,
-          "nama_siswa": "BILQIS KHUMAIROH SUKMAWATI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:17:59",
-          "sekolah_asal": "SDN BABAT JERAWAT I",
-          "jarak": 1725.61771,
+          "urutan": 6,
+          "nama_siswa": "RASYA NABIL ALAUNA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 02:25:35",
+          "sekolah_asal": "SD NEGERI PAKAL I",
+          "jarak": 1698.32087,
           "asal_kelurahan": "BABATJERAWAT"
         },
         {
-          "urutan": 7,
-          "nama_siswa": "AMALA AINY PRAYITNO",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:05:41",
-          "sekolah_asal": "SDN SUMBEREJO II",
-          "jarak": 697.47629,
-          "asal_kelurahan": "BENOWO"
+          "urutan": 6,
+          "nama_siswa": "HELENA ELSHADA MARANATHA MANURUNG",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 03:38:34",
+          "sekolah_asal": "SDN BENOWO I",
+          "jarak": 907.21349,
+          "asal_kelurahan": "SUMBERREJO"
         },
         {
           "urutan": 7,
@@ -5430,21 +5421,30 @@
         },
         {
           "urutan": 7,
+          "nama_siswa": "AMALA AINY PRAYITNO",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:05:41",
+          "sekolah_asal": "SDN SUMBEREJO II",
+          "jarak": 697.47629,
+          "asal_kelurahan": "BENOWO"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "BILQIS KHUMAIROH SUKMAWATI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:17:59",
+          "sekolah_asal": "SDN BABAT JERAWAT I",
+          "jarak": 1725.61771,
+          "asal_kelurahan": "BABATJERAWAT"
+        },
+        {
+          "urutan": 7,
           "nama_siswa": "REZA TAUFIQURROZAK YANUARIS",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:26:40",
           "sekolah_asal": "SD AL MANAR SURABAYA",
           "jarak": 757.48754,
           "asal_kelurahan": "PAKAL"
-        },
-        {
-          "urutan": 8,
-          "nama_siswa": "KEISHA ANYNDYA KANZA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:01:28",
-          "sekolah_asal": "SDN BABAT JERAWAT I",
-          "jarak": 1728.24524,
-          "asal_kelurahan": "BABATJERAWAT"
         },
         {
           "urutan": 8,
@@ -5466,6 +5466,15 @@
         },
         {
           "urutan": 8,
+          "nama_siswa": "KEISHA ANYNDYA KANZA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:01:28",
+          "sekolah_asal": "SDN BABAT JERAWAT I",
+          "jarak": 1728.24524,
+          "asal_kelurahan": "BABATJERAWAT"
+        },
+        {
+          "urutan": 8,
           "nama_siswa": "SHERYL AZKIYA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:19:09",
@@ -5484,6 +5493,15 @@
         },
         {
           "urutan": 9,
+          "nama_siswa": "RANGGA PUTRA PRATAMA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:27:48",
+          "sekolah_asal": "MIS HASYIM ASY`ARI",
+          "jarak": 999.507,
+          "asal_kelurahan": "SUMBERREJO"
+        },
+        {
+          "urutan": 9,
           "nama_siswa": "MIKAYLA ANYNDYA KANZA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:09:25",
@@ -5498,24 +5516,6 @@
           "waktu_pendaftaran": "2026-07-05 07:29:41",
           "sekolah_asal": "SDN KLAKAHREJO  I / 578",
           "jarak": 703.84535,
-          "asal_kelurahan": "BENOWO"
-        },
-        {
-          "urutan": 9,
-          "nama_siswa": "RANGGA PUTRA PRATAMA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:27:48",
-          "sekolah_asal": "MIS HASYIM ASY`ARI",
-          "jarak": 999.507,
-          "asal_kelurahan": "SUMBERREJO"
-        },
-        {
-          "urutan": 10,
-          "nama_siswa": "SHELFI ANGGRAINI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 20:30:31",
-          "sekolah_asal": "SDN SUMBEREJO II",
-          "jarak": 708.6795,
           "asal_kelurahan": "BENOWO"
         },
         {
@@ -5546,21 +5546,12 @@
           "asal_kelurahan": "BABATJERAWAT"
         },
         {
-          "urutan": 11,
-          "nama_siswa": "AL ZAHIRA GESYA UTAMI ARSYAD",
+          "urutan": 10,
+          "nama_siswa": "SHELFI ANGGRAINI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:54:00",
-          "sekolah_asal": "SDN BABAT JERAWAT I",
-          "jarak": 1767.34003,
-          "asal_kelurahan": "BABATJERAWAT"
-        },
-        {
-          "urutan": 11,
-          "nama_siswa": "KIANDRA ZHAFIRAH ACHMAD",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 14:25:43",
-          "sekolah_asal": "SDN BENOWO III/126",
-          "jarak": 744.60742,
+          "waktu_pendaftaran": "2026-07-05 20:30:31",
+          "sekolah_asal": "SDN SUMBEREJO II",
+          "jarak": 708.6795,
           "asal_kelurahan": "BENOWO"
         },
         {
@@ -5574,12 +5565,30 @@
         },
         {
           "urutan": 11,
+          "nama_siswa": "KIANDRA ZHAFIRAH ACHMAD",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 14:25:43",
+          "sekolah_asal": "SDN BENOWO III/126",
+          "jarak": 744.60742,
+          "asal_kelurahan": "BENOWO"
+        },
+        {
+          "urutan": 11,
           "nama_siswa": "ABIDAH HILYATUZZAHWA NIRDAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:56:40",
           "sekolah_asal": "SD ISLAM TERPADU AL-FATHIMIYYAH",
           "jarak": 819.51699,
           "asal_kelurahan": "PAKAL"
+        },
+        {
+          "urutan": 11,
+          "nama_siswa": "AL ZAHIRA GESYA UTAMI ARSYAD",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:54:00",
+          "sekolah_asal": "SDN BABAT JERAWAT I",
+          "jarak": 1767.34003,
+          "asal_kelurahan": "BABATJERAWAT"
         },
         {
           "urutan": 12,
@@ -5601,15 +5610,6 @@
         },
         {
           "urutan": 12,
-          "nama_siswa": "MOCH. AZRIL CAHYA RAMADHAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 09:02:40",
-          "sekolah_asal": "SDN BENOWO I",
-          "jarak": 770.44406,
-          "asal_kelurahan": "BENOWO"
-        },
-        {
-          "urutan": 12,
           "nama_siswa": "MUHAMMAD AL-FATICH MUROD",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 07:56:11",
@@ -5618,22 +5618,13 @@
           "asal_kelurahan": "SUMBERREJO"
         },
         {
-          "urutan": 13,
-          "nama_siswa": "VERONICA LORENZA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:06:12",
-          "sekolah_asal": "SDN SUMBEREJO II",
-          "jarak": 1104.74248,
-          "asal_kelurahan": "SUMBERREJO"
-        },
-        {
-          "urutan": 13,
-          "nama_siswa": "ADE MUHAMAD YUSUF AL-FATH",
+          "urutan": 12,
+          "nama_siswa": "MOCH. AZRIL CAHYA RAMADHAN",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:09:18",
-          "sekolah_asal": "SDN BENOWO III/126",
-          "jarak": 843.90135,
-          "asal_kelurahan": "PAKAL"
+          "waktu_pendaftaran": "2026-07-05 09:02:40",
+          "sekolah_asal": "SDN BENOWO I",
+          "jarak": 770.44406,
+          "asal_kelurahan": "BENOWO"
         },
         {
           "urutan": 13,
@@ -5654,22 +5645,22 @@
           "asal_kelurahan": "BENOWO"
         },
         {
-          "urutan": 14,
-          "nama_siswa": "AIR NAKHLA ADINATA PUTRA MAHFIRIN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:02:19",
-          "sekolah_asal": "SDN BENOWO III/126",
-          "jarak": 850.33449,
-          "asal_kelurahan": "PAKAL"
+          "urutan": 13,
+          "nama_siswa": "VERONICA LORENZA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:06:12",
+          "sekolah_asal": "SDN SUMBEREJO II",
+          "jarak": 1104.74248,
+          "asal_kelurahan": "SUMBERREJO"
         },
         {
-          "urutan": 14,
-          "nama_siswa": "KEANU GIBRAN AL GHAZZIY",
+          "urutan": 13,
+          "nama_siswa": "ADE MUHAMAD YUSUF AL-FATH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:05:42",
-          "sekolah_asal": "SDN BABAT JERAWAT I",
-          "jarak": 1790.71604,
-          "asal_kelurahan": "BABATJERAWAT"
+          "waktu_pendaftaran": "2026-07-05 01:09:18",
+          "sekolah_asal": "SDN BENOWO III/126",
+          "jarak": 843.90135,
+          "asal_kelurahan": "PAKAL"
         },
         {
           "urutan": 14,
@@ -5690,13 +5681,22 @@
           "asal_kelurahan": "SUMBERREJO"
         },
         {
-          "urutan": 15,
-          "nama_siswa": "CLARISSA DIAN ELVARETTA",
+          "urutan": 14,
+          "nama_siswa": "KEANU GIBRAN AL GHAZZIY",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:52:40",
-          "sekolah_asal": "SDN PETEMON XII /360",
-          "jarak": 800.66753,
-          "asal_kelurahan": "BENOWO"
+          "waktu_pendaftaran": "2026-07-05 01:05:42",
+          "sekolah_asal": "SDN BABAT JERAWAT I",
+          "jarak": 1790.71604,
+          "asal_kelurahan": "BABATJERAWAT"
+        },
+        {
+          "urutan": 14,
+          "nama_siswa": "AIR NAKHLA ADINATA PUTRA MAHFIRIN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:02:19",
+          "sekolah_asal": "SDN BENOWO III/126",
+          "jarak": 850.33449,
+          "asal_kelurahan": "PAKAL"
         },
         {
           "urutan": 15,
@@ -5709,6 +5709,24 @@
         },
         {
           "urutan": 15,
+          "nama_siswa": "IKHFAN BAGUS ASHROFI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 06:07:20",
+          "sekolah_asal": "MIS HASYIM ASY`ARI",
+          "jarak": 1124.87974,
+          "asal_kelurahan": "SUMBERREJO"
+        },
+        {
+          "urutan": 15,
+          "nama_siswa": "CLARISSA DIAN ELVARETTA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:52:40",
+          "sekolah_asal": "SDN PETEMON XII /360",
+          "jarak": 800.66753,
+          "asal_kelurahan": "BENOWO"
+        },
+        {
+          "urutan": 15,
           "nama_siswa": "MUHAMMAD AGUNG SURYANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:11:45",
@@ -5717,12 +5735,21 @@
           "asal_kelurahan": "PAKAL"
         },
         {
-          "urutan": 15,
-          "nama_siswa": "IKHFAN BAGUS ASHROFI",
+          "urutan": 16,
+          "nama_siswa": "FRENA KRISTIA CAHYANI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:07:20",
+          "waktu_pendaftaran": "2026-07-05 01:36:22",
+          "sekolah_asal": "SDN BENOWO I",
+          "jarak": 832.91254,
+          "asal_kelurahan": "BENOWO"
+        },
+        {
+          "urutan": 16,
+          "nama_siswa": "ARIFATUL KHORIDA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:36:16",
           "sekolah_asal": "MIS HASYIM ASY`ARI",
-          "jarak": 1124.87974,
+          "jarak": 1201.64461,
           "asal_kelurahan": "SUMBERREJO"
         },
         {
@@ -5736,30 +5763,12 @@
         },
         {
           "urutan": 16,
-          "nama_siswa": "ARIFATUL KHORIDA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:36:16",
-          "sekolah_asal": "MIS HASYIM ASY`ARI",
-          "jarak": 1201.64461,
-          "asal_kelurahan": "SUMBERREJO"
-        },
-        {
-          "urutan": 16,
           "nama_siswa": "ASSYIFA SHIDQIA DZAKIRA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 11:03:46",
           "sekolah_asal": "SD AL KAUTSAR",
           "jarak": 1849.71835,
           "asal_kelurahan": "BABATJERAWAT"
-        },
-        {
-          "urutan": 16,
-          "nama_siswa": "FRENA KRISTIA CAHYANI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:36:22",
-          "sekolah_asal": "SDN BENOWO I",
-          "jarak": 832.91254,
-          "asal_kelurahan": "BENOWO"
         }
       ]
     },
@@ -5772,7 +5781,7 @@
       "total_pendaftar": 226,
       "highest_score": 1148.0126,
       "lowest_score": 555.8185,
-      "waktu_api": "2026-07-05T17:12:58.531140Z",
+      "waktu_api": "2026-07-05T18:13:09.864366Z",
       "ranking": [
         {
           "urutan": 1,
@@ -6348,11 +6357,11 @@
       "nama": "SMPN 16 Surabaya",
       "pagu": 68,
       "jp_pilihan1": 26,
-      "jp_pilihan2": 56,
-      "total_pendaftar": 82,
+      "jp_pilihan2": 57,
+      "total_pendaftar": 83,
       "highest_score": 3831.71477,
       "lowest_score": 1431.64249,
-      "waktu_api": "2026-07-05T17:17:37.580186Z",
+      "waktu_api": "2026-07-05T18:21:51.669116Z",
       "ranking": [
         {
           "urutan": 1,
@@ -6653,7 +6662,7 @@
       "total_pendaftar": 128,
       "highest_score": 1051.57931,
       "lowest_score": 999.78918,
-      "waktu_api": "2026-07-05T17:12:01.699395Z",
+      "waktu_api": "2026-07-05T18:12:09.897473Z",
       "ranking": [
         {
           "urutan": 1,
@@ -7170,7 +7179,7 @@
       "total_pendaftar": 83,
       "highest_score": 1235.61639,
       "lowest_score": 1755.10166,
-      "waktu_api": "2026-07-05T17:17:50.003119Z",
+      "waktu_api": "2026-07-05T18:20:12.108464Z",
       "ranking": [
         {
           "urutan": 1,
@@ -7484,13 +7493,22 @@
       "id": 19,
       "nama": "SMPN 19 Surabaya",
       "pagu": 70,
-      "jp_pilihan1": 39,
+      "jp_pilihan1": 40,
       "jp_pilihan2": 93,
-      "total_pendaftar": 132,
-      "highest_score": 1106.44413,
-      "lowest_score": 2137.64627,
-      "waktu_api": "2026-07-05T17:13:32.018633Z",
+      "total_pendaftar": 133,
+      "highest_score": 1789.96898,
+      "lowest_score": 1457.85537,
+      "waktu_api": "2026-07-05T18:14:54.068900Z",
       "ranking": [
+        {
+          "urutan": 1,
+          "nama_siswa": "DIGDAYA BHUMYAMCA SUBIANTORO",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 00:21:36",
+          "sekolah_asal": "SDN SEMOLOWARU I/261",
+          "jarak": 1789.96898,
+          "asal_kelurahan": "MEDOKANSEMAMPIR"
+        },
         {
           "urutan": 1,
           "nama_siswa": "KHALISHAH AMELIA PRIYANCA",
@@ -7520,6 +7538,15 @@
         },
         {
           "urutan": 1,
+          "nama_siswa": "HILYA EL CHAURA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:05:55",
+          "sekolah_asal": "SDN NGINDEN JANGKUNGAN I /247",
+          "jarak": 1881.18318,
+          "asal_kelurahan": "NGINDENJANGKUNGAN"
+        },
+        {
+          "urutan": 1,
           "nama_siswa": "ADDIN MUHAMMAD NURUSSILMI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 13:59:24",
@@ -7537,24 +7564,6 @@
           "asal_kelurahan": "SEMOLOWARU"
         },
         {
-          "urutan": 1,
-          "nama_siswa": "HILYA EL CHAURA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:05:55",
-          "sekolah_asal": "SDN NGINDEN JANGKUNGAN I /247",
-          "jarak": 1881.18318,
-          "asal_kelurahan": "NGINDENJANGKUNGAN"
-        },
-        {
-          "urutan": 1,
-          "nama_siswa": "AHMAD HAIDAR AZZAHIDI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:06:26",
-          "sekolah_asal": "SDN SEMOLOWARU IV/614",
-          "jarak": 2091.97204,
-          "asal_kelurahan": "MEDOKANSEMAMPIR"
-        },
-        {
           "urutan": 2,
           "nama_siswa": "SEAN JAPA NARAYANA",
           "pilihan_ke": 1,
@@ -7565,21 +7574,21 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "MONICA RENDRA SANJAYA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:53:29",
-          "sekolah_asal": "SD AL FATAH",
-          "jarak": 1213.38668,
-          "asal_kelurahan": "MENURPUMPUNGAN"
+          "nama_siswa": "D'RAFFI PUTRA ADELLY",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 10:32:33",
+          "sekolah_asal": "SDN KLAMPIS NGASEM III /512",
+          "jarak": 838.43088,
+          "asal_kelurahan": "KLAMPISNGASEM"
         },
         {
           "urutan": 2,
-          "nama_siswa": "AKMAL FAREED JAFFAN",
+          "nama_siswa": "AHMAD HAIDAR AZZAHIDI",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 17:51:29",
-          "sekolah_asal": "SDN KLAMPIS NGASEM I/246",
-          "jarak": 1070.8925,
-          "asal_kelurahan": "GEBANGPUTIH"
+          "waktu_pendaftaran": "2026-07-05 01:06:26",
+          "sekolah_asal": "SDN SEMOLOWARU IV/614",
+          "jarak": 2091.97204,
+          "asal_kelurahan": "MEDOKANSEMAMPIR"
         },
         {
           "urutan": 2,
@@ -7601,39 +7610,21 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "D'RAFFI PUTRA ADELLY",
+          "nama_siswa": "AKMAL FAREED JAFFAN",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 10:32:33",
-          "sekolah_asal": "SDN KLAMPIS NGASEM III /512",
-          "jarak": 838.43088,
-          "asal_kelurahan": "KLAMPISNGASEM"
+          "waktu_pendaftaran": "2026-07-05 17:51:29",
+          "sekolah_asal": "SDN KLAMPIS NGASEM I/246",
+          "jarak": 1070.8925,
+          "asal_kelurahan": "GEBANGPUTIH"
         },
         {
-          "urutan": 3,
-          "nama_siswa": "ABIDAH ARDELIA GHASSANI",
+          "urutan": 2,
+          "nama_siswa": "MONICA RENDRA SANJAYA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:28:49",
-          "sekolah_asal": "SD Muhammadiyah 4 Surabaya",
-          "jarak": 1285.73223,
+          "waktu_pendaftaran": "2026-07-05 06:53:29",
+          "sekolah_asal": "SD AL FATAH",
+          "jarak": 1213.38668,
           "asal_kelurahan": "MENURPUMPUNGAN"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "THARIQ HASAN ARIANTO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:57:07",
-          "sekolah_asal": "SD Muhammadiyah 4 Surabaya",
-          "jarak": 1037.97978,
-          "asal_kelurahan": "SEMOLOWARU"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "KEVANOE ABIMANYU",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 13:56:28",
-          "sekolah_asal": "SD Al Muslim",
-          "jarak": 2201.87942,
-          "asal_kelurahan": "NGINDENJANGKUNGAN"
         },
         {
           "urutan": 3,
@@ -7646,6 +7637,24 @@
         },
         {
           "urutan": 3,
+          "nama_siswa": "MUHAMMAD RIZKY RAMADHAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:00:41",
+          "sekolah_asal": "SD ISLAM RADEN PAKU SURABAYA",
+          "jarak": 843.22183,
+          "asal_kelurahan": "KLAMPISNGASEM"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "KEVANOE ABIMANYU",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 13:56:28",
+          "sekolah_asal": "SD Al Muslim",
+          "jarak": 2201.87942,
+          "asal_kelurahan": "NGINDENJANGKUNGAN"
+        },
+        {
+          "urutan": 3,
           "nama_siswa": "BARRA AHMAD KAMAJAYA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:18:12",
@@ -7655,12 +7664,21 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "MUHAMMAD RIZKY RAMADHAN",
+          "nama_siswa": "THARIQ HASAN ARIANTO",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:00:41",
-          "sekolah_asal": "SD ISLAM RADEN PAKU SURABAYA",
-          "jarak": 843.22183,
-          "asal_kelurahan": "KLAMPISNGASEM"
+          "waktu_pendaftaran": "2026-07-05 01:57:07",
+          "sekolah_asal": "SD Muhammadiyah 4 Surabaya",
+          "jarak": 1037.97978,
+          "asal_kelurahan": "SEMOLOWARU"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "ABIDAH ARDELIA GHASSANI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:28:49",
+          "sekolah_asal": "SD Muhammadiyah 4 Surabaya",
+          "jarak": 1285.73223,
+          "asal_kelurahan": "MENURPUMPUNGAN"
         },
         {
           "urutan": 4,
@@ -7781,12 +7799,30 @@
         },
         {
           "urutan": 6,
+          "nama_siswa": "MEYLAN ANGEL CHRISTABEL",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 03:03:50",
+          "sekolah_asal": "SDN SEMOLOWARU I/261",
+          "jarak": 1140.80828,
+          "asal_kelurahan": "SEMOLOWARU"
+        },
+        {
+          "urutan": 6,
           "nama_siswa": "JAWALIN DIENIA KARTIKA BAYU",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:14",
           "sekolah_asal": "SDN KLAMPIS NGASEM V /230",
           "jarak": 858.98339,
           "asal_kelurahan": "KLAMPISNGASEM"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "DIMAS RHEZA ANDI SAPUTRA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:05:43",
+          "sekolah_asal": "SDN NGINDEN JANGKUNGAN I /247",
+          "jarak": 2558.87253,
+          "asal_kelurahan": "NGINDENJANGKUNGAN"
         },
         {
           "urutan": 6,
@@ -7799,39 +7835,12 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "MEYLAN ANGEL CHRISTABEL",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 03:03:50",
-          "sekolah_asal": "SDN SEMOLOWARU I/261",
-          "jarak": 1140.80828,
-          "asal_kelurahan": "SEMOLOWARU"
-        },
-        {
-          "urutan": 6,
           "nama_siswa": "SULTHAN PRADHIKA IZWAR",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:12:02",
           "sekolah_asal": "SDN MENUR PUMPUNGAN",
           "jarak": 1391.50782,
           "asal_kelurahan": "MENURPUMPUNGAN"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "DIMAS RHEZA ANDI SAPUTRA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:05:43",
-          "sekolah_asal": "SDN NGINDEN JANGKUNGAN I /247",
-          "jarak": 2558.87253,
-          "asal_kelurahan": "NGINDENJANGKUNGAN"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "LAILA RAHMADHANI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 20:10:02",
-          "sekolah_asal": "SDN PANJANGJIWO I /265",
-          "jarak": 861.15876,
-          "asal_kelurahan": "KLAMPISNGASEM"
         },
         {
           "urutan": 7,
@@ -7853,6 +7862,15 @@
         },
         {
           "urutan": 7,
+          "nama_siswa": "LAILA RAHMADHANI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 20:10:02",
+          "sekolah_asal": "SDN PANJANGJIWO I /265",
+          "jarak": 861.15876,
+          "asal_kelurahan": "KLAMPISNGASEM"
+        },
+        {
+          "urutan": 7,
           "nama_siswa": "ZAKIY YAFUZA ADZIMA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:32:55",
@@ -7871,6 +7889,15 @@
         },
         {
           "urutan": 8,
+          "nama_siswa": "IKA PUTRI ARYANI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 03:45:43",
+          "sekolah_asal": "SDN SIWALANKERTO II /419",
+          "jarak": 1433.07872,
+          "asal_kelurahan": "MENURPUMPUNGAN"
+        },
+        {
+          "urutan": 8,
           "nama_siswa": "AUFAR AL-FARISI NURSAID",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:46",
@@ -7886,15 +7913,6 @@
           "sekolah_asal": "SDN SEMOLOWARU I/261",
           "jarak": 1150.92524,
           "asal_kelurahan": "SEMOLOWARU"
-        },
-        {
-          "urutan": 8,
-          "nama_siswa": "IKA PUTRI ARYANI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 03:45:43",
-          "sekolah_asal": "SDN SIWALANKERTO II /419",
-          "jarak": 1433.07872,
-          "asal_kelurahan": "MENURPUMPUNGAN"
         },
         {
           "urutan": 9,
@@ -7916,15 +7934,6 @@
         },
         {
           "urutan": 9,
-          "nama_siswa": "DESFA MAIZA HERMANTO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:19:46",
-          "sekolah_asal": "SD ISLAM RADEN PATAH SURABAYA",
-          "jarak": 2103.01672,
-          "asal_kelurahan": "KEPUTIH"
-        },
-        {
-          "urutan": 9,
           "nama_siswa": "MUHAMMAD UBAIDILLAH",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 03:48:29",
@@ -7933,13 +7942,13 @@
           "asal_kelurahan": "SEMOLOWARU"
         },
         {
-          "urutan": 10,
-          "nama_siswa": "SEKAR FIRDAUS RAMADHANIA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:26:45",
-          "sekolah_asal": "SDN MENUR PUMPUNGAN",
-          "jarak": 1632.37253,
-          "asal_kelurahan": "MENURPUMPUNGAN"
+          "urutan": 9,
+          "nama_siswa": "DESFA MAIZA HERMANTO",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:19:46",
+          "sekolah_asal": "SD ISLAM RADEN PATAH SURABAYA",
+          "jarak": 2103.01672,
+          "asal_kelurahan": "KEPUTIH"
         },
         {
           "urutan": 10,
@@ -7952,12 +7961,12 @@
         },
         {
           "urutan": 10,
-          "nama_siswa": "MUHAMMAD AZHAR AL FATIH DYAKSA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 10:25:58",
-          "sekolah_asal": "SDN GUNDIH",
-          "jarak": 1457.85537,
-          "asal_kelurahan": "SEMOLOWARU"
+          "nama_siswa": "SEKAR FIRDAUS RAMADHANIA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:26:45",
+          "sekolah_asal": "SDN MENUR PUMPUNGAN",
+          "jarak": 1632.37253,
+          "asal_kelurahan": "MENURPUMPUNGAN"
         },
         {
           "urutan": 10,
@@ -7967,6 +7976,15 @@
           "sekolah_asal": "SDN KEPUTIH 245",
           "jarak": 2137.64627,
           "asal_kelurahan": "KEPUTIH"
+        },
+        {
+          "urutan": 10,
+          "nama_siswa": "MUHAMMAD AZHAR AL FATIH DYAKSA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 10:25:58",
+          "sekolah_asal": "SDN GUNDIH",
+          "jarak": 1457.85537,
+          "asal_kelurahan": "SEMOLOWARU"
         }
       ]
     },
@@ -7974,12 +7992,12 @@
       "id": 20,
       "nama": "SMPN 20 Surabaya",
       "pagu": 64,
-      "jp_pilihan1": 59,
+      "jp_pilihan1": 60,
       "jp_pilihan2": 106,
-      "total_pendaftar": 165,
+      "total_pendaftar": 166,
       "highest_score": 862.90585,
-      "lowest_score": 1723.67321,
-      "waktu_api": "2026-07-05T17:12:38.594284Z",
+      "lowest_score": 1728.93044,
+      "waktu_api": "2026-07-05T18:12:51.776560Z",
       "ranking": [
         {
           "urutan": 1,
@@ -7992,12 +8010,12 @@
         },
         {
           "urutan": 1,
-          "nama_siswa": "AHMAD SYUKRON HANAFI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:08:52",
+          "nama_siswa": "ASSA PRAYOGA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:05:13",
           "sekolah_asal": "SDN LONTAR 481",
-          "jarak": 701.04457,
-          "asal_kelurahan": "BERINGIN"
+          "jarak": 947.8311,
+          "asal_kelurahan": "LONTAR"
         },
         {
           "urutan": 1,
@@ -8010,12 +8028,12 @@
         },
         {
           "urutan": 1,
-          "nama_siswa": "ASSA PRAYOGA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:05:13",
+          "nama_siswa": "AHMAD SYUKRON HANAFI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:08:52",
           "sekolah_asal": "SDN LONTAR 481",
-          "jarak": 947.8311,
-          "asal_kelurahan": "LONTAR"
+          "jarak": 701.04457,
+          "asal_kelurahan": "BERINGIN"
         },
         {
           "urutan": 2,
@@ -8028,21 +8046,21 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "ALLYSA ARDANA DEFANDA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 14:21:48",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 696.97251,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 2,
           "nama_siswa": "MUHAMMAD NABIL WIRAYUDAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 19:52:12",
           "sekolah_asal": "MIS RADEN RAHMAT",
           "jarak": 752.60579,
           "asal_kelurahan": "BERINGIN"
+        },
+        {
+          "urutan": 2,
+          "nama_siswa": "ALLYSA ARDANA DEFANDA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 14:21:48",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 696.97251,
+          "asal_kelurahan": "SAMBIKEREP"
         },
         {
           "urutan": 2,
@@ -8055,21 +8073,21 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "WILDA DZAKIYYATUNNISA AR-RUMAISHA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:26:41",
-          "sekolah_asal": "MIS NYAI H. ASHFIYAH",
-          "jarak": 948.65062,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 3,
           "nama_siswa": "ALFIAN DWI PUTRA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 02:45:21",
           "sekolah_asal": "SDN MADE I / 475",
           "jarak": 894.75534,
           "asal_kelurahan": "MADE"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "RAFI NUR ROHMAN",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:11:20",
+          "sekolah_asal": "SDN LONTAR 481",
+          "jarak": 1050.87348,
+          "asal_kelurahan": "LONTAR"
         },
         {
           "urutan": 3,
@@ -8082,30 +8100,30 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "RAFI NUR ROHMAN",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:11:20",
-          "sekolah_asal": "SDN LONTAR 481",
-          "jarak": 1050.87348,
-          "asal_kelurahan": "LONTAR"
-        },
-        {
-          "urutan": 4,
-          "nama_siswa": "SAVIRA SALSABILLA",
+          "nama_siswa": "JOSEFA NOVENA POERWANDINI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:03:11",
-          "sekolah_asal": "SDN BANJARSUGIHAN II/117",
-          "jarak": 952.51208,
+          "waktu_pendaftaran": "2026-07-05 20:23:14",
+          "sekolah_asal": "SDN KANDANGAN III / 621",
+          "jarak": 928.14858,
           "asal_kelurahan": "SAMBIKEREP"
         },
         {
           "urutan": 4,
-          "nama_siswa": "ARKANA DEVA SASHIKIRANA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:50:28",
-          "sekolah_asal": "SDN MADE I / 475",
-          "jarak": 900.35303,
-          "asal_kelurahan": "MADE"
+          "nama_siswa": "BERLIANA DWI SAFIRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 08:36:08",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 932.01025,
+          "asal_kelurahan": "BERINGIN"
+        },
+        {
+          "urutan": 4,
+          "nama_siswa": "WILDA DZAKIYYATUNNISA AR-RUMAISHA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:26:41",
+          "sekolah_asal": "MIS NYAI H. ASHFIYAH",
+          "jarak": 948.65062,
+          "asal_kelurahan": "SAMBIKEREP"
         },
         {
           "urutan": 4,
@@ -8118,20 +8136,20 @@
         },
         {
           "urutan": 4,
-          "nama_siswa": "BERLIANA DWI SAFIRA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 08:36:08",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 932.01025,
-          "asal_kelurahan": "BERINGIN"
+          "nama_siswa": "ARKANA DEVA SASHIKIRANA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:50:28",
+          "sekolah_asal": "SDN MADE I / 475",
+          "jarak": 900.35303,
+          "asal_kelurahan": "MADE"
         },
         {
           "urutan": 5,
-          "nama_siswa": "PUTRA AKBAR HIDAYATULLAH",
+          "nama_siswa": "SAVIRA SALSABILLA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:09:29",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 968.592,
+          "waktu_pendaftaran": "2026-07-05 01:03:11",
+          "sekolah_asal": "SDN BANJARSUGIHAN II/117",
+          "jarak": 952.51208,
           "asal_kelurahan": "SAMBIKEREP"
         },
         {
@@ -8163,30 +8181,21 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "DWI ANDRIAN MAULANA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 04:19:20",
-          "sekolah_asal": "SDN MADE I / 475",
-          "jarak": 920.75995,
-          "asal_kelurahan": "MADE"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "ELMA MARITZA HUMAIRAWARDHANI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 08:18:55",
-          "sekolah_asal": "SD KHADIJAH 3 SURABAYA",
-          "jarak": 997.04487,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 6,
           "nama_siswa": "AMMAR SAET",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 10:56:41",
           "sekolah_asal": "MIS NURUL ULUM",
           "jarak": 1048.94047,
           "asal_kelurahan": "BERINGIN"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "PUTRA AKBAR HIDAYATULLAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:09:29",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 968.592,
+          "asal_kelurahan": "SAMBIKEREP"
         },
         {
           "urutan": 6,
@@ -8198,12 +8207,30 @@
           "asal_kelurahan": "LONTAR"
         },
         {
+          "urutan": 6,
+          "nama_siswa": "DWI ANDRIAN MAULANA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 04:19:20",
+          "sekolah_asal": "SDN MADE I / 475",
+          "jarak": 920.75995,
+          "asal_kelurahan": "MADE"
+        },
+        {
           "urutan": 7,
-          "nama_siswa": "FERNANDO DIEGO SETYAWAN",
+          "nama_siswa": "ZASKIYYA TALITA SAQHI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:53:28",
+          "sekolah_asal": "SDN MADE I / 475",
+          "jarak": 1021.64598,
+          "asal_kelurahan": "MADE"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "ELMA MARITZA HUMAIRAWARDHANI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:20:38",
-          "sekolah_asal": "SDN MANUKAN KULON VI",
-          "jarak": 1003.2706,
+          "waktu_pendaftaran": "2026-07-05 08:18:55",
+          "sekolah_asal": "SD KHADIJAH 3 SURABAYA",
+          "jarak": 997.04487,
           "asal_kelurahan": "SAMBIKEREP"
         },
         {
@@ -8225,13 +8252,13 @@
           "asal_kelurahan": "BERINGIN"
         },
         {
-          "urutan": 7,
-          "nama_siswa": "ZASKIYYA TALITA SAQHI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:53:28",
-          "sekolah_asal": "SDN MADE I / 475",
-          "jarak": 1021.64598,
-          "asal_kelurahan": "MADE"
+          "urutan": 8,
+          "nama_siswa": "FERNANDO DIEGO SETYAWAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:20:38",
+          "sekolah_asal": "SDN MANUKAN KULON VI",
+          "jarak": 1003.2706,
+          "asal_kelurahan": "SAMBIKEREP"
         },
         {
           "urutan": 8,
@@ -8244,24 +8271,6 @@
         },
         {
           "urutan": 8,
-          "nama_siswa": "CLARA MIKHAELA AZALIA SINATRA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 05:40:47",
-          "sekolah_asal": "SDN MANUKAN KULON",
-          "jarak": 1165.668,
-          "asal_kelurahan": "LONTAR"
-        },
-        {
-          "urutan": 8,
-          "nama_siswa": "FARIZKY PUTRA KURNIAWAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:06:19",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 1022.47575,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 8,
           "nama_siswa": "MUHAMMAD NOUVAL PUTRA RAMADHAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:38:21",
@@ -8270,12 +8279,21 @@
           "asal_kelurahan": "BERINGIN"
         },
         {
-          "urutan": 9,
-          "nama_siswa": "ZAHRA ALMAIRA ZAHIRA SAPUTRA",
+          "urutan": 8,
+          "nama_siswa": "CLARA MIKHAELA AZALIA SINATRA",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 07:43:41",
-          "sekolah_asal": "SDN SUMURWELUT I /438",
-          "jarak": 1033.25685,
+          "waktu_pendaftaran": "2026-07-05 05:40:47",
+          "sekolah_asal": "SDN MANUKAN KULON",
+          "jarak": 1165.668,
+          "asal_kelurahan": "LONTAR"
+        },
+        {
+          "urutan": 9,
+          "nama_siswa": "FARIZKY PUTRA KURNIAWAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:06:19",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 1022.47575,
           "asal_kelurahan": "SAMBIKEREP"
         },
         {
@@ -8289,15 +8307,6 @@
         },
         {
           "urutan": 9,
-          "nama_siswa": "ALFIAN PUTRA HERMAWAN",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 21:44:25",
-          "sekolah_asal": "SDN BERINGIN 477",
-          "jarak": 1265.81103,
-          "asal_kelurahan": "BERINGIN"
-        },
-        {
-          "urutan": 9,
           "nama_siswa": "MOCHAMAD SADI CANDRA WINATA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:59",
@@ -8306,12 +8315,12 @@
           "asal_kelurahan": "LONTAR"
         },
         {
-          "urutan": 10,
-          "nama_siswa": "DZAKIRA TALITA SAKHI",
+          "urutan": 9,
+          "nama_siswa": "ALFIAN PUTRA HERMAWAN",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 05:31:59",
-          "sekolah_asal": "MIS.AL  AMIN",
-          "jarak": 1301.20442,
+          "waktu_pendaftaran": "2026-07-05 21:44:25",
+          "sekolah_asal": "SDN BERINGIN 477",
+          "jarak": 1265.81103,
           "asal_kelurahan": "BERINGIN"
         },
         {
@@ -8325,20 +8334,38 @@
         },
         {
           "urutan": 10,
-          "nama_siswa": "MAHIRA SAKHI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:18:09",
-          "sekolah_asal": "SDN SAMBIKEREP I/479",
-          "jarak": 1073.59577,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 10,
           "nama_siswa": "MUHAMMAD FADHIL AL AKBAR",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:10:19",
           "sekolah_asal": "SDN LONTAR 481",
           "jarak": 1208.93188,
+          "asal_kelurahan": "LONTAR"
+        },
+        {
+          "urutan": 10,
+          "nama_siswa": "DZAKIRA TALITA SAKHI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 05:31:59",
+          "sekolah_asal": "MIS.AL  AMIN",
+          "jarak": 1301.20442,
+          "asal_kelurahan": "BERINGIN"
+        },
+        {
+          "urutan": 10,
+          "nama_siswa": "ZAHRA ALMAIRA ZAHIRA SAPUTRA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 07:43:41",
+          "sekolah_asal": "SDN SUMURWELUT I /438",
+          "jarak": 1033.25685,
+          "asal_kelurahan": "SAMBIKEREP"
+        },
+        {
+          "urutan": 11,
+          "nama_siswa": "MUHAMMAD CHARIZ AL-AMIN",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 00:41:43",
+          "sekolah_asal": "SDN SEMEMI  II",
+          "jarak": 1216.316,
           "asal_kelurahan": "LONTAR"
         },
         {
@@ -8352,29 +8379,20 @@
         },
         {
           "urutan": 11,
+          "nama_siswa": "MAHIRA SAKHI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:18:09",
+          "sekolah_asal": "SDN SAMBIKEREP I/479",
+          "jarak": 1073.59577,
+          "asal_kelurahan": "SAMBIKEREP"
+        },
+        {
+          "urutan": 12,
           "nama_siswa": "MOCH. SHOLEHUDIN YUSUF",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 06:21:31",
           "sekolah_asal": "MIS NURUL HUDA",
           "jarak": 1578.89778,
-          "asal_kelurahan": "LONTAR"
-        },
-        {
-          "urutan": 11,
-          "nama_siswa": "ILHAM RAMADHANI WIJAYANTO",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 21:56:31",
-          "sekolah_asal": "SDN KANDANGAN III / 621",
-          "jarak": 1098.7124,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 12,
-          "nama_siswa": "RAFI ARYASATYA RIZQULLAH",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:48:42",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 1584.67196,
           "asal_kelurahan": "LONTAR"
         },
         {
@@ -8388,12 +8406,21 @@
         },
         {
           "urutan": 12,
-          "nama_siswa": "MOHAMAD ALI ARDIANSYAH",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:06:51",
-          "sekolah_asal": "SDN SAMBIKEREP I/479",
-          "jarak": 1111.94977,
+          "nama_siswa": "ILHAM RAMADHANI WIJAYANTO",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 21:56:31",
+          "sekolah_asal": "SDN KANDANGAN III / 621",
+          "jarak": 1098.7124,
           "asal_kelurahan": "SAMBIKEREP"
+        },
+        {
+          "urutan": 13,
+          "nama_siswa": "RAFI ARYASATYA RIZQULLAH",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:48:42",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 1584.67196,
+          "asal_kelurahan": "LONTAR"
         },
         {
           "urutan": 13,
@@ -8406,15 +8433,15 @@
         },
         {
           "urutan": 13,
-          "nama_siswa": "ADRIANA DAHAYU FIRMANSYAH",
+          "nama_siswa": "MOHAMAD ALI ARDIANSYAH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:10:06",
-          "sekolah_asal": "MIS.AL  AMIN",
-          "jarak": 1585.56054,
-          "asal_kelurahan": "LONTAR"
+          "waktu_pendaftaran": "2026-07-05 01:06:51",
+          "sekolah_asal": "SDN SAMBIKEREP I/479",
+          "jarak": 1111.94977,
+          "asal_kelurahan": "SAMBIKEREP"
         },
         {
-          "urutan": 13,
+          "urutan": 14,
           "nama_siswa": "NABILLA MAULIDA HARIYANTI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:34:39",
@@ -8424,20 +8451,11 @@
         },
         {
           "urutan": 14,
-          "nama_siswa": "ANTONIO JUAN ALFREDO TAENA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:45:57",
-          "sekolah_asal": "SDN SAMBIKEREP I/479",
-          "jarak": 1187.28263,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 14,
-          "nama_siswa": "THEO USPITANY",
+          "nama_siswa": "ADRIANA DAHAYU FIRMANSYAH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:02:02",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 1726.54532,
+          "waktu_pendaftaran": "2026-07-05 01:10:06",
+          "sekolah_asal": "MIS.AL  AMIN",
+          "jarak": 1585.56054,
           "asal_kelurahan": "LONTAR"
         },
         {
@@ -8451,6 +8469,15 @@
         },
         {
           "urutan": 15,
+          "nama_siswa": "ANTONIO JUAN ALFREDO TAENA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:45:57",
+          "sekolah_asal": "SDN SAMBIKEREP I/479",
+          "jarak": 1187.28263,
+          "asal_kelurahan": "SAMBIKEREP"
+        },
+        {
+          "urutan": 15,
           "nama_siswa": "MUHAMMAD KEVIN ARDIANSYAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:12:52",
@@ -8460,15 +8487,15 @@
         },
         {
           "urutan": 15,
-          "nama_siswa": "DAMAR MAULANA RAMADHANI",
+          "nama_siswa": "THEO USPITANY",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:03:25",
-          "sekolah_asal": "SDN MANUKAN KULON II/499",
-          "jarak": 1728.93044,
+          "waktu_pendaftaran": "2026-07-05 01:02:02",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 1726.54532,
           "asal_kelurahan": "LONTAR"
         },
         {
-          "urutan": 15,
+          "urutan": 16,
           "nama_siswa": "ATHAR ZAAFARANO NURMAWAN",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 07:17:08",
@@ -8478,30 +8505,21 @@
         },
         {
           "urutan": 16,
-          "nama_siswa": "ZAFIRAH KHAIRINNISWA SUPRAPTO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:18:04",
-          "sekolah_asal": "SDN SAMBIKEREP I/479",
-          "jarak": 1225.17324,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 16,
-          "nama_siswa": "ANDINI NUR ASYIFA PUTRI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:01:12",
-          "sekolah_asal": "SDN LONTAR II",
-          "jarak": 1735.41222,
-          "asal_kelurahan": "LONTAR"
-        },
-        {
-          "urutan": 16,
           "nama_siswa": "DINDA AYU ADELLIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:01:45",
           "sekolah_asal": "SDN MADE I / 475",
           "jarak": 1723.67321,
           "asal_kelurahan": "MADE"
+        },
+        {
+          "urutan": 16,
+          "nama_siswa": "DAMAR MAULANA RAMADHANI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:03:25",
+          "sekolah_asal": "SDN MANUKAN KULON II/499",
+          "jarak": 1728.93044,
+          "asal_kelurahan": "LONTAR"
         }
       ]
     },
@@ -8509,12 +8527,12 @@
       "id": 21,
       "nama": "SMPN 21 Surabaya",
       "pagu": 68,
-      "jp_pilihan1": 15,
+      "jp_pilihan1": 16,
       "jp_pilihan2": 43,
-      "total_pendaftar": 58,
+      "total_pendaftar": 59,
       "highest_score": 589.26663,
       "lowest_score": 1164.33826,
-      "waktu_api": "2026-07-05T16:48:43.981777Z",
+      "waktu_api": "2026-07-05T18:23:04.336721Z",
       "ranking": [
         {
           "urutan": 1,
@@ -8545,21 +8563,21 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "FERNANDO PUTRA HERMANSYAH",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 10:25:26",
-          "sekolah_asal": "SDN JAMBANGAN I",
-          "jarak": 746.74913,
-          "asal_kelurahan": "KARAH"
-        },
-        {
-          "urutan": 2,
           "nama_siswa": "SATRIA DWI JANUAR",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:56",
           "sekolah_asal": "SDN JAMBANGAN I",
           "jarak": 138.45103,
           "asal_kelurahan": "JAMBANGAN"
+        },
+        {
+          "urutan": 2,
+          "nama_siswa": "FERNANDO PUTRA HERMANSYAH",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 10:25:26",
+          "sekolah_asal": "SDN JAMBANGAN I",
+          "jarak": 746.74913,
+          "asal_kelurahan": "KARAH"
         },
         {
           "urutan": 2,
@@ -8581,15 +8599,6 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "MALIKA AZZALEA ARIFIANTO",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 07:33:31",
-          "sekolah_asal": "SDN KEBONSARI I / 414",
-          "jarak": 1125.33191,
-          "asal_kelurahan": "KEBONSARI"
-        },
-        {
-          "urutan": 3,
           "nama_siswa": "ITA TRISNAWATI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:10:05",
@@ -8598,13 +8607,13 @@
           "asal_kelurahan": "KARAH"
         },
         {
-          "urutan": 4,
-          "nama_siswa": "MARSYAH ADIRA NOVA AZZAHRA",
+          "urutan": 3,
+          "nama_siswa": "MALIKA AZZALEA ARIFIANTO",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 07:43:38",
-          "sekolah_asal": "SDN JAMBANGAN I",
-          "jarak": 903.69071,
-          "asal_kelurahan": "KARAH"
+          "waktu_pendaftaran": "2026-07-05 07:33:31",
+          "sekolah_asal": "SDN KEBONSARI I / 414",
+          "jarak": 1125.33191,
+          "asal_kelurahan": "KEBONSARI"
         },
         {
           "urutan": 4,
@@ -8616,12 +8625,12 @@
           "asal_kelurahan": "JAMBANGAN"
         },
         {
-          "urutan": 5,
-          "nama_siswa": "SAKHA DANNIS RAHARDJO",
+          "urutan": 4,
+          "nama_siswa": "MARSYAH ADIRA NOVA AZZAHRA",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:14:05",
-          "sekolah_asal": "SDN KARAH  I",
-          "jarak": 1032.7554,
+          "waktu_pendaftaran": "2026-07-05 07:43:38",
+          "sekolah_asal": "SDN JAMBANGAN I",
+          "jarak": 903.69071,
           "asal_kelurahan": "KARAH"
         },
         {
@@ -8634,12 +8643,21 @@
           "asal_kelurahan": "JAMBANGAN"
         },
         {
+          "urutan": 5,
+          "nama_siswa": "SAKHA DANNIS RAHARDJO",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:14:05",
+          "sekolah_asal": "SDN KARAH  I",
+          "jarak": 1032.7554,
+          "asal_kelurahan": "KARAH"
+        },
+        {
           "urutan": 6,
-          "nama_siswa": "SALSABILA AULIA IZZATUNNISA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:25:33",
-          "sekolah_asal": "PKBM Imam Nawawi",
-          "jarak": 556.6426,
+          "nama_siswa": "DIMAS APRILLIO RAGA KUMALA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 00:31:32",
+          "sekolah_asal": "SDN JAMBANGAN I",
+          "jarak": 512.75797,
           "asal_kelurahan": "JAMBANGAN"
         },
         {
@@ -8659,6 +8677,15 @@
           "sekolah_asal": "SDN GELURAN 3 TAMAN",
           "jarak": 1054.57132,
           "asal_kelurahan": "KARAH"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "SALSABILA AULIA IZZATUNNISA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:25:33",
+          "sekolah_asal": "PKBM Imam Nawawi",
+          "jarak": 556.6426,
+          "asal_kelurahan": "JAMBANGAN"
         },
         {
           "urutan": 8,
@@ -8739,11 +8766,11 @@
       "nama": "SMPN 22 Surabaya",
       "pagu": 68,
       "jp_pilihan1": 45,
-      "jp_pilihan2": 74,
-      "total_pendaftar": 119,
+      "jp_pilihan2": 75,
+      "total_pendaftar": 120,
       "highest_score": 122.34241,
       "lowest_score": 1013.94144,
-      "waktu_api": "2026-07-05T17:13:47.372983Z",
+      "waktu_api": "2026-07-05T18:16:55.729628Z",
       "ranking": [
         {
           "urutan": 1,
@@ -9364,11 +9391,11 @@
       "nama": "SMPN 23 Surabaya",
       "pagu": 54,
       "jp_pilihan1": 28,
-      "jp_pilihan2": 116,
-      "total_pendaftar": 144,
+      "jp_pilihan2": 117,
+      "total_pendaftar": 145,
       "highest_score": 208.05309,
       "lowest_score": 2167.36489,
-      "waktu_api": "2026-07-05T17:15:31.980658Z",
+      "waktu_api": "2026-07-05T18:16:11.170782Z",
       "ranking": [
         {
           "urutan": 1,
@@ -9719,21 +9746,12 @@
       "nama": "SMPN 24 Surabaya",
       "pagu": 64,
       "jp_pilihan1": 17,
-      "jp_pilihan2": 103,
-      "total_pendaftar": 120,
-      "highest_score": 1397.36015,
+      "jp_pilihan2": 105,
+      "total_pendaftar": 122,
+      "highest_score": 2915.08945,
       "lowest_score": 1600.23632,
-      "waktu_api": "2026-07-05T16:54:22.247759Z",
+      "waktu_api": "2026-07-05T18:30:36.055652Z",
       "ranking": [
-        {
-          "urutan": 1,
-          "nama_siswa": "ABRISAM ABDUL JALIL",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 14:56:30",
-          "sekolah_asal": "MIS NURUL HUDA",
-          "jarak": 1397.36015,
-          "asal_kelurahan": "KEDURUS"
-        },
         {
           "urutan": 1,
           "nama_siswa": "M. AZRIL KUSWANTO",
@@ -9754,12 +9772,30 @@
         },
         {
           "urutan": 1,
+          "nama_siswa": "ARSHANDY BHISAM AL VARRIEL",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:10:39",
+          "sekolah_asal": "SDN KEDURUS III / 430",
+          "jarak": 1192.91644,
+          "asal_kelurahan": "KEDURUS"
+        },
+        {
+          "urutan": 1,
           "nama_siswa": "DYANDRA BANGGA SAKHA YAFIQ",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:18:19",
           "sekolah_asal": "SD MUHAMMADIYAH 22 SURABAYA",
           "jarak": 232.31353,
           "asal_kelurahan": "KEBRAON"
+        },
+        {
+          "urutan": 2,
+          "nama_siswa": "ABRISAM ABDUL JALIL",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 14:56:30",
+          "sekolah_asal": "MIS NURUL HUDA",
+          "jarak": 1397.36015,
+          "asal_kelurahan": "KEDURUS"
         },
         {
           "urutan": 2,
@@ -9789,15 +9825,6 @@
           "asal_kelurahan": "WARUGUNUNG"
         },
         {
-          "urutan": 2,
-          "nama_siswa": "FEANDRA RIZAL ALVIANO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:55:55",
-          "sekolah_asal": "SDN KEDURUS I",
-          "jarak": 1507.87006,
-          "asal_kelurahan": "KEDURUS"
-        },
-        {
           "urutan": 3,
           "nama_siswa": "ALYA ALTHAQIELA ARINA PUTRI",
           "pilihan_ke": 2,
@@ -9817,11 +9844,11 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "VERONICA BILQIS PELANGI ESPERANZA",
+          "nama_siswa": "FEANDRA RIZAL ALVIANO",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:23:43",
-          "sekolah_asal": "SD SITI AMINAH SURABAYA",
-          "jarak": 1531.43769,
+          "waktu_pendaftaran": "2026-07-05 01:55:55",
+          "sekolah_asal": "SDN KEDURUS I",
+          "jarak": 1507.87006,
           "asal_kelurahan": "KEDURUS"
         },
         {
@@ -9844,21 +9871,21 @@
         },
         {
           "urutan": 4,
-          "nama_siswa": "ADITYA BASKARA PUTRA LUKMANSYAH",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 12:42:12",
-          "sekolah_asal": "SD KHADIJAH",
-          "jarak": 1571.70726,
-          "asal_kelurahan": "KEDURUS"
-        },
-        {
-          "urutan": 4,
           "nama_siswa": "ALICA DIANTRY MAHARANI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:57:14",
           "sekolah_asal": "SDN KARANG PILANG I",
           "jarak": 1480.0039,
           "asal_kelurahan": "KARANGPILANG"
+        },
+        {
+          "urutan": 4,
+          "nama_siswa": "VERONICA BILQIS PELANGI ESPERANZA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:23:43",
+          "sekolah_asal": "SD SITI AMINAH SURABAYA",
+          "jarak": 1531.43769,
+          "asal_kelurahan": "KEDURUS"
         },
         {
           "urutan": 4,
@@ -9871,21 +9898,12 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "MOH. ABYAN PRANAJA SAVA ALHADI",
+          "nama_siswa": "ADITYA BASKARA PUTRA LUKMANSYAH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 12:40:24",
-          "sekolah_asal": "SDN Cakung Timur 09",
-          "jarak": 1603.60077,
+          "waktu_pendaftaran": "2026-07-05 12:42:12",
+          "sekolah_asal": "SD KHADIJAH",
+          "jarak": 1571.70726,
           "asal_kelurahan": "KEDURUS"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "MARIA FARICA JACINDA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 05:05:32",
-          "sekolah_asal": "SD KATOLIK SANTO YUSUP SURABAYA",
-          "jarak": 593.02406,
-          "asal_kelurahan": "KEBRAON"
         },
         {
           "urutan": 5,
@@ -9898,30 +9916,21 @@
         },
         {
           "urutan": 5,
+          "nama_siswa": "MARIA FARICA JACINDA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 05:05:32",
+          "sekolah_asal": "SD KATOLIK SANTO YUSUP SURABAYA",
+          "jarak": 593.02406,
+          "asal_kelurahan": "KEBRAON"
+        },
+        {
+          "urutan": 5,
           "nama_siswa": "MUHAMMAD REVAN MAULANA HABIBIE",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:26:43",
           "sekolah_asal": "SDN WARUGUNUNG I",
           "jarak": 3647.86764,
           "asal_kelurahan": "WARUGUNUNG"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "MOCH. BRILLIANT MARTPYWANTARA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:23:23",
-          "sekolah_asal": "SD Budi Utomo Gresik",
-          "jarak": 1751.85197,
-          "asal_kelurahan": "KEDURUS"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "WIRA SATYA NUGRAHA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 10:07:49",
-          "sekolah_asal": "SDN KEDURUS III / 430",
-          "jarak": 674.93694,
-          "asal_kelurahan": "KEBRAON"
         },
         {
           "urutan": 6,
@@ -9942,6 +9951,24 @@
           "asal_kelurahan": "WARUGUNUNG"
         },
         {
+          "urutan": 6,
+          "nama_siswa": "MOH. ABYAN PRANAJA SAVA ALHADI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 12:40:24",
+          "sekolah_asal": "SDN Cakung Timur 09",
+          "jarak": 1603.60077,
+          "asal_kelurahan": "KEDURUS"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "WIRA SATYA NUGRAHA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 10:07:49",
+          "sekolah_asal": "SDN KEDURUS III / 430",
+          "jarak": 674.93694,
+          "asal_kelurahan": "KEBRAON"
+        },
+        {
           "urutan": 7,
           "nama_siswa": "MOCH. HAMKAH PRATAMA",
           "pilihan_ke": 1,
@@ -9952,12 +9979,12 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "DELISHA FIRZANAH",
+          "nama_siswa": "MOCH. BRILLIANT MARTPYWANTARA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 09:34:38",
-          "sekolah_asal": "SD ISLAM TERPADU AT TAQWA 2",
-          "jarak": 914.74256,
-          "asal_kelurahan": "KEBRAON"
+          "waktu_pendaftaran": "2026-07-05 01:23:23",
+          "sekolah_asal": "SD Budi Utomo Gresik",
+          "jarak": 1751.85197,
+          "asal_kelurahan": "KEDURUS"
         },
         {
           "urutan": 7,
@@ -9969,13 +9996,13 @@
           "asal_kelurahan": "WARUGUNUNG"
         },
         {
-          "urutan": 8,
-          "nama_siswa": "MUHAMMAD TRISTAN AL KHALIFI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:02:12",
-          "sekolah_asal": "SDN TAWANGSARI 3",
-          "jarak": 2188.64017,
-          "asal_kelurahan": "KARANGPILANG"
+          "urutan": 7,
+          "nama_siswa": "DELISHA FIRZANAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 09:34:38",
+          "sekolah_asal": "SD ISLAM TERPADU AT TAQWA 2",
+          "jarak": 914.74256,
+          "asal_kelurahan": "KEBRAON"
         },
         {
           "urutan": 8,
@@ -9985,6 +10012,15 @@
           "sekolah_asal": "SDN KEBRAON II / 437",
           "jarak": 1276.69696,
           "asal_kelurahan": "KEBRAON"
+        },
+        {
+          "urutan": 8,
+          "nama_siswa": "MUHAMMAD TRISTAN AL KHALIFI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:02:12",
+          "sekolah_asal": "SDN TAWANGSARI 3",
+          "jarak": 2188.64017,
+          "asal_kelurahan": "KARANGPILANG"
         },
         {
           "urutan": 9,
@@ -10046,12 +10082,12 @@
       "id": 25,
       "nama": "SMPN 25 Surabaya",
       "pagu": 66,
-      "jp_pilihan1": 64,
-      "jp_pilihan2": 131,
-      "total_pendaftar": 195,
+      "jp_pilihan1": 65,
+      "jp_pilihan2": 132,
+      "total_pendaftar": 197,
       "highest_score": 1746.86891,
       "lowest_score": 2149.81264,
-      "waktu_api": "2026-07-05T17:12:13.669655Z",
+      "waktu_api": "2026-07-05T18:13:42.628179Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10226,6 +10262,15 @@
         },
         {
           "urutan": 5,
+          "nama_siswa": "MOCHAMMAD FAIRUS ARSENIO KHOIRUDDIN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:02:01",
+          "sekolah_asal": "SDN TANDES KIDUL I / 110",
+          "jarak": 2397.9121,
+          "asal_kelurahan": "TANJUNGSARI"
+        },
+        {
+          "urutan": 5,
           "nama_siswa": "MOCH. FIQIH MAULANA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 12:59:37",
@@ -10243,15 +10288,6 @@
           "asal_kelurahan": "SIMOMULYO"
         },
         {
-          "urutan": 5,
-          "nama_siswa": "MOCHAMMAD FAIRUS ARSENIO KHOIRUDDIN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:02:01",
-          "sekolah_asal": "SDN TANDES KIDUL I / 110",
-          "jarak": 2397.9121,
-          "asal_kelurahan": "TANJUNGSARI"
-        },
-        {
           "urutan": 6,
           "nama_siswa": "ALDY FIRMANSYAH PUTRA WIJAYA DAULIMA",
           "pilihan_ke": 1,
@@ -10262,21 +10298,21 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "IQBAL WAHID SAPUTRA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:07:28",
-          "sekolah_asal": "SDN TANDES KIDUL I / 110",
-          "jarak": 509.31227,
-          "asal_kelurahan": "SIMOMULYO"
-        },
-        {
-          "urutan": 6,
           "nama_siswa": "MUHAMMAD ALVARO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:04:50",
           "sekolah_asal": "SDS Raden Patah Surabaya",
           "jarak": 2423.29716,
           "asal_kelurahan": "TANJUNGSARI"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "IQBAL WAHID SAPUTRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:07:28",
+          "sekolah_asal": "SDN TANDES KIDUL I / 110",
+          "jarak": 509.31227,
+          "asal_kelurahan": "SIMOMULYO"
         },
         {
           "urutan": 6,
@@ -10307,15 +10343,6 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "SHEZA AMARANIDA DZAKIA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:06:08",
-          "sekolah_asal": "SDI AL MUAWANAH",
-          "jarak": 2437.69149,
-          "asal_kelurahan": "TANJUNGSARI"
-        },
-        {
-          "urutan": 7,
           "nama_siswa": "THERESIA AMA TRI HAPSARI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 11:28:28",
@@ -10324,13 +10351,22 @@
           "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
+          "urutan": 7,
+          "nama_siswa": "SHEZA AMARANIDA DZAKIA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:06:08",
+          "sekolah_asal": "SDI AL MUAWANAH",
+          "jarak": 2437.69149,
+          "asal_kelurahan": "TANJUNGSARI"
+        },
+        {
           "urutan": 8,
-          "nama_siswa": "FAUZAN SOFYAN NOOR",
+          "nama_siswa": "RADITYA AINNURACHMAN",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 02:31:48",
-          "sekolah_asal": "SD NEGERI KLOPOSEPULUH 2",
-          "jarak": 1819.06537,
-          "asal_kelurahan": "SUKOMANUNGGAL"
+          "waktu_pendaftaran": "2026-07-06 00:47:32",
+          "sekolah_asal": "SDN SIMOMULYO IV/101",
+          "jarak": 576.11426,
+          "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
           "urutan": 8,
@@ -10343,20 +10379,20 @@
         },
         {
           "urutan": 8,
+          "nama_siswa": "FAUZAN SOFYAN NOOR",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 02:31:48",
+          "sekolah_asal": "SD NEGERI KLOPOSEPULUH 2",
+          "jarak": 1819.06537,
+          "asal_kelurahan": "SUKOMANUNGGAL"
+        },
+        {
+          "urutan": 9,
           "nama_siswa": "KHOIRUNNISA FITRI FARADILLA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 10:18:53",
           "sekolah_asal": "SDN SIMOMULYO IV/101",
           "jarak": 576.6065,
-          "asal_kelurahan": "SIMOMULYOBARU"
-        },
-        {
-          "urutan": 9,
-          "nama_siswa": "MUHAMMAD ILHAM AKBAR WIJANARKO",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:04:36",
-          "sekolah_asal": "SD MUHAMMADIYAH 12 Surabaya",
-          "jarak": 577.43099,
           "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
@@ -10379,11 +10415,11 @@
         },
         {
           "urutan": 10,
-          "nama_siswa": "TRISTAN DESTA ERLANGGA",
+          "nama_siswa": "MUHAMMAD ILHAM AKBAR WIJANARKO",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:07:51",
-          "sekolah_asal": "SDN PETEMON XII /360",
-          "jarak": 577.78727,
+          "waktu_pendaftaran": "2026-07-05 01:04:36",
+          "sekolah_asal": "SD MUHAMMADIYAH 12 Surabaya",
+          "jarak": 577.43099,
           "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
@@ -10406,21 +10442,21 @@
         },
         {
           "urutan": 11,
-          "nama_siswa": "KHANSA ADIBA AZ ZAHRA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:11:07",
-          "sekolah_asal": "SDN SIMOMULYO I/98",
-          "jarak": 579.42486,
-          "asal_kelurahan": "SIMOMULYOBARU"
-        },
-        {
-          "urutan": 11,
           "nama_siswa": "DYMAR FILLAAHI PUTRA YULIANTO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 13:12:20",
           "sekolah_asal": "SDN SIMOMULYO IV/101",
           "jarak": 591.45213,
           "asal_kelurahan": "SIMOMULYO"
+        },
+        {
+          "urutan": 11,
+          "nama_siswa": "TRISTAN DESTA ERLANGGA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:07:51",
+          "sekolah_asal": "SDN PETEMON XII /360",
+          "jarak": 577.78727,
+          "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
           "urutan": 11,
@@ -10442,7 +10478,7 @@
       "total_pendaftar": 315,
       "highest_score": 423.70325,
       "lowest_score": 2176.84134,
-      "waktu_api": "2026-07-05T17:12:14.123009Z",
+      "waktu_api": "2026-07-05T18:14:38.926266Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10990,12 +11026,12 @@
       "id": 27,
       "nama": "SMPN 27 Surabaya",
       "pagu": 50,
-      "jp_pilihan1": 37,
-      "jp_pilihan2": 230,
-      "total_pendaftar": 267,
+      "jp_pilihan1": 38,
+      "jp_pilihan2": 232,
+      "total_pendaftar": 270,
       "highest_score": 1813.01803,
       "lowest_score": 658.16361,
-      "waktu_api": "2026-07-05T17:14:23.958246Z",
+      "waktu_api": "2026-07-05T18:16:43.546818Z",
       "ranking": [
         {
           "urutan": 1,
@@ -11413,7 +11449,7 @@
       "total_pendaftar": 147,
       "highest_score": 1840.13276,
       "lowest_score": 860.93337,
-      "waktu_api": "2026-07-05T17:16:18.818030Z",
+      "waktu_api": "2026-07-05T18:18:36.857480Z",
       "ranking": [
         {
           "urutan": 1,
@@ -11782,11 +11818,11 @@
       "nama": "SMPN 29 Surabaya",
       "pagu": 56,
       "jp_pilihan1": 29,
-      "jp_pilihan2": 367,
-      "total_pendaftar": 396,
+      "jp_pilihan2": 368,
+      "total_pendaftar": 397,
       "highest_score": 1563.61163,
       "lowest_score": 1681.45261,
-      "waktu_api": "2026-07-05T17:12:04.979087Z",
+      "waktu_api": "2026-07-05T18:12:35.005406Z",
       "ranking": [
         {
           "urutan": 1,
@@ -12303,7 +12339,7 @@
       "total_pendaftar": 129,
       "highest_score": 2550.10997,
       "lowest_score": 1840.51889,
-      "waktu_api": "2026-07-05T17:16:43.940083Z",
+      "waktu_api": "2026-07-05T18:16:57.726823Z",
       "ranking": [
         {
           "urutan": 1,
@@ -12712,7 +12748,7 @@
       "total_pendaftar": 232,
       "highest_score": 441.34289,
       "lowest_score": 655.89702,
-      "waktu_api": "2026-07-05T17:13:22.048266Z",
+      "waktu_api": "2026-07-05T18:15:10.266944Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13153,11 +13189,11 @@
       "nama": "SMPN 32 Surabaya",
       "pagu": 60,
       "jp_pilihan1": 21,
-      "jp_pilihan2": 139,
-      "total_pendaftar": 160,
+      "jp_pilihan2": 141,
+      "total_pendaftar": 162,
       "highest_score": 186.65662,
       "lowest_score": 2166.22926,
-      "waktu_api": "2026-07-05T17:10:56.190701Z",
+      "waktu_api": "2026-07-05T18:11:43.562974Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13598,11 +13634,11 @@
       "nama": "SMPN 33 Surabaya",
       "pagu": 48,
       "jp_pilihan1": 11,
-      "jp_pilihan2": 80,
-      "total_pendaftar": 91,
+      "jp_pilihan2": 81,
+      "total_pendaftar": 92,
       "highest_score": 2396.93485,
       "lowest_score": 2025.26666,
-      "waktu_api": "2026-07-05T17:16:00.070878Z",
+      "waktu_api": "2026-07-05T18:16:59.888667Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13840,7 +13876,7 @@
       "total_pendaftar": 32,
       "highest_score": 1714.23033,
       "lowest_score": 1838.54989,
-      "waktu_api": "2026-07-05T16:50:53.520665Z",
+      "waktu_api": "2026-07-05T18:21:27.702693Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14037,12 +14073,12 @@
       "id": 35,
       "nama": "SMPN 35 Surabaya",
       "pagu": 60,
-      "jp_pilihan1": 51,
+      "jp_pilihan1": 52,
       "jp_pilihan2": 131,
-      "total_pendaftar": 182,
+      "total_pendaftar": 183,
       "highest_score": 623.58369,
       "lowest_score": 4044.66062,
-      "waktu_api": "2026-07-05T17:10:53.297476Z",
+      "waktu_api": "2026-07-05T18:13:19.979983Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14271,30 +14307,21 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "FERLISA JIHAN QONITA",
+          "nama_siswa": "AISYI ALMIRA ALI",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 19:57:06",
-          "sekolah_asal": "SDN KENDANGSARI IV/279",
-          "jarak": 797.96002,
+          "waktu_pendaftaran": "2026-07-06 00:19:46",
+          "sekolah_asal": "SD KHADIJAH",
+          "jarak": 761.09462,
           "asal_kelurahan": "KALIRUNGKUT"
         },
         {
           "urutan": 5,
-          "nama_siswa": "ARACELLO HADI PURWANA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:12:48",
-          "sekolah_asal": "SDN 2 DENGKOL SINGOSARI",
-          "jarak": 3191.02635,
-          "asal_kelurahan": "WONOREJO"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "RADITYA ARJUNA WICAKSONO",
+          "nama_siswa": "MOHAMMAD AZZAM BIMANTARA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:51:43",
-          "sekolah_asal": "SDN MEDOKAN AYU I /270",
-          "jarak": 2814.78629,
-          "asal_kelurahan": "MEDOKANAYU"
+          "waktu_pendaftaran": "2026-07-05 01:06:49",
+          "sekolah_asal": "SD NEGERI SEDATIGEDE 2",
+          "jarak": 1092.93767,
+          "asal_kelurahan": "PENJARINGANSARI"
         },
         {
           "urutan": 5,
@@ -14307,12 +14334,21 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "MOHAMMAD AZZAM BIMANTARA",
+          "nama_siswa": "RADITYA ARJUNA WICAKSONO",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:06:49",
-          "sekolah_asal": "SD NEGERI SEDATIGEDE 2",
-          "jarak": 1092.93767,
-          "asal_kelurahan": "PENJARINGANSARI"
+          "waktu_pendaftaran": "2026-07-05 06:51:43",
+          "sekolah_asal": "SDN MEDOKAN AYU I /270",
+          "jarak": 2814.78629,
+          "asal_kelurahan": "MEDOKANAYU"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "ARACELLO HADI PURWANA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:12:48",
+          "sekolah_asal": "SDN 2 DENGKOL SINGOSARI",
+          "jarak": 3191.02635,
+          "asal_kelurahan": "WONOREJO"
         },
         {
           "urutan": 6,
@@ -14322,6 +14358,33 @@
           "sekolah_asal": "SDN SUMURWELUT I /438",
           "jarak": 1723.8681,
           "asal_kelurahan": "KEDUNGBARUK"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "MUCHAMMAD RAFFA EFFENDI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:03:48",
+          "sekolah_asal": "SDN KALIRUNGKUT I /264",
+          "jarak": 808.2419,
+          "asal_kelurahan": "RUNGKUTKIDUL"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "ARUNA LARASATI ABSARI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:04:08",
+          "sekolah_asal": "SD AL FALAH ASSALAM",
+          "jarak": 3417.92949,
+          "asal_kelurahan": "WONOREJO"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "FERLISA JIHAN QONITA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 19:57:06",
+          "sekolah_asal": "SDN KENDANGSARI IV/279",
+          "jarak": 797.96002,
+          "asal_kelurahan": "KALIRUNGKUT"
         },
         {
           "urutan": 6,
@@ -14342,33 +14405,6 @@
           "asal_kelurahan": "PENJARINGANSARI"
         },
         {
-          "urutan": 6,
-          "nama_siswa": "ARUNA LARASATI ABSARI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:04:08",
-          "sekolah_asal": "SD AL FALAH ASSALAM",
-          "jarak": 3417.92949,
-          "asal_kelurahan": "WONOREJO"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "MUCHAMMAD RAFFA EFFENDI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:03:48",
-          "sekolah_asal": "SDN KALIRUNGKUT I /264",
-          "jarak": 808.2419,
-          "asal_kelurahan": "RUNGKUTKIDUL"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "ANDHIKA TRI DYANDRA NUR SEINA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 20:50:12",
-          "sekolah_asal": "SDN KENDANGSARI III /278",
-          "jarak": 1678.31806,
-          "asal_kelurahan": "KALIRUNGKUT"
-        },
-        {
           "urutan": 7,
           "nama_siswa": "MUHAMMAD AZRIL EKA OKTORA",
           "pilihan_ke": 2,
@@ -14379,21 +14415,30 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "RAFI CAHYA YUDISTIRA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:41:35",
-          "sekolah_asal": "SDN RUNGKUT KIDUL I /267",
-          "jarak": 831.78786,
-          "asal_kelurahan": "RUNGKUTKIDUL"
-        },
-        {
-          "urutan": 7,
           "nama_siswa": "ARJUNA YUSUF AL FATIH PRASETYO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:16:11",
           "sekolah_asal": "MIS MUHAMMADIYAH 27 SURABAYA",
           "jarak": 3853.10477,
           "asal_kelurahan": "WONOREJO"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "ANDHIKA TRI DYANDRA NUR SEINA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 20:50:12",
+          "sekolah_asal": "SDN KENDANGSARI III /278",
+          "jarak": 1678.31806,
+          "asal_kelurahan": "KALIRUNGKUT"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "RAFI CAHYA YUDISTIRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 06:41:35",
+          "sekolah_asal": "SDN RUNGKUT KIDUL I /267",
+          "jarak": 831.78786,
+          "asal_kelurahan": "RUNGKUTKIDUL"
         },
         {
           "urutan": 7,
@@ -14424,21 +14469,21 @@
         },
         {
           "urutan": 8,
-          "nama_siswa": "MAULANA NUR WACHID",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:48:34",
-          "sekolah_asal": "SDN WONOREJO 274",
-          "jarak": 3876.90824,
-          "asal_kelurahan": "WONOREJO"
-        },
-        {
-          "urutan": 8,
           "nama_siswa": "MAGDANINGRUM KURNIA PRAMUJARI",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 02:17:33",
           "sekolah_asal": "SEKOLAH DASAR INTAN PERMATA HATI KAMPUS TIMUR SURABAYA",
           "jarak": 844.97862,
           "asal_kelurahan": "RUNGKUTKIDUL"
+        },
+        {
+          "urutan": 8,
+          "nama_siswa": "MAULANA NUR WACHID",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:48:34",
+          "sekolah_asal": "SDN WONOREJO 274",
+          "jarak": 3876.90824,
+          "asal_kelurahan": "WONOREJO"
         },
         {
           "urutan": 9,
@@ -14460,15 +14505,6 @@
         },
         {
           "urutan": 9,
-          "nama_siswa": "NIBRAZ DAFA SABILILLAH",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 09:04:46",
-          "sekolah_asal": "SD ISLAM TARBIYATUL ATHFAL SURABAYA",
-          "jarak": 3988.2499,
-          "asal_kelurahan": "WONOREJO"
-        },
-        {
-          "urutan": 9,
           "nama_siswa": "DARA JINGGA PUTRI BASKORO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:22:02",
@@ -14477,13 +14513,22 @@
           "asal_kelurahan": "PENJARINGANSARI"
         },
         {
-          "urutan": 10,
-          "nama_siswa": "ALYA YASMIN QONITA",
+          "urutan": 9,
+          "nama_siswa": "NIBRAZ DAFA SABILILLAH",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 23:22:58",
-          "sekolah_asal": "SD Al Muslim",
-          "jarak": 885.23383,
-          "asal_kelurahan": "RUNGKUTKIDUL"
+          "waktu_pendaftaran": "2026-07-05 09:04:46",
+          "sekolah_asal": "SD ISLAM TARBIYATUL ATHFAL SURABAYA",
+          "jarak": 3988.2499,
+          "asal_kelurahan": "WONOREJO"
+        },
+        {
+          "urutan": 10,
+          "nama_siswa": "AHMAD FARID ZANUAR",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 14:47:28",
+          "sekolah_asal": "SDN MEDOKAN AYU II /615",
+          "jarak": 3080.06495,
+          "asal_kelurahan": "MEDOKANAYU"
         },
         {
           "urutan": 10,
@@ -14496,12 +14541,12 @@
         },
         {
           "urutan": 10,
-          "nama_siswa": "AHMAD FARID ZANUAR",
+          "nama_siswa": "ALYA YASMIN QONITA",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 14:47:28",
-          "sekolah_asal": "SDN MEDOKAN AYU II /615",
-          "jarak": 3080.06495,
-          "asal_kelurahan": "MEDOKANAYU"
+          "waktu_pendaftaran": "2026-07-05 23:22:58",
+          "sekolah_asal": "SD Al Muslim",
+          "jarak": 885.23383,
+          "asal_kelurahan": "RUNGKUTKIDUL"
         },
         {
           "urutan": 10,
@@ -14523,7 +14568,7 @@
       "total_pendaftar": 76,
       "highest_score": 188.29756,
       "lowest_score": 1108.09289,
-      "waktu_api": "2026-07-05T16:55:30.408257Z",
+      "waktu_api": "2026-07-05T18:29:16.003617Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14635,7 +14680,7 @@
       "total_pendaftar": 41,
       "highest_score": 334.53342,
       "lowest_score": 3303.92265,
-      "waktu_api": "2026-07-05T17:05:15.969802Z",
+      "waktu_api": "2026-07-05T18:09:03.240240Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14733,21 +14778,21 @@
       "id": 38,
       "nama": "SMPN 38 Surabaya",
       "pagu": 40,
-      "jp_pilihan1": 5,
+      "jp_pilihan1": 6,
       "jp_pilihan2": 78,
-      "total_pendaftar": 83,
-      "highest_score": 1307.2555,
+      "total_pendaftar": 84,
+      "highest_score": 911.08111,
       "lowest_score": 2125.63767,
-      "waktu_api": "2026-07-05T16:51:47.480601Z",
+      "waktu_api": "2026-07-05T18:35:20.600547Z",
       "ranking": [
         {
           "urutan": 1,
-          "nama_siswa": "AINNAGHIZA NAVRELIA BRILIANIKA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:02:05",
-          "sekolah_asal": "SDN JEPARA I 90",
-          "jarak": 1307.2555,
-          "asal_kelurahan": "MOROKREMBANGAN"
+          "nama_siswa": "ZHAFRAN HAIDAR RASYID",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 00:29:34",
+          "sekolah_asal": "SDN PERAK BARAT IV /  04",
+          "jarak": 911.08111,
+          "asal_kelurahan": "KEMAYORAN"
         },
         {
           "urutan": 1,
@@ -14760,12 +14805,12 @@
         },
         {
           "urutan": 1,
-          "nama_siswa": "ILHAM AL FARISI",
+          "nama_siswa": "AINNAGHIZA NAVRELIA BRILIANIKA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:08:34",
-          "sekolah_asal": "SDN KEMAYORAN I",
-          "jarak": 975.55974,
-          "asal_kelurahan": "KEMAYORAN"
+          "waktu_pendaftaran": "2026-07-05 01:02:05",
+          "sekolah_asal": "SDN JEPARA I 90",
+          "jarak": 1307.2555,
+          "asal_kelurahan": "MOROKREMBANGAN"
         },
         {
           "urutan": 1,
@@ -14796,11 +14841,11 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "SAMSUL ARIFIN",
+          "nama_siswa": "ILHAM AL FARISI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:47:38",
+          "waktu_pendaftaran": "2026-07-05 07:08:34",
           "sekolah_asal": "SDN KEMAYORAN I",
-          "jarak": 1004.57905,
+          "jarak": 975.55974,
           "asal_kelurahan": "KEMAYORAN"
         },
         {
@@ -14823,6 +14868,15 @@
         },
         {
           "urutan": 3,
+          "nama_siswa": "SAMSUL ARIFIN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 02:47:38",
+          "sekolah_asal": "SDN KEMAYORAN I",
+          "jarak": 1004.57905,
+          "asal_kelurahan": "KEMAYORAN"
+        },
+        {
+          "urutan": 3,
           "nama_siswa": "ALVIN ALVIANO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 19:43:11",
@@ -14838,15 +14892,6 @@
           "sekolah_asal": "SDN JEPARA I 90",
           "jarak": 1371.18604,
           "asal_kelurahan": "MOROKREMBANGAN"
-        },
-        {
-          "urutan": 3,
-          "nama_siswa": "M DIMAS RAMADHAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 13:00:57",
-          "sekolah_asal": "MI DEWI SARTIKA",
-          "jarak": 1023.03362,
-          "asal_kelurahan": "KEMAYORAN"
         },
         {
           "urutan": 4,
@@ -14876,6 +14921,15 @@
           "asal_kelurahan": "MOROKREMBANGAN"
         },
         {
+          "urutan": 4,
+          "nama_siswa": "M DIMAS RAMADHAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 13:00:57",
+          "sekolah_asal": "MI DEWI SARTIKA",
+          "jarak": 1023.03362,
+          "asal_kelurahan": "KEMAYORAN"
+        },
+        {
           "urutan": 5,
           "nama_siswa": "AUREL QURROTUL AYNI",
           "pilihan_ke": 2,
@@ -14883,6 +14937,15 @@
           "sekolah_asal": "MIS SABILAL MUTTAQIN",
           "jarak": 2068.67475,
           "asal_kelurahan": "DUPAK"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "MUHAMMAD YUSRIL",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 04:36:25",
+          "sekolah_asal": "SDN KEMAYORAN I",
+          "jarak": 1127.1773,
+          "asal_kelurahan": "KREMBANGANSELATAN"
         },
         {
           "urutan": 5,
@@ -14895,21 +14958,21 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "REFAN MAULANA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:03:14",
-          "sekolah_asal": "SDN MOROKREMBANGAN I",
-          "jarak": 1572.15815,
-          "asal_kelurahan": "MOROKREMBANGAN"
-        },
-        {
-          "urutan": 6,
           "nama_siswa": "CHIKITA ASYIFA WINATA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 14:47:54",
           "sekolah_asal": "SDN GUNDIH",
           "jarak": 2088.16607,
           "asal_kelurahan": "DUPAK"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "REFAN MAULANA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:03:14",
+          "sekolah_asal": "SDN MOROKREMBANGAN I",
+          "jarak": 1572.15815,
+          "asal_kelurahan": "MOROKREMBANGAN"
         },
         {
           "urutan": 7,
@@ -14958,7 +15021,7 @@
       "total_pendaftar": 114,
       "highest_score": 688.0197,
       "lowest_score": 856.73409,
-      "waktu_api": "2026-07-05T17:18:08.344903Z",
+      "waktu_api": "2026-07-05T18:22:41.679851Z",
       "ranking": [
         {
           "urutan": 1,
@@ -15367,7 +15430,7 @@
       "total_pendaftar": 161,
       "highest_score": 1052.86492,
       "lowest_score": 2591.3603,
-      "waktu_api": "2026-07-05T17:15:25.884068Z",
+      "waktu_api": "2026-07-05T18:19:31.572164Z",
       "ranking": [
         {
           "urutan": 1,
@@ -15717,30 +15780,21 @@
       "id": 41,
       "nama": "SMPN 41 Surabaya",
       "pagu": 40,
-      "jp_pilihan1": 37,
-      "jp_pilihan2": 193,
-      "total_pendaftar": 230,
-      "highest_score": 377.7439,
+      "jp_pilihan1": 38,
+      "jp_pilihan2": 196,
+      "total_pendaftar": 234,
+      "highest_score": 747.18698,
       "lowest_score": 596.84869,
-      "waktu_api": "2026-07-05T17:14:22.345766Z",
+      "waktu_api": "2026-07-05T18:16:54.841813Z",
       "ranking": [
         {
           "urutan": 1,
-          "nama_siswa": "ARIEF RAMADHANI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 10:21:22",
-          "sekolah_asal": "SDN MOJO III / 222",
-          "jarak": 377.7439,
-          "asal_kelurahan": "SIDODADI"
-        },
-        {
-          "urutan": 1,
-          "nama_siswa": "RAFLI DARY RADHITYA",
+          "nama_siswa": "AKIHIKO FELLICE NOOR CALISTO",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:30:03",
-          "sekolah_asal": "SDN SIMOKERTO V /138",
-          "jarak": 465.02352,
-          "asal_kelurahan": "SIMOKERTO"
+          "waktu_pendaftaran": "2026-07-05 12:31:12",
+          "sekolah_asal": "SDN SIMOKERTO I/134",
+          "jarak": 747.18698,
+          "asal_kelurahan": "SIMOLAWANG"
         },
         {
           "urutan": 1,
@@ -15753,12 +15807,12 @@
         },
         {
           "urutan": 1,
-          "nama_siswa": "AKIHIKO FELLICE NOOR CALISTO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 12:31:12",
-          "sekolah_asal": "SDN SIMOKERTO I/134",
-          "jarak": 747.18698,
-          "asal_kelurahan": "SIMOLAWANG"
+          "nama_siswa": "ARIEF RAMADHANI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 10:21:22",
+          "sekolah_asal": "SDN MOJO III / 222",
+          "jarak": 377.7439,
+          "asal_kelurahan": "SIDODADI"
         },
         {
           "urutan": 1,
@@ -15770,30 +15824,12 @@
           "asal_kelurahan": "TAMBAKREJO"
         },
         {
-          "urutan": 2,
-          "nama_siswa": "BINTANG RIZKY KURNIAWAN",
+          "urutan": 1,
+          "nama_siswa": "RAFLI DARY RADHITYA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:27:52",
-          "sekolah_asal": "SD DHARMA SISWA SURABAYA",
-          "jarak": 766.73222,
-          "asal_kelurahan": "SIMOLAWANG"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "IFANA PUTRI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:05:53",
-          "sekolah_asal": "SDN KAPASARI I/ 292",
-          "jarak": 475.83505,
-          "asal_kelurahan": "KAPASAN"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "VANO AQILAH ARDHANI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:10:23",
+          "waktu_pendaftaran": "2026-07-05 01:30:03",
           "sekolah_asal": "SDN SIMOKERTO V /138",
-          "jarak": 554.50706,
+          "jarak": 465.02352,
           "asal_kelurahan": "SIMOKERTO"
         },
         {
@@ -15807,6 +15843,15 @@
         },
         {
           "urutan": 2,
+          "nama_siswa": "BINTANG RIZKY KURNIAWAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 06:27:52",
+          "sekolah_asal": "SD DHARMA SISWA SURABAYA",
+          "jarak": 766.73222,
+          "asal_kelurahan": "SIMOLAWANG"
+        },
+        {
+          "urutan": 2,
           "nama_siswa": "WINDRA RIFKI MAULANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:36:56",
@@ -15815,21 +15860,21 @@
           "asal_kelurahan": "SIDODADI"
         },
         {
-          "urutan": 3,
-          "nama_siswa": "FARYA FERDYNAND PRATAMA",
+          "urutan": 2,
+          "nama_siswa": "VANO AQILAH ARDHANI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:09:31",
-          "sekolah_asal": "SDN SIMOKERTO I/134",
-          "jarak": 767.43734,
-          "asal_kelurahan": "SIMOLAWANG"
+          "waktu_pendaftaran": "2026-07-05 01:10:23",
+          "sekolah_asal": "SDN SIMOKERTO V /138",
+          "jarak": 554.50706,
+          "asal_kelurahan": "SIMOKERTO"
         },
         {
-          "urutan": 3,
-          "nama_siswa": "JAVA AZKA FARRAS HALIM",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:10:06",
-          "sekolah_asal": "SEKOLAH DASAR ISLAM CHENG HOO",
-          "jarak": 510.38499,
+          "urutan": 2,
+          "nama_siswa": "IFANA PUTRI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:05:53",
+          "sekolah_asal": "SDN KAPASARI I/ 292",
+          "jarak": 475.83505,
           "asal_kelurahan": "KAPASAN"
         },
         {
@@ -15860,22 +15905,31 @@
           "asal_kelurahan": "SIDODADI"
         },
         {
-          "urutan": 4,
-          "nama_siswa": "PUTRI APRILLIA",
+          "urutan": 3,
+          "nama_siswa": "FARYA FERDYNAND PRATAMA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:13:26",
-          "sekolah_asal": "SD BUSTANUL HUDA",
-          "jarak": 565.03288,
-          "asal_kelurahan": "SIMOKERTO"
+          "waktu_pendaftaran": "2026-07-05 01:09:31",
+          "sekolah_asal": "SDN SIMOKERTO I/134",
+          "jarak": 767.43734,
+          "asal_kelurahan": "SIMOLAWANG"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "JAVA AZKA FARRAS HALIM",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:10:06",
+          "sekolah_asal": "SEKOLAH DASAR ISLAM CHENG HOO",
+          "jarak": 510.38499,
+          "asal_kelurahan": "KAPASAN"
         },
         {
           "urutan": 4,
-          "nama_siswa": "ALIYA ZHARA MARSHEILLA",
+          "nama_siswa": "BAHTIAR JEFRY HUSNI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 09:44:45",
-          "sekolah_asal": "SDN SIMOKERTO I/134",
-          "jarak": 512.08586,
-          "asal_kelurahan": "SIDODADI"
+          "waktu_pendaftaran": "2026-07-05 01:05:10",
+          "sekolah_asal": "SD MUHAMMADIYAH 17 SURABAYA",
+          "jarak": 772.60641,
+          "asal_kelurahan": "SIMOLAWANG"
         },
         {
           "urutan": 4,
@@ -15888,6 +15942,24 @@
         },
         {
           "urutan": 4,
+          "nama_siswa": "ALIYA ZHARA MARSHEILLA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 09:44:45",
+          "sekolah_asal": "SDN SIMOKERTO I/134",
+          "jarak": 512.08586,
+          "asal_kelurahan": "SIDODADI"
+        },
+        {
+          "urutan": 4,
+          "nama_siswa": "PUTRI APRILLIA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:13:26",
+          "sekolah_asal": "SD BUSTANUL HUDA",
+          "jarak": 565.03288,
+          "asal_kelurahan": "SIMOKERTO"
+        },
+        {
+          "urutan": 4,
           "nama_siswa": "SAFIRA ROBIATUL AZALIAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:08:21",
@@ -15896,31 +15968,13 @@
           "asal_kelurahan": "TAMBAKREJO"
         },
         {
-          "urutan": 4,
-          "nama_siswa": "BAHTIAR JEFRY HUSNI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:05:10",
-          "sekolah_asal": "SD MUHAMMADIYAH 17 SURABAYA",
-          "jarak": 772.60641,
-          "asal_kelurahan": "SIMOLAWANG"
-        },
-        {
           "urutan": 5,
-          "nama_siswa": "ARDAN TURAN YANUZHARD",
+          "nama_siswa": "ARSYA ABIYAS DAMARA",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:28:18",
-          "sekolah_asal": "SDN KAPASAN III/145",
-          "jarak": 555.17976,
-          "asal_kelurahan": "TAMBAKREJO"
-        },
-        {
-          "urutan": 5,
-          "nama_siswa": "FAHMI SAHAB",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:13:09",
-          "sekolah_asal": "SD NEGERI SIMOLAWANG KIP/156",
-          "jarak": 804.75169,
-          "asal_kelurahan": "SIMOLAWANG"
+          "waktu_pendaftaran": "2026-07-06 00:06:23",
+          "sekolah_asal": "SDN KAPASAN V/147",
+          "jarak": 548.89871,
+          "asal_kelurahan": "KAPASAN"
         },
         {
           "urutan": 5,
@@ -15942,39 +15996,21 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "KEYSHA ATIQA NAIFAWAHYUDI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 09:19:06",
-          "sekolah_asal": "SDN KAPASAN V/147",
-          "jarak": 586.19096,
-          "asal_kelurahan": "KAPASAN"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "JACSON REYNALDY MISSA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 14:19:33",
-          "sekolah_asal": "SD KUSUMA PUTRA SURABAYA",
-          "jarak": 539.4592,
-          "asal_kelurahan": "SIDODADI"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "KINARA DWI YUNIAR",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 12:04:56",
-          "sekolah_asal": "SDN KAPASAN V/147",
-          "jarak": 608.96672,
-          "asal_kelurahan": "KAPASAN"
-        },
-        {
-          "urutan": 6,
-          "nama_siswa": "AHMAD AZIZ SUGANDA PRAJA",
+          "nama_siswa": "FAHMI SAHAB",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 22:48:57",
-          "sekolah_asal": "SDN SIMOKERTO I/134",
-          "jarak": 577.21704,
-          "asal_kelurahan": "SIMOKERTO"
+          "waktu_pendaftaran": "2026-07-05 01:13:09",
+          "sekolah_asal": "SD NEGERI SIMOLAWANG KIP/156",
+          "jarak": 804.75169,
+          "asal_kelurahan": "SIMOLAWANG"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "ARDAN TURAN YANUZHARD",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:28:18",
+          "sekolah_asal": "SDN KAPASAN III/145",
+          "jarak": 555.17976,
+          "asal_kelurahan": "TAMBAKREJO"
         },
         {
           "urutan": 6,
@@ -15987,6 +16023,24 @@
         },
         {
           "urutan": 6,
+          "nama_siswa": "JACSON REYNALDY MISSA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 14:19:33",
+          "sekolah_asal": "SD KUSUMA PUTRA SURABAYA",
+          "jarak": 539.4592,
+          "asal_kelurahan": "SIDODADI"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "KEYSHA ATIQA NAIFAWAHYUDI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 09:19:06",
+          "sekolah_asal": "SDN KAPASAN V/147",
+          "jarak": 586.19096,
+          "asal_kelurahan": "KAPASAN"
+        },
+        {
+          "urutan": 6,
           "nama_siswa": "ABDURRAHMAN DZAKI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:49:17",
@@ -15995,31 +16049,13 @@
           "asal_kelurahan": "TAMBAKREJO"
         },
         {
-          "urutan": 7,
-          "nama_siswa": "BAYU WICAKSONO",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 07:15:05",
-          "sekolah_asal": "SDN TAMBAKSARI  I",
-          "jarak": 616.13834,
-          "asal_kelurahan": "TAMBAKREJO"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "MOCHAMMAD ILHAM PUTRA RAMADHAN",
+          "urutan": 6,
+          "nama_siswa": "AHMAD AZIZ SUGANDA PRAJA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:18:54",
-          "sekolah_asal": "SDN PLOSO I/172",
-          "jarak": 577.56692,
+          "waktu_pendaftaran": "2026-07-05 22:48:57",
+          "sekolah_asal": "SDN SIMOKERTO I/134",
+          "jarak": 577.21704,
           "asal_kelurahan": "SIMOKERTO"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "MOCH. RIZKI AHMAT DANI SAPUTRA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:12:56",
-          "sekolah_asal": "SDN TAMBAKSARI III / 159",
-          "jarak": 623.33663,
-          "asal_kelurahan": "KAPASAN"
         },
         {
           "urutan": 7,
@@ -16032,12 +16068,39 @@
         },
         {
           "urutan": 7,
+          "nama_siswa": "KINARA DWI YUNIAR",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 12:04:56",
+          "sekolah_asal": "SDN KAPASAN V/147",
+          "jarak": 608.96672,
+          "asal_kelurahan": "KAPASAN"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "BAYU WICAKSONO",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 07:15:05",
+          "sekolah_asal": "SDN TAMBAKSARI  I",
+          "jarak": 616.13834,
+          "asal_kelurahan": "TAMBAKREJO"
+        },
+        {
+          "urutan": 7,
           "nama_siswa": "NURIN NAJWA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:02:56",
           "sekolah_asal": "MI MIFTAHUL ULUM",
           "jarak": 819.1691,
           "asal_kelurahan": "SIMOLAWANG"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "MOCHAMMAD ILHAM PUTRA RAMADHAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 02:18:54",
+          "sekolah_asal": "SDN PLOSO I/172",
+          "jarak": 577.56692,
+          "asal_kelurahan": "SIMOKERTO"
         },
         {
           "urutan": 8,
@@ -16050,21 +16113,30 @@
         },
         {
           "urutan": 8,
-          "nama_siswa": "WAHYU SATRIA PRAMANA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:09:44",
-          "sekolah_asal": "SDN SIMOKERTO V /138",
-          "jarak": 581.46527,
-          "asal_kelurahan": "SIMOKERTO"
-        },
-        {
-          "urutan": 8,
           "nama_siswa": "JESICA APRILIA PUTRI",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 20:43:09",
           "sekolah_asal": "SDN KAPASAN V/147",
           "jarak": 621.3013,
           "asal_kelurahan": "TAMBAKREJO"
+        },
+        {
+          "urutan": 8,
+          "nama_siswa": "MOCH. RIZKI AHMAT DANI SAPUTRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:12:56",
+          "sekolah_asal": "SDN TAMBAKSARI III / 159",
+          "jarak": 623.33663,
+          "asal_kelurahan": "KAPASAN"
+        },
+        {
+          "urutan": 8,
+          "nama_siswa": "WAHYU SATRIA PRAMANA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:09:44",
+          "sekolah_asal": "SDN SIMOKERTO V /138",
+          "jarak": 581.46527,
+          "asal_kelurahan": "SIMOKERTO"
         },
         {
           "urutan": 8,
@@ -16086,7 +16158,7 @@
       "total_pendaftar": 155,
       "highest_score": 220.91928,
       "lowest_score": 602.29858,
-      "waktu_api": "2026-07-05T17:14:29.578050Z",
+      "waktu_api": "2026-07-05T18:17:12.417481Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16590,11 +16662,11 @@
       "nama": "SMPN 43 Surabaya",
       "pagu": 40,
       "jp_pilihan1": 26,
-      "jp_pilihan2": 323,
-      "total_pendaftar": 349,
+      "jp_pilihan2": 327,
+      "total_pendaftar": 353,
       "highest_score": 495.48671,
       "lowest_score": 721.19159,
-      "waktu_api": "2026-07-05T17:15:56.193136Z",
+      "waktu_api": "2026-07-05T18:20:28.734013Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16850,21 +16922,21 @@
         },
         {
           "urutan": 8,
+          "nama_siswa": "FREYA ARINKA AZALIA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 05:06:42",
+          "sekolah_asal": "SD KH THOHIR BAKRI SURABAYA",
+          "jarak": 725.38843,
+          "asal_kelurahan": "GUNDIH"
+        },
+        {
+          "urutan": 8,
           "nama_siswa": "PANJI ADITYA SAPUTRA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 03:18:27",
           "sekolah_asal": "SDN SUKOMANUNGGAL III/107",
           "jarak": 1107.64394,
           "asal_kelurahan": "TEMBOKDUKUH"
-        },
-        {
-          "urutan": 8,
-          "nama_siswa": "NAYCYLLA NURIZALFA ZAMEELA AHMAD",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 03:07:16",
-          "sekolah_asal": "SD KH THOHIR BAKRI SURABAYA",
-          "jarak": 732.8152,
-          "asal_kelurahan": "GUNDIH"
         },
         {
           "urutan": 8,
@@ -16891,11 +16963,11 @@
       "nama": "SMPN 44 Surabaya",
       "pagu": 50,
       "jp_pilihan1": 11,
-      "jp_pilihan2": 134,
-      "total_pendaftar": 145,
+      "jp_pilihan2": 135,
+      "total_pendaftar": 146,
       "highest_score": 305.60647,
       "lowest_score": 1963.84418,
-      "waktu_api": "2026-07-05T16:49:01.146186Z",
+      "waktu_api": "2026-07-05T18:21:24.469932Z",
       "ranking": [
         {
           "urutan": 1,
@@ -17313,7 +17385,7 @@
       "total_pendaftar": 197,
       "highest_score": 1664.41313,
       "lowest_score": 1742.45821,
-      "waktu_api": "2026-07-05T17:16:48.417340Z",
+      "waktu_api": "2026-07-05T18:18:47.219282Z",
       "ranking": [
         {
           "urutan": 1,
@@ -17812,7 +17884,7 @@
       "total_pendaftar": 558,
       "highest_score": 2063.11525,
       "lowest_score": 2840.2762,
-      "waktu_api": "2026-07-05T17:12:19.598232Z",
+      "waktu_api": "2026-07-05T18:12:30.727323Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18307,11 +18379,11 @@
       "nama": "SMPN 47 Surabaya",
       "pagu": 48,
       "jp_pilihan1": 13,
-      "jp_pilihan2": 136,
-      "total_pendaftar": 149,
+      "jp_pilihan2": 138,
+      "total_pendaftar": 151,
       "highest_score": 2661.58834,
-      "lowest_score": 460.77725,
-      "waktu_api": "2026-07-05T17:13:14.532396Z",
+      "lowest_score": 1400.88642,
+      "waktu_api": "2026-07-05T18:13:34.301979Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18522,6 +18594,15 @@
         },
         {
           "urutan": 7,
+          "nama_siswa": "AULIA PUTRI FERNANDA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-06 00:05:45",
+          "sekolah_asal": "SDN MANUKAN KULON VI",
+          "jarak": 1327.50232,
+          "asal_kelurahan": "SAMBIKEREP"
+        },
+        {
+          "urutan": 7,
           "nama_siswa": "MUHAMMAD HABIB AL HABSY",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 21:57:53",
@@ -18539,7 +18620,7 @@
           "asal_kelurahan": "LONTAR"
         },
         {
-          "urutan": 7,
+          "urutan": 8,
           "nama_siswa": "REGA RAHMAN DAHANA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:03:39",
@@ -18566,15 +18647,6 @@
           "asal_kelurahan": "LONTAR"
         },
         {
-          "urutan": 8,
-          "nama_siswa": "KAYLA NAURA ARKA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 05:10:56",
-          "sekolah_asal": "SDN KANDANGAN III / 621",
-          "jarak": 1343.91185,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
           "urutan": 9,
           "nama_siswa": "AUFFAR RAYYAN PRIAMBODO",
           "pilihan_ke": 2,
@@ -18585,11 +18657,11 @@
         },
         {
           "urutan": 9,
-          "nama_siswa": "MUHAMMAD GHIFFIN ALBAIHAQI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:09:17",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 1352.09869,
+          "nama_siswa": "KAYLA NAURA ARKA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 05:10:56",
+          "sekolah_asal": "SDN KANDANGAN III / 621",
+          "jarak": 1343.91185,
           "asal_kelurahan": "SAMBIKEREP"
         },
         {
@@ -18612,6 +18684,15 @@
         },
         {
           "urutan": 10,
+          "nama_siswa": "MUHAMMAD GHIFFIN ALBAIHAQI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:09:17",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 1352.09869,
+          "asal_kelurahan": "SAMBIKEREP"
+        },
+        {
+          "urutan": 10,
           "nama_siswa": "RELVAN BASTIAN FERNANDO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 04:35:13",
@@ -18620,13 +18701,13 @@
           "asal_kelurahan": "MADE"
         },
         {
-          "urutan": 10,
-          "nama_siswa": "MUHAMMAD BARA HANIEF ZHAPUTRA",
+          "urutan": 11,
+          "nama_siswa": "AURELLIO RAFAEL ADITYA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:32:01",
-          "sekolah_asal": "MIS ROUDLOTUL JANNAH",
-          "jarak": 1370.38803,
-          "asal_kelurahan": "SAMBIKEREP"
+          "waktu_pendaftaran": "2026-07-05 01:34:38",
+          "sekolah_asal": "SDN MADE I / 475",
+          "jarak": 4426.19856,
+          "asal_kelurahan": "MADE"
         },
         {
           "urutan": 11,
@@ -18639,21 +18720,12 @@
         },
         {
           "urutan": 11,
-          "nama_siswa": "HAFIZAH NUR ANISSAH",
+          "nama_siswa": "MUHAMMAD BARA HANIEF ZHAPUTRA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:03:05",
-          "sekolah_asal": "SDN SAMBIKEREP II/480",
-          "jarak": 1400.88642,
+          "waktu_pendaftaran": "2026-07-05 01:32:01",
+          "sekolah_asal": "MIS ROUDLOTUL JANNAH",
+          "jarak": 1370.38803,
           "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 11,
-          "nama_siswa": "AURELLIO RAFAEL ADITYA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:34:38",
-          "sekolah_asal": "SDN MADE I / 475",
-          "jarak": 4426.19856,
-          "asal_kelurahan": "MADE"
         },
         {
           "urutan": 12,
@@ -18666,21 +18738,21 @@
         },
         {
           "urutan": 12,
-          "nama_siswa": "JOSEFA NOVENA POERWANDINI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 20:23:14",
-          "sekolah_asal": "SDN KANDANGAN III / 621",
-          "jarak": 1448.00624,
-          "asal_kelurahan": "SAMBIKEREP"
-        },
-        {
-          "urutan": 12,
           "nama_siswa": "MUHAMMAD BISMA ARYASATYA KOSASIH",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:00:51",
           "sekolah_asal": "SDN LONTAR II",
           "jarak": 460.77725,
           "asal_kelurahan": "LONTAR"
+        },
+        {
+          "urutan": 12,
+          "nama_siswa": "HAFIZAH NUR ANISSAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 02:03:05",
+          "sekolah_asal": "SDN SAMBIKEREP II/480",
+          "jarak": 1400.88642,
+          "asal_kelurahan": "SAMBIKEREP"
         }
       ]
     },
@@ -18693,7 +18765,7 @@
       "total_pendaftar": 127,
       "highest_score": 2877.13824,
       "lowest_score": 453.97413,
-      "waktu_api": "2026-07-05T17:13:06.165476Z",
+      "waktu_api": "2026-07-05T18:14:04.345366Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19048,7 +19120,7 @@
       "total_pendaftar": 85,
       "highest_score": 3193.13386,
       "lowest_score": 1506.71283,
-      "waktu_api": "2026-07-05T17:03:03.275130Z",
+      "waktu_api": "2026-07-05T18:37:22.613995Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19115,11 +19187,11 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "ZIVANNA ASHARIFA MAHARANI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:27:44",
+          "nama_siswa": "MUHAMMAD NAUFAL RASYID ATHALLAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:02:30",
           "sekolah_asal": "SDN KUTISARI I",
-          "jarak": 999.94787,
+          "jarak": 974.41292,
           "asal_kelurahan": "KUTISARI"
         },
         {
@@ -19133,6 +19205,15 @@
         },
         {
           "urutan": 3,
+          "nama_siswa": "ZIVANNA ASHARIFA MAHARANI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:27:44",
+          "sekolah_asal": "SDN KUTISARI I",
+          "jarak": 999.94787,
+          "asal_kelurahan": "KUTISARI"
+        },
+        {
+          "urutan": 3,
           "nama_siswa": "NIRMALA SABREEN RACHMAN NITYA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 09:56:56",
@@ -19141,21 +19222,12 @@
           "asal_kelurahan": "PANJANGJIWO"
         },
         {
-          "urutan": 3,
+          "urutan": 4,
           "nama_siswa": "ALAYA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:51",
           "sekolah_asal": "SDN KUTISARI I",
           "jarak": 1071.08081,
-          "asal_kelurahan": "KUTISARI"
-        },
-        {
-          "urutan": 4,
-          "nama_siswa": "HAFIZH HASBULLOH ROBBANI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 10:06:38",
-          "sekolah_asal": "SDN KUTISARI I",
-          "jarak": 1103.90535,
           "asal_kelurahan": "KUTISARI"
         },
         {
@@ -19169,6 +19241,15 @@
         },
         {
           "urutan": 5,
+          "nama_siswa": "HAFIZH HASBULLOH ROBBANI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 10:06:38",
+          "sekolah_asal": "SDN KUTISARI I",
+          "jarak": 1103.90535,
+          "asal_kelurahan": "KUTISARI"
+        },
+        {
+          "urutan": 5,
           "nama_siswa": "DINI AATINA ZULFA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 02:47:14",
@@ -19177,7 +19258,7 @@
           "asal_kelurahan": "KENDANGSARI"
         },
         {
-          "urutan": 5,
+          "urutan": 6,
           "nama_siswa": "NADIEN SYAFIQA ADELLIA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 10:10:09",
@@ -19195,7 +19276,7 @@
           "asal_kelurahan": "KENDANGSARI"
         },
         {
-          "urutan": 6,
+          "urutan": 7,
           "nama_siswa": "KHAIRUNISA SALSABILA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:40:25",
@@ -19204,7 +19285,16 @@
           "asal_kelurahan": "KUTISARI"
         },
         {
-          "urutan": 7,
+          "urutan": 8,
+          "nama_siswa": "REDHITA SEPTIA RESTHY",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:10:32",
+          "sekolah_asal": "SDN KUTISARI II / 269",
+          "jarak": 1241.5122,
+          "asal_kelurahan": "KUTISARI"
+        },
+        {
+          "urutan": 9,
           "nama_siswa": "AHMADIN AZKA PRATAMA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 04:54:36",
@@ -19213,7 +19303,7 @@
           "asal_kelurahan": "KUTISARI"
         },
         {
-          "urutan": 8,
+          "urutan": 10,
           "nama_siswa": "FARAHDILA DWI PUTRI MAHARANI",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 10:44:57",
@@ -19222,7 +19312,16 @@
           "asal_kelurahan": "KUTISARI"
         },
         {
-          "urutan": 9,
+          "urutan": 11,
+          "nama_siswa": "SULTAN ARYA WIRA SAKTI KUSTIAWAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 10:18:57",
+          "sekolah_asal": "SDN KUTISARI II / 269",
+          "jarak": 1367.65649,
+          "asal_kelurahan": "KUTISARI"
+        },
+        {
+          "urutan": 12,
           "nama_siswa": "AZKA AL RASYID PUTRA WINARTO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:14:41",
@@ -19231,7 +19330,7 @@
           "asal_kelurahan": "KUTISARI"
         },
         {
-          "urutan": 10,
+          "urutan": 13,
           "nama_siswa": "MASYITHAH MARWA FADILAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 21:42:03",
@@ -19246,19 +19345,19 @@
       "nama": "SMPN 50 Surabaya",
       "pagu": 48,
       "jp_pilihan1": 20,
-      "jp_pilihan2": 150,
-      "total_pendaftar": 170,
-      "highest_score": 680.08781,
-      "lowest_score": 1634.11843,
-      "waktu_api": "2026-07-05T17:15:29.587674Z",
+      "jp_pilihan2": 149,
+      "total_pendaftar": 169,
+      "highest_score": 678.24009,
+      "lowest_score": 815.62395,
+      "waktu_api": "2026-07-05T18:15:54.050589Z",
       "ranking": [
         {
           "urutan": 1,
-          "nama_siswa": "NURANI CAHYA WARDHANI SETIAWAN",
+          "nama_siswa": "RISKI SYAIFULLOH RAHMADANI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:50:30",
+          "waktu_pendaftaran": "2026-07-05 08:44:20",
           "sekolah_asal": "SD ANUGRAH SURABAYA",
-          "jarak": 680.08781,
+          "jarak": 678.24009,
           "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
@@ -19317,6 +19416,15 @@
         },
         {
           "urutan": 2,
+          "nama_siswa": "NURANI CAHYA WARDHANI SETIAWAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 06:50:30",
+          "sekolah_asal": "SD ANUGRAH SURABAYA",
+          "jarak": 680.08781,
+          "asal_kelurahan": "SIMOMULYOBARU"
+        },
+        {
+          "urutan": 2,
           "nama_siswa": "ABYNUN HAFIVA NUR AEYNI",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:03:39",
@@ -19326,30 +19434,21 @@
         },
         {
           "urutan": 2,
-          "nama_siswa": "QIARA RADISTY ANANTA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 11:49:28",
-          "sekolah_asal": "SDN SIMOMULYO IV/101",
-          "jarak": 1421.23472,
-          "asal_kelurahan": "SIMOMULYO"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "LIVIA CELENA PUTRI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 05:54:24",
-          "sekolah_asal": "SDN SIMOMULYO I/98",
-          "jarak": 741.5112,
-          "asal_kelurahan": "SIMOMULYOBARU"
-        },
-        {
-          "urutan": 2,
           "nama_siswa": "CHARISSA RICHY PUTRI EDELWEISS",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:01:00",
           "sekolah_asal": "SDN SUKOMANUNGGAL III/107",
           "jarak": 472.29048,
           "asal_kelurahan": "SUKOMANUNGGAL"
+        },
+        {
+          "urutan": 2,
+          "nama_siswa": "QIARA RADISTY ANANTA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 11:49:28",
+          "sekolah_asal": "SDN SIMOMULYO IV/101",
+          "jarak": 1421.23472,
+          "asal_kelurahan": "SIMOMULYO"
         },
         {
           "urutan": 3,
@@ -19362,11 +19461,11 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "GIOVINO HAIKAL ANDESTIAN",
+          "nama_siswa": "LIVIA CELENA PUTRI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 10:39:50",
-          "sekolah_asal": "SDN SUKOMANUNGGAL III/107",
-          "jarak": 748.85839,
+          "waktu_pendaftaran": "2026-07-05 05:54:24",
+          "sekolah_asal": "SDN SIMOMULYO I/98",
+          "jarak": 741.5112,
           "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
@@ -19398,6 +19497,15 @@
         },
         {
           "urutan": 4,
+          "nama_siswa": "GIOVINO HAIKAL ANDESTIAN",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 10:39:50",
+          "sekolah_asal": "SDN SUKOMANUNGGAL III/107",
+          "jarak": 748.85839,
+          "asal_kelurahan": "SIMOMULYOBARU"
+        },
+        {
+          "urutan": 4,
           "nama_siswa": "THOMAS MARTIN AQUINO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:18:22",
@@ -19413,15 +19521,6 @@
           "sekolah_asal": "SDN TANDES KIDUL I / 110",
           "jarak": 709.84674,
           "asal_kelurahan": "TANJUNGSARI"
-        },
-        {
-          "urutan": 4,
-          "nama_siswa": "BILQIS SAFIRA FITRI YOLANDASARI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:03:18",
-          "sekolah_asal": "SDN SIMOMULYO I/98",
-          "jarak": 767.61981,
-          "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
           "urutan": 4,
@@ -19443,15 +19542,6 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "SILVA DWIANA PUTRI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 05:03:26",
-          "sekolah_asal": "SDN SIMOMULYO I/98",
-          "jarak": 783.77401,
-          "asal_kelurahan": "SIMOMULYOBARU"
-        },
-        {
-          "urutan": 5,
           "nama_siswa": "MUHAMMAD YUSUF MUFLIHUN UTAMA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:12:21",
@@ -19469,12 +19559,12 @@
           "asal_kelurahan": "SUKOMANUNGGAL"
         },
         {
-          "urutan": 6,
-          "nama_siswa": "KAFKA PRAPDITA PURIONO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 13:03:51",
+          "urutan": 5,
+          "nama_siswa": "BILQIS SAFIRA FITRI YOLANDASARI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:03:18",
           "sekolah_asal": "SDN SIMOMULYO I/98",
-          "jarak": 790.79454,
+          "jarak": 767.61981,
           "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
@@ -19497,6 +19587,15 @@
         },
         {
           "urutan": 6,
+          "nama_siswa": "SILVA DWIANA PUTRI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 05:03:26",
+          "sekolah_asal": "SDN SIMOMULYO I/98",
+          "jarak": 783.77401,
+          "asal_kelurahan": "SIMOMULYOBARU"
+        },
+        {
+          "urutan": 6,
           "nama_siswa": "MUHAMMAD DAFFA AL GHAZALI ANGGONO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:26:13",
@@ -19515,30 +19614,21 @@
         },
         {
           "urutan": 7,
+          "nama_siswa": "KAFKA PRAPDITA PURIONO",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 13:03:51",
+          "sekolah_asal": "SDN SIMOMULYO I/98",
+          "jarak": 790.79454,
+          "asal_kelurahan": "SIMOMULYOBARU"
+        },
+        {
+          "urutan": 7,
           "nama_siswa": "DIKA ANUGERAH PRATAMA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:12:45",
           "sekolah_asal": "SDN SIMOMULYO IV/101",
           "jarak": 1601.86052,
           "asal_kelurahan": "SIMOMULYO"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "ITA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 20:15:52",
-          "sekolah_asal": "SDN SUKOMANUNGGAL III/107",
-          "jarak": 815.62395,
-          "asal_kelurahan": "SIMOMULYOBARU"
-        },
-        {
-          "urutan": 8,
-          "nama_siswa": "RAFKA JUNIO PUTRA TAUCHID",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 11:13:10",
-          "sekolah_asal": "SDN SIMOMULYO I/98",
-          "jarak": 860.20714,
-          "asal_kelurahan": "SIMOMULYOBARU"
         },
         {
           "urutan": 8,
@@ -19557,6 +19647,15 @@
           "sekolah_asal": "Sd islam plus as-syafiiyah sidoarjo",
           "jarak": 1634.11843,
           "asal_kelurahan": "SIMOMULYO"
+        },
+        {
+          "urutan": 8,
+          "nama_siswa": "ITA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 20:15:52",
+          "sekolah_asal": "SDN SUKOMANUNGGAL III/107",
+          "jarak": 815.62395,
+          "asal_kelurahan": "SIMOMULYOBARU"
         }
       ]
     },
@@ -19569,7 +19668,7 @@
       "total_pendaftar": 18,
       "highest_score": 2982.85838,
       "lowest_score": 2982.85838,
-      "waktu_api": "2026-07-05T17:04:24.181036Z",
+      "waktu_api": "2026-07-05T18:15:02.183351Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19587,11 +19686,11 @@
       "nama": "SMPN 52 Surabaya",
       "pagu": 28,
       "jp_pilihan1": 8,
-      "jp_pilihan2": 126,
-      "total_pendaftar": 134,
+      "jp_pilihan2": 127,
+      "total_pendaftar": 135,
       "highest_score": 2211.22863,
       "lowest_score": 2500.48462,
-      "waktu_api": "2026-07-05T16:50:20.152560Z",
+      "waktu_api": "2026-07-05T18:24:29.227296Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19852,11 +19951,11 @@
       "nama": "SMPN 53 Surabaya",
       "pagu": 48,
       "jp_pilihan1": 22,
-      "jp_pilihan2": 111,
-      "total_pendaftar": 133,
+      "jp_pilihan2": 112,
+      "total_pendaftar": 134,
       "highest_score": 297.76948,
       "lowest_score": 1587.88724,
-      "waktu_api": "2026-07-05T16:49:01.178606Z",
+      "waktu_api": "2026-07-05T18:19:40.461633Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20090,11 +20189,11 @@
       "nama": "SMPN 54 Surabaya",
       "pagu": 56,
       "jp_pilihan1": 15,
-      "jp_pilihan2": 133,
-      "total_pendaftar": 148,
+      "jp_pilihan2": 134,
+      "total_pendaftar": 149,
       "highest_score": 371.41356,
       "lowest_score": 2585.64876,
-      "waktu_api": "2026-07-05T17:15:23.977315Z",
+      "waktu_api": "2026-07-05T18:19:57.813766Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20553,11 +20652,11 @@
       "nama": "SMPN 55 Surabaya",
       "pagu": 32,
       "jp_pilihan1": 0,
-      "jp_pilihan2": 38,
-      "total_pendaftar": 38,
+      "jp_pilihan2": 39,
+      "total_pendaftar": 39,
       "highest_score": 453.39351,
       "lowest_score": 517.02693,
-      "waktu_api": "2026-07-05T17:05:10.568694Z",
+      "waktu_api": "2026-07-05T18:39:08.884665Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20605,8 +20704,8 @@
       "jp_pilihan2": 186,
       "total_pendaftar": 201,
       "highest_score": 163.21389,
-      "lowest_score": 1892.16729,
-      "waktu_api": "2026-07-05T17:15:16.634826Z",
+      "lowest_score": 1999.58579,
+      "waktu_api": "2026-07-05T18:17:59.599109Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20619,12 +20718,12 @@
         },
         {
           "urutan": 1,
-          "nama_siswa": "JEREMY CARSTEN SILITONGA",
+          "nama_siswa": "PRISCILLA DEVINA SANTOSO",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:04:10",
-          "sekolah_asal": "SD KRISTEN PERISTERA",
-          "jarak": 1304.24462,
-          "asal_kelurahan": "PRADAHKALIKENDAL"
+          "waktu_pendaftaran": "2026-07-05 01:54:50",
+          "sekolah_asal": "SD Nation Star Academy",
+          "jarak": 343.70848,
+          "asal_kelurahan": "DUKUHPAKIS"
         },
         {
           "urutan": 1,
@@ -20637,30 +20736,12 @@
         },
         {
           "urutan": 1,
-          "nama_siswa": "PRISCILLA DEVINA SANTOSO",
+          "nama_siswa": "JEREMY CARSTEN SILITONGA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:54:50",
-          "sekolah_asal": "SD Nation Star Academy",
-          "jarak": 343.70848,
-          "asal_kelurahan": "DUKUHPAKIS"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "MESSIELO SAKHA ROSDIAN",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:05:22",
-          "sekolah_asal": "SDN GUNUNGSARI I",
-          "jarak": 1741.08824,
-          "asal_kelurahan": "GUNUNGSARI"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "KINARA DESINTA SARI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:05:42",
-          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
-          "jarak": 187.72022,
-          "asal_kelurahan": "DUKUHKUPANG"
+          "waktu_pendaftaran": "2026-07-05 01:04:10",
+          "sekolah_asal": "SD KRISTEN PERISTERA",
+          "jarak": 1304.24462,
+          "asal_kelurahan": "PRADAHKALIKENDAL"
         },
         {
           "urutan": 2,
@@ -20681,13 +20762,22 @@
           "asal_kelurahan": "DUKUHPAKIS"
         },
         {
-          "urutan": 3,
-          "nama_siswa": "XENATA NURY JONAVIA",
+          "urutan": 2,
+          "nama_siswa": "KINARA DESINTA SARI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 01:05:42",
+          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
+          "jarak": 187.72022,
+          "asal_kelurahan": "DUKUHKUPANG"
+        },
+        {
+          "urutan": 2,
+          "nama_siswa": "MESSIELO SAKHA ROSDIAN",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 16:00:01",
-          "sekolah_asal": "SDN PRADAH KALIKENDAL III - 530",
-          "jarak": 1441.05522,
-          "asal_kelurahan": "PRADAHKALIKENDAL"
+          "waktu_pendaftaran": "2026-07-05 01:05:22",
+          "sekolah_asal": "SDN GUNUNGSARI I",
+          "jarak": 1741.08824,
+          "asal_kelurahan": "GUNUNGSARI"
         },
         {
           "urutan": 3,
@@ -20717,12 +20807,21 @@
           "asal_kelurahan": "DUKUHPAKIS"
         },
         {
+          "urutan": 3,
+          "nama_siswa": "XENATA NURY JONAVIA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 16:00:01",
+          "sekolah_asal": "SDN PRADAH KALIKENDAL III - 530",
+          "jarak": 1441.05522,
+          "asal_kelurahan": "PRADAHKALIKENDAL"
+        },
+        {
           "urutan": 4,
-          "nama_siswa": "FAHISAH SETIO PUTRI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 22:11:37",
-          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
-          "jarak": 548.70276,
+          "nama_siswa": "KARA GANENDRA SHAKTI WINDARSO",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 12:45:34",
+          "sekolah_asal": "SDN DUKUH PAKIS I-486",
+          "jarak": 504.76984,
           "asal_kelurahan": "DUKUHPAKIS"
         },
         {
@@ -20754,15 +20853,6 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "SHOFIA NUR AMINAH",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:01:59",
-          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
-          "jarak": 421.79639,
-          "asal_kelurahan": "DUKUHKUPANG"
-        },
-        {
-          "urutan": 5,
           "nama_siswa": "ZACKY AL YUDAWAN LAKSONO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 12:59:07",
@@ -20781,12 +20871,21 @@
         },
         {
           "urutan": 5,
-          "nama_siswa": "MUHAMMAD VICKY NUR FIRMANSYAH",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 11:04:00",
-          "sekolah_asal": "SDN DUKUH PAKIS I-486",
-          "jarak": 587.72045,
+          "nama_siswa": "FAHISAH SETIO PUTRI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 22:11:37",
+          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
+          "jarak": 548.70276,
           "asal_kelurahan": "DUKUHPAKIS"
+        },
+        {
+          "urutan": 5,
+          "nama_siswa": "SHOFIA NUR AMINAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:01:59",
+          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
+          "jarak": 421.79639,
+          "asal_kelurahan": "DUKUHKUPANG"
         },
         {
           "urutan": 6,
@@ -20799,11 +20898,20 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "FATONI",
+          "nama_siswa": "HAVIS AL FIANSYAH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:23:58",
-          "sekolah_asal": "SDN PRADAH KALI KENDAL  I",
-          "jarak": 862.61232,
+          "waktu_pendaftaran": "2026-07-05 01:07:55",
+          "sekolah_asal": "SDN DUKUH KUPANG  III/490",
+          "jarak": 507.54748,
+          "asal_kelurahan": "DUKUHKUPANG"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "MUHAMMAD VICKY NUR FIRMANSYAH",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 11:04:00",
+          "sekolah_asal": "SDN DUKUH PAKIS I-486",
+          "jarak": 587.72045,
           "asal_kelurahan": "DUKUHPAKIS"
         },
         {
@@ -20816,15 +20924,6 @@
           "asal_kelurahan": "PRADAHKALIKENDAL"
         },
         {
-          "urutan": 6,
-          "nama_siswa": "HAVIS AL FIANSYAH",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:07:55",
-          "sekolah_asal": "SDN DUKUH KUPANG  III/490",
-          "jarak": 507.54748,
-          "asal_kelurahan": "DUKUHKUPANG"
-        },
-        {
           "urutan": 7,
           "nama_siswa": "AZZAHRA ALIYAH RAHAYU",
           "pilihan_ke": 2,
@@ -20835,20 +20934,11 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "KEISYA RATU HUMEYRA",
+          "nama_siswa": "FATONI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 08:59:48",
-          "sekolah_asal": "SD BARUNAWATI SURABAYA",
-          "jarak": 1801.42881,
-          "asal_kelurahan": "PRADAHKALIKENDAL"
-        },
-        {
-          "urutan": 7,
-          "nama_siswa": "NAELA ASTHI WINDRIYA IRMAWAN",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 04:56:53",
-          "sekolah_asal": "SDN DUKUH PAKIS I-486",
-          "jarak": 936.29816,
+          "waktu_pendaftaran": "2026-07-05 01:23:58",
+          "sekolah_asal": "SDN PRADAH KALI KENDAL  I",
+          "jarak": 862.61232,
           "asal_kelurahan": "DUKUHPAKIS"
         },
         {
@@ -20861,22 +20951,31 @@
           "asal_kelurahan": "DUKUHKUPANG"
         },
         {
-          "urutan": 8,
-          "nama_siswa": "AIKO MARITZA RAMADHANI",
+          "urutan": 7,
+          "nama_siswa": "KEISYA RATU HUMEYRA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:03:05",
+          "waktu_pendaftaran": "2026-07-05 08:59:48",
+          "sekolah_asal": "SD BARUNAWATI SURABAYA",
+          "jarak": 1801.42881,
+          "asal_kelurahan": "PRADAHKALIKENDAL"
+        },
+        {
+          "urutan": 8,
+          "nama_siswa": "NAELA ASTHI WINDRIYA IRMAWAN",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 04:56:53",
           "sekolah_asal": "SDN DUKUH PAKIS I-486",
-          "jarak": 1000.45915,
+          "jarak": 936.29816,
           "asal_kelurahan": "DUKUHPAKIS"
         },
         {
           "urutan": 8,
-          "nama_siswa": "ALEX MUHAMMAD SIGFAR",
+          "nama_siswa": "BERLIANA NADA NAURAH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:27:04",
-          "sekolah_asal": "SDN GUNUNGSARI I",
-          "jarak": 1883.62302,
-          "asal_kelurahan": "GUNUNGSARI"
+          "waktu_pendaftaran": "2026-07-05 01:01:26",
+          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
+          "jarak": 539.14342,
+          "asal_kelurahan": "DUKUHKUPANG"
         },
         {
           "urutan": 8,
@@ -20889,21 +20988,21 @@
         },
         {
           "urutan": 8,
-          "nama_siswa": "BERLIANA NADA NAURAH",
+          "nama_siswa": "ALEX MUHAMMAD SIGFAR",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:01:26",
-          "sekolah_asal": "SDN DUKUH KUPANG  V-534",
-          "jarak": 539.14342,
-          "asal_kelurahan": "DUKUHKUPANG"
+          "waktu_pendaftaran": "2026-07-05 06:27:04",
+          "sekolah_asal": "SDN GUNUNGSARI I",
+          "jarak": 1883.62302,
+          "asal_kelurahan": "GUNUNGSARI"
         },
         {
           "urutan": 9,
-          "nama_siswa": "MOCH. HARUN ABI AR ROSYID",
+          "nama_siswa": "AIKO MARITZA RAMADHANI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 09:02:03",
-          "sekolah_asal": "SDN PRADAH KALI KENDAL  I",
-          "jarak": 1999.58579,
-          "asal_kelurahan": "PRADAHKALIKENDAL"
+          "waktu_pendaftaran": "2026-07-05 01:03:05",
+          "sekolah_asal": "SDN DUKUH PAKIS I-486",
+          "jarak": 1000.45915,
+          "asal_kelurahan": "DUKUHPAKIS"
         },
         {
           "urutan": 9,
@@ -20916,21 +21015,21 @@
         },
         {
           "urutan": 9,
-          "nama_siswa": "CANDRA DEWANTO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 17:21:16",
-          "sekolah_asal": "SDN DUKUH PAKIS I-486",
-          "jarak": 1011.46296,
-          "asal_kelurahan": "DUKUHPAKIS"
-        },
-        {
-          "urutan": 9,
           "nama_siswa": "MOCHAMAD ABIDZAR PRATAMA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 19:49:21",
           "sekolah_asal": "SDN GUNUNGSARI I",
           "jarak": 1892.16729,
           "asal_kelurahan": "GUNUNGSARI"
+        },
+        {
+          "urutan": 9,
+          "nama_siswa": "MOCH. HARUN ABI AR ROSYID",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 09:02:03",
+          "sekolah_asal": "SDN PRADAH KALI KENDAL  I",
+          "jarak": 1999.58579,
+          "asal_kelurahan": "PRADAHKALIKENDAL"
         }
       ]
     },
@@ -20943,7 +21042,7 @@
       "total_pendaftar": 93,
       "highest_score": 3999.27091,
       "lowest_score": 2400.08357,
-      "waktu_api": "2026-07-05T17:18:34.607000Z",
+      "waktu_api": "2026-07-05T18:22:37.413247Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21271,7 +21370,7 @@
       "total_pendaftar": 269,
       "highest_score": 1120.17074,
       "lowest_score": 1240.70918,
-      "waktu_api": "2026-07-05T17:17:09.976622Z",
+      "waktu_api": "2026-07-05T18:18:08.932398Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21608,7 +21707,7 @@
       "total_pendaftar": 63,
       "highest_score": 1129.05151,
       "lowest_score": 2071.81558,
-      "waktu_api": "2026-07-05T17:01:27.700103Z",
+      "waktu_api": "2026-07-05T18:39:10.417675Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21747,7 +21846,7 @@
       "total_pendaftar": 128,
       "highest_score": 343.17144,
       "lowest_score": 2421.25899,
-      "waktu_api": "2026-07-05T17:14:03.594040Z",
+      "waktu_api": "2026-07-05T18:16:29.965893Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22125,11 +22224,11 @@
       "nama": "SMPN 61 Surabaya",
       "pagu": 36,
       "jp_pilihan1": 19,
-      "jp_pilihan2": 180,
-      "total_pendaftar": 199,
+      "jp_pilihan2": 181,
+      "total_pendaftar": 200,
       "highest_score": 1049.61616,
       "lowest_score": 386.96849,
-      "waktu_api": "2026-07-05T17:18:36.140734Z",
+      "waktu_api": "2026-07-05T18:22:45.958664Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22300,11 +22399,11 @@
       "nama": "SMPN 62 Surabaya",
       "pagu": 44,
       "jp_pilihan1": 14,
-      "jp_pilihan2": 161,
-      "total_pendaftar": 175,
+      "jp_pilihan2": 162,
+      "total_pendaftar": 176,
       "highest_score": 432.72318,
-      "lowest_score": 1403.36909,
-      "waktu_api": "2026-07-05T16:49:24.400375Z",
+      "lowest_score": 2673.54431,
+      "waktu_api": "2026-07-05T18:22:47.722132Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22314,6 +22413,15 @@
           "sekolah_asal": "SDN GUNUNGANYAR TAMBAK / 628",
           "jarak": 432.72318,
           "asal_kelurahan": "GUNUNGANYAR"
+        },
+        {
+          "urutan": 1,
+          "nama_siswa": "LIONEL JOSE APRILIANO",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:58:18",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
+          "jarak": 2024.62755,
+          "asal_kelurahan": "RUNGKUTMENANGGAL"
         },
         {
           "urutan": 1,
@@ -22334,15 +22442,6 @@
           "asal_kelurahan": "RUNGKUTTENGAH"
         },
         {
-          "urutan": 1,
-          "nama_siswa": "LIONEL JOSE APRILIANO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:58:18",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
-          "jarak": 2024.62755,
-          "asal_kelurahan": "RUNGKUTMENANGGAL"
-        },
-        {
           "urutan": 2,
           "nama_siswa": "ALIF RAMDHANI KUSUMA",
           "pilihan_ke": 2,
@@ -22350,15 +22449,6 @@
           "sekolah_asal": "SDN RUNGKUT KIDUL II /581",
           "jarak": 1049.65403,
           "asal_kelurahan": "GUNUNGANYARTAMBAK"
-        },
-        {
-          "urutan": 2,
-          "nama_siswa": "IBRAHIM AL FAHRI",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 13:14:05",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
-          "jarak": 2897.59975,
-          "asal_kelurahan": "RUNGKUTTENGAH"
         },
         {
           "urutan": 2,
@@ -22371,12 +22461,30 @@
         },
         {
           "urutan": 2,
+          "nama_siswa": "IBRAHIM AL FAHRI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 13:14:05",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
+          "jarak": 2897.59975,
+          "asal_kelurahan": "RUNGKUTTENGAH"
+        },
+        {
+          "urutan": 2,
           "nama_siswa": "IBRAHIMAQIL HANDA ARDIANSYAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:08:27",
           "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
           "jarak": 2028.1755,
           "asal_kelurahan": "RUNGKUTMENANGGAL"
+        },
+        {
+          "urutan": 3,
+          "nama_siswa": "ASYIFA PUTRI",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:09:12",
+          "sekolah_asal": "SDN GUNUNGANYAR TAMBAK / 628",
+          "jarak": 1121.42332,
+          "asal_kelurahan": "GUNUNGANYARTAMBAK"
         },
         {
           "urutan": 3,
@@ -22389,15 +22497,6 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "ARLOVELI DHARRANI SEMBODO",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 12:41:21",
-          "sekolah_asal": "SD MUHAMMADIYAH 16 SURABAYA",
-          "jarak": 2029.26678,
-          "asal_kelurahan": "RUNGKUTMENANGGAL"
-        },
-        {
-          "urutan": 3,
           "nama_siswa": "MARSYA FADHILAH INSYIRAH",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:24:16",
@@ -22407,29 +22506,11 @@
         },
         {
           "urutan": 3,
-          "nama_siswa": "ASYIFA PUTRI",
+          "nama_siswa": "ARLOVELI DHARRANI SEMBODO",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:09:12",
-          "sekolah_asal": "SDN GUNUNGANYAR TAMBAK / 628",
-          "jarak": 1121.42332,
-          "asal_kelurahan": "GUNUNGANYARTAMBAK"
-        },
-        {
-          "urutan": 4,
-          "nama_siswa": "DZAKWAN RIJAL TABINA",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:01:58",
-          "sekolah_asal": "SD AL ISLAH SURABAYA",
-          "jarak": 804.79004,
-          "asal_kelurahan": "GUNUNGANYAR"
-        },
-        {
-          "urutan": 4,
-          "nama_siswa": "NAYSILLA RAIHANAH FIRLY",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:46:23",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
-          "jarak": 2047.31184,
+          "waktu_pendaftaran": "2026-07-05 12:41:21",
+          "sekolah_asal": "SD MUHAMMADIYAH 16 SURABAYA",
+          "jarak": 2029.26678,
           "asal_kelurahan": "RUNGKUTMENANGGAL"
         },
         {
@@ -22449,6 +22530,24 @@
           "sekolah_asal": "SD ISLAM AL AZHAR 11 SURABAYA",
           "jarak": 1131.77218,
           "asal_kelurahan": "GUNUNGANYARTAMBAK"
+        },
+        {
+          "urutan": 4,
+          "nama_siswa": "NAYSILLA RAIHANAH FIRLY",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 06:46:23",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
+          "jarak": 2047.31184,
+          "asal_kelurahan": "RUNGKUTMENANGGAL"
+        },
+        {
+          "urutan": 4,
+          "nama_siswa": "DZAKWAN RIJAL TABINA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:01:58",
+          "sekolah_asal": "SD AL ISLAH SURABAYA",
+          "jarak": 804.79004,
+          "asal_kelurahan": "GUNUNGANYAR"
         },
         {
           "urutan": 5,
@@ -22488,21 +22587,21 @@
         },
         {
           "urutan": 6,
-          "nama_siswa": "MUHAMMAD AZKA ALDRIC RAMADHAN",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 22:24:22",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
-          "jarak": 2966.16522,
-          "asal_kelurahan": "RUNGKUTTENGAH"
-        },
-        {
-          "urutan": 6,
           "nama_siswa": "RAIHAN FAHREZA HAKIM",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 02:17:27",
           "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
           "jarak": 2076.01967,
           "asal_kelurahan": "RUNGKUTMENANGGAL"
+        },
+        {
+          "urutan": 6,
+          "nama_siswa": "MUHAMMAD AZKA ALDRIC RAMADHAN",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 22:24:22",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
+          "jarak": 2966.16522,
+          "asal_kelurahan": "RUNGKUTTENGAH"
         },
         {
           "urutan": 6,
@@ -22524,12 +22623,21 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "GILANG AL-GHOZALI",
+          "nama_siswa": "TSANIA AURUMY NURUNNUHA",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:58:30",
-          "sekolah_asal": "SD DAHLANUDDIN",
-          "jarak": 1238.39739,
-          "asal_kelurahan": "GUNUNGANYARTAMBAK"
+          "waktu_pendaftaran": "2026-07-05 01:12:03",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
+          "jarak": 2104.66077,
+          "asal_kelurahan": "RUNGKUTMENANGGAL"
+        },
+        {
+          "urutan": 7,
+          "nama_siswa": "FEBRIAN RIZKY SAPUTRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-06 00:31:22",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
+          "jarak": 1330.54897,
+          "asal_kelurahan": "GUNUNGANYAR"
         },
         {
           "urutan": 7,
@@ -22542,15 +22650,15 @@
         },
         {
           "urutan": 7,
-          "nama_siswa": "TSANIA AURUMY NURUNNUHA",
+          "nama_siswa": "GILANG AL-GHOZALI",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:12:03",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
-          "jarak": 2104.66077,
-          "asal_kelurahan": "RUNGKUTMENANGGAL"
+          "waktu_pendaftaran": "2026-07-05 01:58:30",
+          "sekolah_asal": "SD DAHLANUDDIN",
+          "jarak": 1238.39739,
+          "asal_kelurahan": "GUNUNGANYARTAMBAK"
         },
         {
-          "urutan": 7,
+          "urutan": 8,
           "nama_siswa": "AFIZAH MEIHANNY TRIKIRANIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:28:25",
@@ -22566,15 +22674,6 @@
           "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
           "jarak": 2152.47815,
           "asal_kelurahan": "RUNGKUTMENANGGAL"
-        },
-        {
-          "urutan": 8,
-          "nama_siswa": "QAISER ZAFRAN KHAIRY",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 06:16:19",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
-          "jarak": 1343.93665,
-          "asal_kelurahan": "GUNUNGANYAR"
         },
         {
           "urutan": 8,
@@ -22596,15 +22695,6 @@
         },
         {
           "urutan": 9,
-          "nama_siswa": "MOCHAMMAD RIZKY ATTHAARIQ",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:33:09",
-          "sekolah_asal": "SD NURUL FAIZAH",
-          "jarak": 1297.60917,
-          "asal_kelurahan": "GUNUNGANYARTAMBAK"
-        },
-        {
-          "urutan": 9,
           "nama_siswa": "MUHAMMAD IZZY TRIANTORO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 08:42:20",
@@ -22623,11 +22713,20 @@
         },
         {
           "urutan": 9,
-          "nama_siswa": "NABILA HANA SYAHIRA",
+          "nama_siswa": "MOCHAMMAD RIZKY ATTHAARIQ",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:06:03",
-          "sekolah_asal": "SD AL ISLAH SURABAYA",
-          "jarak": 1367.40175,
+          "waktu_pendaftaran": "2026-07-05 01:33:09",
+          "sekolah_asal": "SD NURUL FAIZAH",
+          "jarak": 1297.60917,
+          "asal_kelurahan": "GUNUNGANYARTAMBAK"
+        },
+        {
+          "urutan": 9,
+          "nama_siswa": "QAISER ZAFRAN KHAIRY",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 06:16:19",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
+          "jarak": 1343.93665,
           "asal_kelurahan": "GUNUNGANYAR"
         },
         {
@@ -22641,21 +22740,21 @@
         },
         {
           "urutan": 10,
-          "nama_siswa": "TEGAR TRI PAMBUDI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 09:25:55",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
-          "jarak": 1377.01556,
-          "asal_kelurahan": "GUNUNGANYAR"
-        },
-        {
-          "urutan": 10,
           "nama_siswa": "HASYIM",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:08:40",
           "sekolah_asal": "SD DAHLANUDDIN",
           "jarak": 1360.70485,
           "asal_kelurahan": "GUNUNGANYARTAMBAK"
+        },
+        {
+          "urutan": 10,
+          "nama_siswa": "NABILA HANA SYAHIRA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 01:06:03",
+          "sekolah_asal": "SD AL ISLAH SURABAYA",
+          "jarak": 1367.40175,
+          "asal_kelurahan": "GUNUNGANYAR"
         },
         {
           "urutan": 10,
@@ -22668,21 +22767,12 @@
         },
         {
           "urutan": 11,
-          "nama_siswa": "ALVIN NUR DZAKY",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 07:44:11",
-          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
-          "jarak": 2673.54431,
-          "asal_kelurahan": "RUNGKUTMENANGGAL"
-        },
-        {
-          "urutan": 11,
-          "nama_siswa": "PUTRI AYU ROHMATULLOH",
-          "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 02:09:43",
-          "sekolah_asal": "SD DAHLANUDDIN",
-          "jarak": 1378.00991,
-          "asal_kelurahan": "GUNUNGANYARTAMBAK"
+          "nama_siswa": "TEGAR TRI PAMBUDI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-05 09:25:55",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL II/583",
+          "jarak": 1377.01556,
+          "asal_kelurahan": "GUNUNGANYAR"
         },
         {
           "urutan": 11,
@@ -22695,12 +22785,21 @@
         },
         {
           "urutan": 11,
-          "nama_siswa": "MOCH. SHULTON UBAYDAH LUBIS",
+          "nama_siswa": "PUTRI AYU ROHMATULLOH",
           "pilihan_ke": 2,
-          "waktu_pendaftaran": "2026-07-05 01:01:09",
-          "sekolah_asal": "SDN TAMBAK OSO WARU SIDOARJO",
-          "jarak": 1403.36909,
-          "asal_kelurahan": "GUNUNGANYAR"
+          "waktu_pendaftaran": "2026-07-05 02:09:43",
+          "sekolah_asal": "SD DAHLANUDDIN",
+          "jarak": 1378.00991,
+          "asal_kelurahan": "GUNUNGANYARTAMBAK"
+        },
+        {
+          "urutan": 11,
+          "nama_siswa": "ALVIN NUR DZAKY",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 07:44:11",
+          "sekolah_asal": "SDN RUNGKUT MENANGGAL I/582",
+          "jarak": 2673.54431,
+          "asal_kelurahan": "RUNGKUTMENANGGAL"
         }
       ]
     },
@@ -22713,7 +22812,7 @@
       "total_pendaftar": 40,
       "highest_score": 5556.55833,
       "lowest_score": 1889.37164,
-      "waktu_api": "2026-07-05T17:13:23.636688Z",
+      "waktu_api": "2026-07-05T18:21:58.574167Z",
       "ranking": [
         {
           "urutan": 1,
