@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T20:00:50.927Z",
+  "last_updated": "2026-07-05T21:15:55.872Z",
   "schools": [
     {
       "id": 1,
@@ -10,7 +10,7 @@
       "total_pendaftar": 173,
       "highest_score": 54.93239,
       "lowest_score": 817.68509,
-      "waktu_api": "2026-07-05T19:42:43.797715Z",
+      "waktu_api": "2026-07-05T21:13:07.970768Z",
       "ranking": [
         {
           "urutan": 1,
@@ -578,12 +578,12 @@
       "id": 2,
       "nama": "SMPN 2 Surabaya",
       "pagu": 68,
-      "jp_pilihan1": 144,
+      "jp_pilihan1": 145,
       "jp_pilihan2": 24,
-      "total_pendaftar": 168,
+      "total_pendaftar": 169,
       "highest_score": 69.07445,
-      "lowest_score": 704.88046,
-      "waktu_api": "2026-07-05T19:48:03.982679Z",
+      "lowest_score": 701.53624,
+      "waktu_api": "2026-07-05T20:50:02.100959Z",
       "ranking": [
         {
           "urutan": 1,
@@ -1107,6 +1107,14 @@
         },
         {
           "urutan": 66,
+          "nama_siswa": "NURUL AINI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 02:51:52",
+          "sekolah_asal": "SD ROUDLOTUL ULUM SURABAYA",
+          "jarak": 694.14772
+        },
+        {
+          "urutan": 67,
           "nama_siswa": "RAYHAN ALZAM ALBUKHORI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:04:53",
@@ -1114,20 +1122,12 @@
           "jarak": 700.35846
         },
         {
-          "urutan": 67,
+          "urutan": 68,
           "nama_siswa": "HABIBI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:00:46",
           "sekolah_asal": "SD NURUL HIDAYAH I SURABAYA",
           "jarak": 701.53624
-        },
-        {
-          "urutan": 68,
-          "nama_siswa": "YUSUF AYYUBI",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:07:43",
-          "sekolah_asal": "SD ROUDLOTUL ULUM SURABAYA",
-          "jarak": 704.88046
         }
       ]
     },
@@ -1140,7 +1140,7 @@
       "total_pendaftar": 237,
       "highest_score": 60.36466,
       "lowest_score": 578.2144,
-      "waktu_api": "2026-07-05T19:41:36.119294Z",
+      "waktu_api": "2026-07-05T21:13:24.237379Z",
       "ranking": [
         {
           "urutan": 1,
@@ -1633,7 +1633,7 @@
       "total_pendaftar": 234,
       "highest_score": 53.19034,
       "lowest_score": 688.63291,
-      "waktu_api": "2026-07-05T19:42:28.648153Z",
+      "waktu_api": "2026-07-05T20:46:36.729618Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2038,7 +2038,7 @@
       "total_pendaftar": 256,
       "highest_score": 100.65671,
       "lowest_score": 398.60767,
-      "waktu_api": "2026-07-05T19:44:39.743843Z",
+      "waktu_api": "2026-07-05T20:45:33.098613Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2531,7 +2531,7 @@
       "total_pendaftar": 347,
       "highest_score": 137.8796,
       "lowest_score": 607.97511,
-      "waktu_api": "2026-07-05T19:42:57.663433Z",
+      "waktu_api": "2026-07-05T20:46:26.581131Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3136,7 +3136,7 @@
       "total_pendaftar": 175,
       "highest_score": 134.13908,
       "lowest_score": 547.64155,
-      "waktu_api": "2026-07-05T19:45:21.089661Z",
+      "waktu_api": "2026-07-05T20:47:01.080496Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3565,7 +3565,7 @@
       "total_pendaftar": 128,
       "highest_score": 163.45963,
       "lowest_score": 647.21492,
-      "waktu_api": "2026-07-05T19:57:56.374524Z",
+      "waktu_api": "2026-07-05T20:58:26.438242Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3933,12 +3933,12 @@
       "id": 9,
       "nama": "SMPN 9 Surabaya",
       "pagu": 59,
-      "jp_pilihan1": 397,
+      "jp_pilihan1": 398,
       "jp_pilihan2": 49,
-      "total_pendaftar": 446,
+      "total_pendaftar": 447,
       "highest_score": 89.12887,
       "lowest_score": 342.43944,
-      "waktu_api": "2026-07-05T19:44:35.564869Z",
+      "waktu_api": "2026-07-05T21:15:33.017712Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4418,12 +4418,12 @@
       "id": 10,
       "nama": "SMPN 10 Surabaya",
       "pagu": 60,
-      "jp_pilihan1": 397,
+      "jp_pilihan1": 396,
       "jp_pilihan2": 86,
-      "total_pendaftar": 483,
+      "total_pendaftar": 482,
       "highest_score": 55.5654,
       "lowest_score": 482.59193,
-      "waktu_api": "2026-07-05T19:46:33.413016Z",
+      "waktu_api": "2026-07-05T20:48:01.594219Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4916,7 +4916,7 @@
       "total_pendaftar": 261,
       "highest_score": 71.27061,
       "lowest_score": 199.61957,
-      "waktu_api": "2026-07-05T19:48:31.883303Z",
+      "waktu_api": "2026-07-05T20:51:07.176696Z",
       "ranking": [
         {
           "urutan": 1,
@@ -5340,12 +5340,12 @@
       "id": 12,
       "nama": "SMPN 12 Surabaya",
       "pagu": 74,
-      "jp_pilihan1": 201,
+      "jp_pilihan1": 202,
       "jp_pilihan2": 43,
-      "total_pendaftar": 244,
+      "total_pendaftar": 245,
       "highest_score": 58.58093,
       "lowest_score": 485.90072,
-      "waktu_api": "2026-07-05T19:41:57.979997Z",
+      "waktu_api": "2026-07-05T21:14:30.074760Z",
       "ranking": [
         {
           "urutan": 1,
@@ -5950,7 +5950,7 @@
       "total_pendaftar": 144,
       "highest_score": 68.63161,
       "lowest_score": 586.31966,
-      "waktu_api": "2026-07-05T19:48:52.331341Z",
+      "waktu_api": "2026-07-05T20:50:29.220278Z",
       "ranking": [
         {
           "urutan": 1,
@@ -6443,7 +6443,7 @@
       "total_pendaftar": 243,
       "highest_score": 83.62487,
       "lowest_score": 685.99359,
-      "waktu_api": "2026-07-05T19:37:52.922239Z",
+      "waktu_api": "2026-07-05T21:14:57.421795Z",
       "ranking": [
         {
           "urutan": 1,
@@ -6963,12 +6963,12 @@
       "id": 15,
       "nama": "SMPN 15 Surabaya",
       "pagu": 64,
-      "jp_pilihan1": 168,
+      "jp_pilihan1": 169,
       "jp_pilihan2": 31,
-      "total_pendaftar": 199,
+      "total_pendaftar": 200,
       "highest_score": 95.86808,
       "lowest_score": 473.60892,
-      "waktu_api": "2026-07-05T19:46:51.939756Z",
+      "waktu_api": "2026-07-05T20:49:47.755122Z",
       "ranking": [
         {
           "urutan": 1,
@@ -7488,12 +7488,12 @@
       "id": 16,
       "nama": "SMPN 16 Surabaya",
       "pagu": 72,
-      "jp_pilihan1": 106,
+      "jp_pilihan1": 107,
       "jp_pilihan2": 10,
-      "total_pendaftar": 116,
+      "total_pendaftar": 117,
       "highest_score": 62.99107,
       "lowest_score": 726.57195,
-      "waktu_api": "2026-07-05T19:46:40.832718Z",
+      "waktu_api": "2026-07-05T20:47:45.604904Z",
       "ranking": [
         {
           "urutan": 1,
@@ -8082,7 +8082,7 @@
       "total_pendaftar": 169,
       "highest_score": 201.55781,
       "lowest_score": 825.57049,
-      "waktu_api": "2026-07-05T19:45:16.486588Z",
+      "waktu_api": "2026-07-05T20:45:43.862066Z",
       "ranking": [
         {
           "urutan": 1,
@@ -8663,7 +8663,7 @@
       "total_pendaftar": 164,
       "highest_score": 214.88422,
       "lowest_score": 819.2402,
-      "waktu_api": "2026-07-05T19:51:28.472680Z",
+      "waktu_api": "2026-07-05T20:57:18.241016Z",
       "ranking": [
         {
           "urutan": 1,
@@ -9036,7 +9036,7 @@
       "total_pendaftar": 216,
       "highest_score": 128.66993,
       "lowest_score": 835.55489,
-      "waktu_api": "2026-07-05T19:45:47.391520Z",
+      "waktu_api": "2026-07-05T20:47:50.860836Z",
       "ranking": [
         {
           "urutan": 1,
@@ -9609,7 +9609,7 @@
       "total_pendaftar": 170,
       "highest_score": 104.79654,
       "lowest_score": 880.89959,
-      "waktu_api": "2026-07-05T19:49:17.457274Z",
+      "waktu_api": "2026-07-05T20:49:36.930828Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10134,7 +10134,7 @@
       "total_pendaftar": 124,
       "highest_score": 74.74106,
       "lowest_score": 1140.69795,
-      "waktu_api": "2026-07-05T19:47:03.661683Z",
+      "waktu_api": "2026-07-05T20:48:40.428753Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10723,7 +10723,7 @@
       "total_pendaftar": 149,
       "highest_score": 159.7891,
       "lowest_score": 938.67054,
-      "waktu_api": "2026-07-05T19:49:19.186418Z",
+      "waktu_api": "2026-07-05T20:51:33.350904Z",
       "ranking": [
         {
           "urutan": 1,
@@ -11312,7 +11312,7 @@
       "total_pendaftar": 158,
       "highest_score": 45.08053,
       "lowest_score": 625.77399,
-      "waktu_api": "2026-07-05T19:50:28.474948Z",
+      "waktu_api": "2026-07-05T20:53:00.072121Z",
       "ranking": [
         {
           "urutan": 1,
@@ -11813,7 +11813,7 @@
       "total_pendaftar": 88,
       "highest_score": 62.5509,
       "lowest_score": 3642.3352,
-      "waktu_api": "2026-07-05T19:46:53.146262Z",
+      "waktu_api": "2026-07-05T20:48:38.110811Z",
       "ranking": [
         {
           "urutan": 1,
@@ -12357,12 +12357,12 @@
       "id": 25,
       "nama": "SMPN 25 Surabaya",
       "pagu": 74,
-      "jp_pilihan1": 332,
+      "jp_pilihan1": 334,
       "jp_pilihan2": 83,
-      "total_pendaftar": 415,
+      "total_pendaftar": 417,
       "highest_score": 27.13729,
       "lowest_score": 436.37682,
-      "waktu_api": "2026-07-05T19:45:07.119030Z",
+      "waktu_api": "2026-07-05T21:15:39.502073Z",
       "ranking": [
         {
           "urutan": 1,
@@ -12967,7 +12967,7 @@
       "total_pendaftar": 214,
       "highest_score": 239.24094,
       "lowest_score": 709.10294,
-      "waktu_api": "2026-07-05T19:46:11.949903Z",
+      "waktu_api": "2026-07-05T20:46:39.471225Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13519,12 +13519,12 @@
       "id": 27,
       "nama": "SMPN 27 Surabaya",
       "pagu": 52,
-      "jp_pilihan1": 182,
+      "jp_pilihan1": 183,
       "jp_pilihan2": 27,
-      "total_pendaftar": 209,
+      "total_pendaftar": 210,
       "highest_score": 204.66732,
-      "lowest_score": 556.64568,
-      "waktu_api": "2026-07-05T19:52:57.026135Z",
+      "lowest_score": 552.54488,
+      "waktu_api": "2026-07-05T20:54:04.582948Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13880,6 +13880,14 @@
         },
         {
           "urutan": 45,
+          "nama_siswa": "ZEFANYA LEONNA AGUSTINNE",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 02:51:12",
+          "sekolah_asal": "SD NEGERI UJUNG XIII/38",
+          "jarak": 516.11463
+        },
+        {
+          "urutan": 46,
           "nama_siswa": "WAHYUNI NINGRUM SARI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:24:50",
@@ -13887,7 +13895,7 @@
           "jarak": 520.68246
         },
         {
-          "urutan": 46,
+          "urutan": 47,
           "nama_siswa": "ALARIC PRANAJA ILMANEDI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:34:47",
@@ -13895,7 +13903,7 @@
           "jarak": 525.90889
         },
         {
-          "urutan": 47,
+          "urutan": 48,
           "nama_siswa": "DHEA AINUN SALSABILA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:06:40",
@@ -13903,7 +13911,7 @@
           "jarak": 526.05027
         },
         {
-          "urutan": 48,
+          "urutan": 49,
           "nama_siswa": "INAYAH EKA DEALOVA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:09:57",
@@ -13911,7 +13919,7 @@
           "jarak": 539.96173
         },
         {
-          "urutan": 49,
+          "urutan": 50,
           "nama_siswa": "KENZO DZAKIRA UTANI RIDLWAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:38",
@@ -13919,7 +13927,7 @@
           "jarak": 543.81539
         },
         {
-          "urutan": 50,
+          "urutan": 51,
           "nama_siswa": "MUHAMMAD FATHIR ARDHIANSYAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:24:16",
@@ -13927,20 +13935,12 @@
           "jarak": 544.96353
         },
         {
-          "urutan": 51,
+          "urutan": 52,
           "nama_siswa": "ANUGRAH BAGUS PRATAMA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:44",
           "sekolah_asal": "SD MUHAMMADIYAH 21 SURABAYA",
           "jarak": 552.54488
-        },
-        {
-          "urutan": 52,
-          "nama_siswa": "AHMAD FAIQ FIRDAUS",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:33:07",
-          "sekolah_asal": "SDN WONOKUSUMO IV / 43",
-          "jarak": 556.64568
         }
       ]
     },
@@ -13953,7 +13953,7 @@
       "total_pendaftar": 116,
       "highest_score": 214.76437,
       "lowest_score": 830.77414,
-      "waktu_api": "2026-07-05T19:46:53.062522Z",
+      "waktu_api": "2026-07-05T20:48:49.166241Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14505,12 +14505,12 @@
       "id": 29,
       "nama": "SMPN 29 Surabaya",
       "pagu": 59,
-      "jp_pilihan1": 270,
+      "jp_pilihan1": 272,
       "jp_pilihan2": 96,
-      "total_pendaftar": 366,
+      "total_pendaftar": 368,
       "highest_score": 51.50033,
       "lowest_score": 444.02465,
-      "waktu_api": "2026-07-05T19:46:29.905981Z",
+      "waktu_api": "2026-07-05T20:48:07.154324Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14995,7 +14995,7 @@
       "total_pendaftar": 161,
       "highest_score": 184.35169,
       "lowest_score": 914.92984,
-      "waktu_api": "2026-07-05T19:51:00.930470Z",
+      "waktu_api": "2026-07-05T20:51:30.520764Z",
       "ranking": [
         {
           "urutan": 1,
@@ -15523,12 +15523,12 @@
       "id": 31,
       "nama": "SMPN 31 Surabaya",
       "pagu": 54,
-      "jp_pilihan1": 233,
-      "jp_pilihan2": 54,
-      "total_pendaftar": 287,
+      "jp_pilihan1": 234,
+      "jp_pilihan2": 55,
+      "total_pendaftar": 289,
       "highest_score": 30.52286,
       "lowest_score": 312.73736,
-      "waktu_api": "2026-07-05T19:45:58.392386Z",
+      "waktu_api": "2026-07-05T20:46:11.842829Z",
       "ranking": [
         {
           "urutan": 1,
@@ -15973,7 +15973,7 @@
       "total_pendaftar": 206,
       "highest_score": 42.98498,
       "lowest_score": 551.8739,
-      "waktu_api": "2026-07-05T19:47:09.582765Z",
+      "waktu_api": "2026-07-05T20:48:09.754868Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16530,7 +16530,7 @@
       "total_pendaftar": 130,
       "highest_score": 106.77165,
       "lowest_score": 962.22442,
-      "waktu_api": "2026-07-05T19:52:30.475152Z",
+      "waktu_api": "2026-07-05T20:53:49.513674Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16975,7 +16975,7 @@
       "total_pendaftar": 82,
       "highest_score": 213.79557,
       "lowest_score": 1360.5354,
-      "waktu_api": "2026-07-05T19:47:37.931617Z",
+      "waktu_api": "2026-07-05T20:49:18.639409Z",
       "ranking": [
         {
           "urutan": 1,
@@ -17460,7 +17460,7 @@
       "total_pendaftar": 220,
       "highest_score": 17.09305,
       "lowest_score": 621.99493,
-      "waktu_api": "2026-07-05T19:49:53.937768Z",
+      "waktu_api": "2026-07-05T20:51:50.809649Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18017,7 +18017,7 @@
       "total_pendaftar": 110,
       "highest_score": 88.55333,
       "lowest_score": 2115.88928,
-      "waktu_api": "2026-07-05T19:47:21.902009Z",
+      "waktu_api": "2026-07-05T20:50:00.089629Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18526,7 +18526,7 @@
       "total_pendaftar": 218,
       "highest_score": 51.47127,
       "lowest_score": 541.08934,
-      "waktu_api": "2026-07-05T19:46:31.915611Z",
+      "waktu_api": "2026-07-05T20:48:55.306690Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18931,7 +18931,7 @@
       "total_pendaftar": 147,
       "highest_score": 251.28548,
       "lowest_score": 710.0254,
-      "waktu_api": "2026-07-05T19:48:47.048000Z",
+      "waktu_api": "2026-07-05T20:50:37.206894Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19336,7 +19336,7 @@
       "total_pendaftar": 170,
       "highest_score": 15.63593,
       "lowest_score": 646.73521,
-      "waktu_api": "2026-07-05T19:50:33.291109Z",
+      "waktu_api": "2026-07-05T20:52:09.843318Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19821,7 +19821,7 @@
       "total_pendaftar": 96,
       "highest_score": 55.37737,
       "lowest_score": 1564.25147,
-      "waktu_api": "2026-07-05T19:33:10.671667Z",
+      "waktu_api": "2026-07-05T21:05:36.531391Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20322,7 +20322,7 @@
       "total_pendaftar": 231,
       "highest_score": 62.62545,
       "lowest_score": 538.72458,
-      "waktu_api": "2026-07-05T19:48:06.998249Z",
+      "waktu_api": "2026-07-05T20:49:20.255484Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20727,7 +20727,7 @@
       "total_pendaftar": 395,
       "highest_score": 251.13116,
       "lowest_score": 561.36569,
-      "waktu_api": "2026-07-05T19:45:03.140647Z",
+      "waktu_api": "2026-07-05T21:15:47.224514Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21260,7 +21260,7 @@
       "total_pendaftar": 179,
       "highest_score": 57.74162,
       "lowest_score": 719.77007,
-      "waktu_api": "2026-07-05T19:48:27.596195Z",
+      "waktu_api": "2026-07-05T20:49:58.504918Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21660,12 +21660,12 @@
       "id": 44,
       "nama": "SMPN 44 Surabaya",
       "pagu": 52,
-      "jp_pilihan1": 205,
+      "jp_pilihan1": 204,
       "jp_pilihan2": 62,
-      "total_pendaftar": 267,
+      "total_pendaftar": 266,
       "highest_score": 53.69834,
       "lowest_score": 318.14347,
-      "waktu_api": "2026-07-05T19:53:01.218444Z",
+      "waktu_api": "2026-07-05T20:56:41.396326Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22090,11 +22090,11 @@
       "nama": "SMPN 45 Surabaya",
       "pagu": 61,
       "jp_pilihan1": 156,
-      "jp_pilihan2": 36,
-      "total_pendaftar": 192,
+      "jp_pilihan2": 37,
+      "total_pendaftar": 193,
       "highest_score": 95.53361,
       "lowest_score": 908.68704,
-      "waktu_api": "2026-07-05T19:59:21.781387Z",
+      "waktu_api": "2026-07-05T20:59:51.692520Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22590,12 +22590,12 @@
       "id": 46,
       "nama": "SMPN 46 Surabaya",
       "pagu": 61,
-      "jp_pilihan1": 258,
+      "jp_pilihan1": 257,
       "jp_pilihan2": 58,
-      "total_pendaftar": 316,
+      "total_pendaftar": 315,
       "highest_score": 229.31783,
       "lowest_score": 676.32939,
-      "waktu_api": "2026-07-05T19:45:20.647751Z",
+      "waktu_api": "2026-07-05T20:46:42.454222Z",
       "ranking": [
         {
           "urutan": 1,
@@ -23096,7 +23096,7 @@
       "total_pendaftar": 366,
       "highest_score": 107.52666,
       "lowest_score": 349.97236,
-      "waktu_api": "2026-07-05T19:49:56.101692Z",
+      "waktu_api": "2026-07-05T20:51:08.572568Z",
       "ranking": [
         {
           "urutan": 1,
@@ -23541,7 +23541,7 @@
       "total_pendaftar": 217,
       "highest_score": 49.11366,
       "lowest_score": 366.03612,
-      "waktu_api": "2026-07-05T19:48:45.530834Z",
+      "waktu_api": "2026-07-05T20:49:57.054638Z",
       "ranking": [
         {
           "urutan": 1,
@@ -23986,7 +23986,7 @@
       "total_pendaftar": 101,
       "highest_score": 129.08121,
       "lowest_score": 1645.72219,
-      "waktu_api": "2026-07-05T19:51:25.682941Z",
+      "waktu_api": "2026-07-05T20:53:52.004802Z",
       "ranking": [
         {
           "urutan": 1,
@@ -24519,7 +24519,7 @@
       "total_pendaftar": 199,
       "highest_score": 159.45188,
       "lowest_score": 672.38256,
-      "waktu_api": "2026-07-05T19:47:57.026411Z",
+      "waktu_api": "2026-07-05T20:48:37.454726Z",
       "ranking": [
         {
           "urutan": 1,
@@ -24964,7 +24964,7 @@
       "total_pendaftar": 63,
       "highest_score": 128.35593,
       "lowest_score": 2973.06899,
-      "waktu_api": "2026-07-05T19:55:56.676208Z",
+      "waktu_api": "2026-07-05T21:02:01.032547Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25249,7 +25249,7 @@
       "total_pendaftar": 88,
       "highest_score": 59.41823,
       "lowest_score": 1005.63425,
-      "waktu_api": "2026-07-05T19:56:05.580824Z",
+      "waktu_api": "2026-07-05T20:59:06.077807Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25550,7 +25550,7 @@
       "total_pendaftar": 378,
       "highest_score": 84.6451,
       "lowest_score": 530.68677,
-      "waktu_api": "2026-07-05T19:37:09.143787Z",
+      "waktu_api": "2026-07-05T21:14:35.878569Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25995,7 +25995,7 @@
       "total_pendaftar": 155,
       "highest_score": 42.37806,
       "lowest_score": 553.5212,
-      "waktu_api": "2026-07-05T19:53:58.927352Z",
+      "waktu_api": "2026-07-05T20:57:20.170633Z",
       "ranking": [
         {
           "urutan": 1,
@@ -26475,12 +26475,12 @@
       "id": 55,
       "nama": "SMPN 55 Surabaya",
       "pagu": 32,
-      "jp_pilihan1": 41,
+      "jp_pilihan1": 42,
       "jp_pilihan2": 45,
-      "total_pendaftar": 86,
+      "total_pendaftar": 87,
       "highest_score": 107.89145,
-      "lowest_score": 577.7965,
-      "waktu_api": "2026-07-05T19:55:16.440983Z",
+      "lowest_score": 529.42725,
+      "waktu_api": "2026-07-05T20:56:04.961270Z",
       "ranking": [
         {
           "urutan": 1,
@@ -26508,6 +26508,14 @@
         },
         {
           "urutan": 4,
+          "nama_siswa": "M. AIDAN HISYAM HERIANSYAH",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 03:01:03",
+          "sekolah_asal": "MIS DARUSSALAM",
+          "jarak": 181.84752
+        },
+        {
+          "urutan": 5,
           "nama_siswa": "FABRIANO RIZKI RAMADHAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:42:10",
@@ -26515,7 +26523,7 @@
           "jarak": 202.83865
         },
         {
-          "urutan": 5,
+          "urutan": 6,
           "nama_siswa": "MUHAMMAD ARGA PANJI FIRMANSYAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:10:03",
@@ -26523,7 +26531,7 @@
           "jarak": 229.55562
         },
         {
-          "urutan": 6,
+          "urutan": 7,
           "nama_siswa": "KARINA PUTRI KURNIAWATI NINGSIH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:15:13",
@@ -26531,7 +26539,7 @@
           "jarak": 236.45376
         },
         {
-          "urutan": 7,
+          "urutan": 8,
           "nama_siswa": "CYNARA FATIN FELICIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:53:15",
@@ -26539,7 +26547,7 @@
           "jarak": 254.37237
         },
         {
-          "urutan": 8,
+          "urutan": 9,
           "nama_siswa": "ALVARO PUTRA WIDIANTO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:24:07",
@@ -26547,7 +26555,7 @@
           "jarak": 269.22364
         },
         {
-          "urutan": 9,
+          "urutan": 10,
           "nama_siswa": "FENNO ALFARO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:05:34",
@@ -26555,7 +26563,7 @@
           "jarak": 289.23239
         },
         {
-          "urutan": 10,
+          "urutan": 11,
           "nama_siswa": "AL-FATHDIRA CHANDRA WIBISONO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:35",
@@ -26563,7 +26571,7 @@
           "jarak": 299.55798
         },
         {
-          "urutan": 11,
+          "urutan": 12,
           "nama_siswa": "SINTIANA FEBRI ANIKA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 04:05:47",
@@ -26571,7 +26579,7 @@
           "jarak": 306.78065
         },
         {
-          "urutan": 12,
+          "urutan": 13,
           "nama_siswa": "MUHAMMAD AZZAM ARDHANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:31:38",
@@ -26579,7 +26587,7 @@
           "jarak": 311.00365
         },
         {
-          "urutan": 13,
+          "urutan": 14,
           "nama_siswa": "SABRINA FAYZA AFANDI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:44:41",
@@ -26587,7 +26595,7 @@
           "jarak": 323.56116
         },
         {
-          "urutan": 14,
+          "urutan": 15,
           "nama_siswa": "RAMADHANI ZAHRA WIJAYANTO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:07:25",
@@ -26595,7 +26603,7 @@
           "jarak": 349.49949
         },
         {
-          "urutan": 15,
+          "urutan": 16,
           "nama_siswa": "MUHAMMAD ALVITO IRSYAD PUTRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:54:33",
@@ -26603,7 +26611,7 @@
           "jarak": 362.97098
         },
         {
-          "urutan": 16,
+          "urutan": 17,
           "nama_siswa": "RIZKI PUTRA PRAMANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:55:22",
@@ -26611,7 +26619,7 @@
           "jarak": 363.08358
         },
         {
-          "urutan": 17,
+          "urutan": 18,
           "nama_siswa": "DHELANIRA ALBET ZHIKAYA MEIDA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:04:07",
@@ -26619,7 +26627,7 @@
           "jarak": 387.00299
         },
         {
-          "urutan": 18,
+          "urutan": 19,
           "nama_siswa": "SULAIMAN ZAHRI ALAZHAR",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 12:06:09",
@@ -26627,7 +26635,7 @@
           "jarak": 410.23115
         },
         {
-          "urutan": 19,
+          "urutan": 20,
           "nama_siswa": "MOCHAMMAD ASYRAF AGAM ABDILLAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:35:01",
@@ -26635,7 +26643,7 @@
           "jarak": 412.75361
         },
         {
-          "urutan": 20,
+          "urutan": 21,
           "nama_siswa": "DELVY FALENTINA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:35:46",
@@ -26643,7 +26651,7 @@
           "jarak": 436.80324
         },
         {
-          "urutan": 21,
+          "urutan": 22,
           "nama_siswa": "MAHIRA HASNA KAMILA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 06:25:13",
@@ -26651,7 +26659,7 @@
           "jarak": 436.80324
         },
         {
-          "urutan": 22,
+          "urutan": 23,
           "nama_siswa": "JANICE MEYSYA VELANIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 20:18:54",
@@ -26659,7 +26667,7 @@
           "jarak": 437.37087
         },
         {
-          "urutan": 23,
+          "urutan": 24,
           "nama_siswa": "RIZAL BASKORO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 22:47:09",
@@ -26667,7 +26675,7 @@
           "jarak": 440.27902
         },
         {
-          "urutan": 24,
+          "urutan": 25,
           "nama_siswa": "ALFIANI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 04:28:24",
@@ -26675,7 +26683,7 @@
           "jarak": 441.09836
         },
         {
-          "urutan": 25,
+          "urutan": 26,
           "nama_siswa": "AKBAR MAULANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:29",
@@ -26683,7 +26691,7 @@
           "jarak": 444.61969
         },
         {
-          "urutan": 26,
+          "urutan": 27,
           "nama_siswa": "RASYA AZKA FATIH AR RASSYID",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 03:28:21",
@@ -26691,7 +26699,7 @@
           "jarak": 457.94145
         },
         {
-          "urutan": 27,
+          "urutan": 28,
           "nama_siswa": "BAGAS WILLY GILANG RAMADHAN",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:58:08",
@@ -26699,7 +26707,7 @@
           "jarak": 457.99279
         },
         {
-          "urutan": 28,
+          "urutan": 29,
           "nama_siswa": "YASMINE AZAHRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:09:22",
@@ -26707,7 +26715,7 @@
           "jarak": 464.98827
         },
         {
-          "urutan": 29,
+          "urutan": 30,
           "nama_siswa": "NADIN AVRILIA PUTRI ALISYA NUR ARISANDI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:58:14",
@@ -26715,7 +26723,7 @@
           "jarak": 497.63068
         },
         {
-          "urutan": 30,
+          "urutan": 31,
           "nama_siswa": "ALKHALIFI NANDITO DIVI CAHYONO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:30",
@@ -26723,20 +26731,12 @@
           "jarak": 507.39469
         },
         {
-          "urutan": 31,
+          "urutan": 32,
           "nama_siswa": "URFATUL AULIA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 19:07:28",
           "sekolah_asal": "SDN PAGESANGAN",
           "jarak": 529.42725
-        },
-        {
-          "urutan": 32,
-          "nama_siswa": "MUHAMMAD NABIL ARJUNA SAID",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 07:55:21",
-          "sekolah_asal": "SD NEGERI SEPANJANG 2",
-          "jarak": 577.7965
         }
       ]
     },
@@ -26744,12 +26744,12 @@
       "id": 56,
       "nama": "SMPN 56 Surabaya",
       "pagu": 40,
-      "jp_pilihan1": 203,
-      "jp_pilihan2": 92,
+      "jp_pilihan1": 204,
+      "jp_pilihan2": 91,
       "total_pendaftar": 295,
       "highest_score": 18.87138,
       "lowest_score": 500.82931,
-      "waktu_api": "2026-07-05T19:46:49.980065Z",
+      "waktu_api": "2026-07-05T20:48:58.690832Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27082,7 +27082,7 @@
       "total_pendaftar": 114,
       "highest_score": 110.45537,
       "lowest_score": 1367.87405,
-      "waktu_api": "2026-07-05T19:54:28.387777Z",
+      "waktu_api": "2026-07-05T20:55:38.750419Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27631,7 +27631,7 @@
       "total_pendaftar": 410,
       "highest_score": 56.89447,
       "lowest_score": 266.96359,
-      "waktu_api": "2026-07-05T19:49:21.051625Z",
+      "waktu_api": "2026-07-05T20:52:31.147006Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27964,7 +27964,7 @@
       "total_pendaftar": 51,
       "highest_score": 321.60157,
       "lowest_score": 2675.62828,
-      "waktu_api": "2026-07-05T19:56:59.491220Z",
+      "waktu_api": "2026-07-05T20:59:05.880216Z",
       "ranking": [
         {
           "urutan": 1,
@@ -28177,7 +28177,7 @@
       "total_pendaftar": 207,
       "highest_score": 118.8063,
       "lowest_score": 478.83353,
-      "waktu_api": "2026-07-05T19:46:46.030737Z",
+      "waktu_api": "2026-07-05T20:51:41.678475Z",
       "ranking": [
         {
           "urutan": 1,
@@ -28622,7 +28622,7 @@
       "total_pendaftar": 282,
       "highest_score": 71.67764,
       "lowest_score": 324.2046,
-      "waktu_api": "2026-07-05T19:51:32.313077Z",
+      "waktu_api": "2026-07-05T20:57:04.921807Z",
       "ranking": [
         {
           "urutan": 1,
@@ -28955,7 +28955,7 @@
       "total_pendaftar": 120,
       "highest_score": 5.61201,
       "lowest_score": 1082.97612,
-      "waktu_api": "2026-07-05T19:56:43.599968Z",
+      "waktu_api": "2026-07-05T20:58:31.228011Z",
       "ranking": [
         {
           "urutan": 1,
@@ -29344,7 +29344,7 @@
       "total_pendaftar": 62,
       "highest_score": 27.70307,
       "lowest_score": 7080.17503,
-      "waktu_api": "2026-07-05T19:34:41.336612Z",
+      "waktu_api": "2026-07-05T21:09:39.648335Z",
       "ranking": [
         {
           "urutan": 1,
