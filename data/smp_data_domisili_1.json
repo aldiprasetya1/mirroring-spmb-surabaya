@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-05T18:38:49.107Z",
+  "last_updated": "2026-07-05T20:00:50.927Z",
   "schools": [
     {
       "id": 1,
       "nama": "SMPN 1 Surabaya",
       "pagu": 70,
-      "jp_pilihan1": 152,
+      "jp_pilihan1": 153,
       "jp_pilihan2": 20,
-      "total_pendaftar": 172,
+      "total_pendaftar": 173,
       "highest_score": 54.93239,
       "lowest_score": 817.68509,
-      "waktu_api": "2026-07-05T18:10:22.480676Z",
+      "waktu_api": "2026-07-05T19:42:43.797715Z",
       "ranking": [
         {
           "urutan": 1,
@@ -583,7 +583,7 @@
       "total_pendaftar": 168,
       "highest_score": 69.07445,
       "lowest_score": 704.88046,
-      "waktu_api": "2026-07-05T18:11:57.046763Z",
+      "waktu_api": "2026-07-05T19:48:03.982679Z",
       "ranking": [
         {
           "urutan": 1,
@@ -1140,7 +1140,7 @@
       "total_pendaftar": 237,
       "highest_score": 60.36466,
       "lowest_score": 578.2144,
-      "waktu_api": "2026-07-05T18:11:21.261093Z",
+      "waktu_api": "2026-07-05T19:41:36.119294Z",
       "ranking": [
         {
           "urutan": 1,
@@ -1633,7 +1633,7 @@
       "total_pendaftar": 234,
       "highest_score": 53.19034,
       "lowest_score": 688.63291,
-      "waktu_api": "2026-07-05T18:11:45.314751Z",
+      "waktu_api": "2026-07-05T19:42:28.648153Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2038,7 +2038,7 @@
       "total_pendaftar": 256,
       "highest_score": 100.65671,
       "lowest_score": 398.60767,
-      "waktu_api": "2026-07-05T18:12:49.409204Z",
+      "waktu_api": "2026-07-05T19:44:39.743843Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2531,7 +2531,7 @@
       "total_pendaftar": 347,
       "highest_score": 137.8796,
       "lowest_score": 607.97511,
-      "waktu_api": "2026-07-05T18:10:23.320578Z",
+      "waktu_api": "2026-07-05T19:42:57.663433Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3136,7 +3136,7 @@
       "total_pendaftar": 175,
       "highest_score": 134.13908,
       "lowest_score": 547.64155,
-      "waktu_api": "2026-07-05T18:14:22.046751Z",
+      "waktu_api": "2026-07-05T19:45:21.089661Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3565,7 +3565,7 @@
       "total_pendaftar": 128,
       "highest_score": 163.45963,
       "lowest_score": 647.21492,
-      "waktu_api": "2026-07-05T18:21:01.542655Z",
+      "waktu_api": "2026-07-05T19:57:56.374524Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3938,7 +3938,7 @@
       "total_pendaftar": 446,
       "highest_score": 89.12887,
       "lowest_score": 342.43944,
-      "waktu_api": "2026-07-05T18:13:23.026948Z",
+      "waktu_api": "2026-07-05T19:44:35.564869Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4418,12 +4418,12 @@
       "id": 10,
       "nama": "SMPN 10 Surabaya",
       "pagu": 60,
-      "jp_pilihan1": 396,
+      "jp_pilihan1": 397,
       "jp_pilihan2": 86,
-      "total_pendaftar": 482,
+      "total_pendaftar": 483,
       "highest_score": 55.5654,
       "lowest_score": 482.59193,
-      "waktu_api": "2026-07-05T18:11:31.575138Z",
+      "waktu_api": "2026-07-05T19:46:33.413016Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4911,12 +4911,12 @@
       "id": 11,
       "nama": "SMPN 11 Surabaya",
       "pagu": 52,
-      "jp_pilihan1": 216,
+      "jp_pilihan1": 215,
       "jp_pilihan2": 46,
-      "total_pendaftar": 262,
+      "total_pendaftar": 261,
       "highest_score": 71.27061,
       "lowest_score": 199.61957,
-      "waktu_api": "2026-07-05T18:21:31.202967Z",
+      "waktu_api": "2026-07-05T19:48:31.883303Z",
       "ranking": [
         {
           "urutan": 1,
@@ -5345,7 +5345,7 @@
       "total_pendaftar": 244,
       "highest_score": 58.58093,
       "lowest_score": 485.90072,
-      "waktu_api": "2026-07-05T18:10:55.859394Z",
+      "waktu_api": "2026-07-05T19:41:57.979997Z",
       "ranking": [
         {
           "urutan": 1,
@@ -5950,7 +5950,7 @@
       "total_pendaftar": 144,
       "highest_score": 68.63161,
       "lowest_score": 586.31966,
-      "waktu_api": "2026-07-05T18:15:40.310200Z",
+      "waktu_api": "2026-07-05T19:48:52.331341Z",
       "ranking": [
         {
           "urutan": 1,
@@ -6443,7 +6443,7 @@
       "total_pendaftar": 243,
       "highest_score": 83.62487,
       "lowest_score": 685.99359,
-      "waktu_api": "2026-07-05T18:31:40.045081Z",
+      "waktu_api": "2026-07-05T19:37:52.922239Z",
       "ranking": [
         {
           "urutan": 1,
@@ -6963,12 +6963,12 @@
       "id": 15,
       "nama": "SMPN 15 Surabaya",
       "pagu": 64,
-      "jp_pilihan1": 167,
+      "jp_pilihan1": 168,
       "jp_pilihan2": 31,
-      "total_pendaftar": 198,
+      "total_pendaftar": 199,
       "highest_score": 95.86808,
       "lowest_score": 473.60892,
-      "waktu_api": "2026-07-05T18:15:41.522034Z",
+      "waktu_api": "2026-07-05T19:46:51.939756Z",
       "ranking": [
         {
           "urutan": 1,
@@ -7493,7 +7493,7 @@
       "total_pendaftar": 116,
       "highest_score": 62.99107,
       "lowest_score": 726.57195,
-      "waktu_api": "2026-07-05T18:13:40.745896Z",
+      "waktu_api": "2026-07-05T19:46:40.832718Z",
       "ranking": [
         {
           "urutan": 1,
@@ -8077,12 +8077,12 @@
       "id": 17,
       "nama": "SMPN 17 Surabaya",
       "pagu": 71,
-      "jp_pilihan1": 109,
-      "jp_pilihan2": 58,
-      "total_pendaftar": 167,
+      "jp_pilihan1": 110,
+      "jp_pilihan2": 59,
+      "total_pendaftar": 169,
       "highest_score": 201.55781,
       "lowest_score": 825.57049,
-      "waktu_api": "2026-07-05T18:13:44.850249Z",
+      "waktu_api": "2026-07-05T19:45:16.486588Z",
       "ranking": [
         {
           "urutan": 1,
@@ -8663,7 +8663,7 @@
       "total_pendaftar": 164,
       "highest_score": 214.88422,
       "lowest_score": 819.2402,
-      "waktu_api": "2026-07-05T18:16:58.076087Z",
+      "waktu_api": "2026-07-05T19:51:28.472680Z",
       "ranking": [
         {
           "urutan": 1,
@@ -9031,12 +9031,12 @@
       "id": 19,
       "nama": "SMPN 19 Surabaya",
       "pagu": 70,
-      "jp_pilihan1": 193,
+      "jp_pilihan1": 194,
       "jp_pilihan2": 22,
-      "total_pendaftar": 215,
+      "total_pendaftar": 216,
       "highest_score": 128.66993,
       "lowest_score": 835.55489,
-      "waktu_api": "2026-07-05T18:12:55.665112Z",
+      "waktu_api": "2026-07-05T19:45:47.391520Z",
       "ranking": [
         {
           "urutan": 1,
@@ -9604,12 +9604,12 @@
       "id": 20,
       "nama": "SMPN 20 Surabaya",
       "pagu": 64,
-      "jp_pilihan1": 131,
+      "jp_pilihan1": 133,
       "jp_pilihan2": 37,
-      "total_pendaftar": 168,
+      "total_pendaftar": 170,
       "highest_score": 104.79654,
-      "lowest_score": 885.02638,
-      "waktu_api": "2026-07-05T18:15:41.471367Z",
+      "lowest_score": 880.89959,
+      "waktu_api": "2026-07-05T19:49:17.457274Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10117,11 +10117,11 @@
         },
         {
           "urutan": 64,
-          "nama_siswa": "VELLISYA AIDHA PUTRI BRILLIANT",
+          "nama_siswa": "MUHAMMAD ALIF ANGGA HIDAYAT",
           "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:03:05",
-          "sekolah_asal": "SDN MANUKAN KULON",
-          "jarak": 885.02638
+          "waktu_pendaftaran": "2026-07-06 01:09:54",
+          "sekolah_asal": "MIS RADEN RAHMAT",
+          "jarak": 880.89959
         }
       ]
     },
@@ -10129,12 +10129,12 @@
       "id": 21,
       "nama": "SMPN 21 Surabaya",
       "pagu": 72,
-      "jp_pilihan1": 91,
-      "jp_pilihan2": 31,
-      "total_pendaftar": 122,
+      "jp_pilihan1": 92,
+      "jp_pilihan2": 32,
+      "total_pendaftar": 124,
       "highest_score": 74.74106,
       "lowest_score": 1140.69795,
-      "waktu_api": "2026-07-05T18:13:57.330437Z",
+      "waktu_api": "2026-07-05T19:47:03.661683Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10719,11 +10719,11 @@
       "nama": "SMPN 22 Surabaya",
       "pagu": 72,
       "jp_pilihan1": 129,
-      "jp_pilihan2": 19,
-      "total_pendaftar": 148,
+      "jp_pilihan2": 20,
+      "total_pendaftar": 149,
       "highest_score": 159.7891,
       "lowest_score": 938.67054,
-      "waktu_api": "2026-07-05T18:17:21.326455Z",
+      "waktu_api": "2026-07-05T19:49:19.186418Z",
       "ranking": [
         {
           "urutan": 1,
@@ -11307,12 +11307,12 @@
       "id": 23,
       "nama": "SMPN 23 Surabaya",
       "pagu": 61,
-      "jp_pilihan1": 120,
+      "jp_pilihan1": 121,
       "jp_pilihan2": 37,
-      "total_pendaftar": 157,
+      "total_pendaftar": 158,
       "highest_score": 45.08053,
       "lowest_score": 625.77399,
-      "waktu_api": "2026-07-05T18:17:16.117172Z",
+      "waktu_api": "2026-07-05T19:50:28.474948Z",
       "ranking": [
         {
           "urutan": 1,
@@ -11813,7 +11813,7 @@
       "total_pendaftar": 88,
       "highest_score": 62.5509,
       "lowest_score": 3642.3352,
-      "waktu_api": "2026-07-05T18:14:19.391628Z",
+      "waktu_api": "2026-07-05T19:46:53.146262Z",
       "ranking": [
         {
           "urutan": 1,
@@ -12357,12 +12357,12 @@
       "id": 25,
       "nama": "SMPN 25 Surabaya",
       "pagu": 74,
-      "jp_pilihan1": 331,
+      "jp_pilihan1": 332,
       "jp_pilihan2": 83,
-      "total_pendaftar": 414,
+      "total_pendaftar": 415,
       "highest_score": 27.13729,
       "lowest_score": 436.37682,
-      "waktu_api": "2026-07-05T18:12:57.690795Z",
+      "waktu_api": "2026-07-05T19:45:07.119030Z",
       "ranking": [
         {
           "urutan": 1,
@@ -12967,7 +12967,7 @@
       "total_pendaftar": 214,
       "highest_score": 239.24094,
       "lowest_score": 709.10294,
-      "waktu_api": "2026-07-05T18:14:22.079042Z",
+      "waktu_api": "2026-07-05T19:46:11.949903Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13524,7 +13524,7 @@
       "total_pendaftar": 209,
       "highest_score": 204.66732,
       "lowest_score": 556.64568,
-      "waktu_api": "2026-07-05T18:16:03.248603Z",
+      "waktu_api": "2026-07-05T19:52:57.026135Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13948,12 +13948,12 @@
       "id": 28,
       "nama": "SMPN 28 Surabaya",
       "pagu": 68,
-      "jp_pilihan1": 104,
+      "jp_pilihan1": 106,
       "jp_pilihan2": 10,
-      "total_pendaftar": 114,
+      "total_pendaftar": 116,
       "highest_score": 214.76437,
       "lowest_score": 830.77414,
-      "waktu_api": "2026-07-05T18:14:08.723362Z",
+      "waktu_api": "2026-07-05T19:46:53.062522Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14510,7 +14510,7 @@
       "total_pendaftar": 366,
       "highest_score": 51.50033,
       "lowest_score": 444.02465,
-      "waktu_api": "2026-07-05T18:14:33.652639Z",
+      "waktu_api": "2026-07-05T19:46:29.905981Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14995,7 +14995,7 @@
       "total_pendaftar": 161,
       "highest_score": 184.35169,
       "lowest_score": 914.92984,
-      "waktu_api": "2026-07-05T18:16:55.120188Z",
+      "waktu_api": "2026-07-05T19:51:00.930470Z",
       "ranking": [
         {
           "urutan": 1,
@@ -15524,11 +15524,11 @@
       "nama": "SMPN 31 Surabaya",
       "pagu": 54,
       "jp_pilihan1": 233,
-      "jp_pilihan2": 53,
-      "total_pendaftar": 286,
+      "jp_pilihan2": 54,
+      "total_pendaftar": 287,
       "highest_score": 30.52286,
       "lowest_score": 312.73736,
-      "waktu_api": "2026-07-05T18:13:25.494368Z",
+      "waktu_api": "2026-07-05T19:45:58.392386Z",
       "ranking": [
         {
           "urutan": 1,
@@ -15968,12 +15968,12 @@
       "id": 32,
       "nama": "SMPN 32 Surabaya",
       "pagu": 68,
-      "jp_pilihan1": 175,
+      "jp_pilihan1": 176,
       "jp_pilihan2": 30,
-      "total_pendaftar": 205,
+      "total_pendaftar": 206,
       "highest_score": 42.98498,
-      "lowest_score": 561.93531,
-      "waktu_api": "2026-07-05T18:13:40.085428Z",
+      "lowest_score": 551.8739,
+      "waktu_api": "2026-07-05T19:47:09.582765Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16121,6 +16121,14 @@
         },
         {
           "urutan": 19,
+          "nama_siswa": "MILKY AMELIYA",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 01:52:13",
+          "sekolah_asal": "MIS RADEN RAHMAT",
+          "jarak": 294.25441
+        },
+        {
+          "urutan": 20,
           "nama_siswa": "AKMAL ADLI FAIRUZ",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:19:44",
@@ -16128,7 +16136,7 @@
           "jarak": 295.4699
         },
         {
-          "urutan": 20,
+          "urutan": 21,
           "nama_siswa": "AVIANA ZERYCA RACHMAD",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:54",
@@ -16136,7 +16144,7 @@
           "jarak": 297.64291
         },
         {
-          "urutan": 21,
+          "urutan": 22,
           "nama_siswa": "KAYLA AZZAHRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:14:51",
@@ -16144,7 +16152,7 @@
           "jarak": 306.03356
         },
         {
-          "urutan": 22,
+          "urutan": 23,
           "nama_siswa": "NAYSILLA KEYNA PUTRI ASMARA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:42",
@@ -16152,7 +16160,7 @@
           "jarak": 312.78964
         },
         {
-          "urutan": 23,
+          "urutan": 24,
           "nama_siswa": "MUHAMAD RADITYA DANU PUTRA BAYU",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:17:32",
@@ -16160,7 +16168,7 @@
           "jarak": 315.49017
         },
         {
-          "urutan": 24,
+          "urutan": 25,
           "nama_siswa": "MUZAKKI RAMDHANI AKBAR",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:49:19",
@@ -16168,7 +16176,7 @@
           "jarak": 319.30037
         },
         {
-          "urutan": 25,
+          "urutan": 26,
           "nama_siswa": "MUHAMMAD RIZKY SETIAWAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 04:56:46",
@@ -16176,7 +16184,7 @@
           "jarak": 321.18089
         },
         {
-          "urutan": 26,
+          "urutan": 27,
           "nama_siswa": "ANDREAN REVALINO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:17:50",
@@ -16184,7 +16192,7 @@
           "jarak": 330.45552
         },
         {
-          "urutan": 27,
+          "urutan": 28,
           "nama_siswa": "DEWI SEKAR ARUM",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 19:34:56",
@@ -16192,7 +16200,7 @@
           "jarak": 340.22151
         },
         {
-          "urutan": 28,
+          "urutan": 29,
           "nama_siswa": "ACHMAD FIQRI PRASETYO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:15:35",
@@ -16200,7 +16208,7 @@
           "jarak": 342.69622
         },
         {
-          "urutan": 29,
+          "urutan": 30,
           "nama_siswa": "CHANTICKA PUTRI PANDANWANGI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:58:43",
@@ -16208,7 +16216,7 @@
           "jarak": 350.3741
         },
         {
-          "urutan": 30,
+          "urutan": 31,
           "nama_siswa": "DELLA AFRIANTI MEYAZAHRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 03:09:42",
@@ -16216,7 +16224,7 @@
           "jarak": 354.5467
         },
         {
-          "urutan": 31,
+          "urutan": 32,
           "nama_siswa": "DINA SILVANI  FAJERIEN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 03:07:32",
@@ -16224,7 +16232,7 @@
           "jarak": 354.5467
         },
         {
-          "urutan": 32,
+          "urutan": 33,
           "nama_siswa": "MOCHAMAD FADIL AUSHAF TAUFIQILLAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:06:14",
@@ -16232,7 +16240,7 @@
           "jarak": 364.78725
         },
         {
-          "urutan": 33,
+          "urutan": 34,
           "nama_siswa": "MUHAMMAD FIKRI NAHLA PRASETYA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:09:22",
@@ -16240,7 +16248,7 @@
           "jarak": 380.80097
         },
         {
-          "urutan": 34,
+          "urutan": 35,
           "nama_siswa": "M. RICKY ALVAREZ",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:21:11",
@@ -16248,7 +16256,7 @@
           "jarak": 383.67636
         },
         {
-          "urutan": 35,
+          "urutan": 36,
           "nama_siswa": "MUHAMMAD IQBAL",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:00:33",
@@ -16256,7 +16264,7 @@
           "jarak": 395.47035
         },
         {
-          "urutan": 36,
+          "urutan": 37,
           "nama_siswa": "ANGELO MICHAEL YUCITA PUTRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:14",
@@ -16264,7 +16272,7 @@
           "jarak": 396.73806
         },
         {
-          "urutan": 37,
+          "urutan": 38,
           "nama_siswa": "KHEYSHA ALMIRA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 10:26:44",
@@ -16272,7 +16280,7 @@
           "jarak": 400.17007
         },
         {
-          "urutan": 38,
+          "urutan": 39,
           "nama_siswa": "MUHAMMAD KRISNA ARZIKY",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:25",
@@ -16280,7 +16288,7 @@
           "jarak": 402.77344
         },
         {
-          "urutan": 39,
+          "urutan": 40,
           "nama_siswa": "ABIGAIL KUMARA BARUCH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:06:33",
@@ -16288,7 +16296,7 @@
           "jarak": 403.99489
         },
         {
-          "urutan": 40,
+          "urutan": 41,
           "nama_siswa": "AKIRA TERRY ENDFA PUTRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:46",
@@ -16296,7 +16304,7 @@
           "jarak": 410.12655
         },
         {
-          "urutan": 41,
+          "urutan": 42,
           "nama_siswa": "ALFIYAH WISNU RAHAYUNINGSIH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:16:02",
@@ -16304,7 +16312,7 @@
           "jarak": 414.68805
         },
         {
-          "urutan": 42,
+          "urutan": 43,
           "nama_siswa": "ALFARREZAL MAHESWARA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:12",
@@ -16312,7 +16320,7 @@
           "jarak": 415.26787
         },
         {
-          "urutan": 43,
+          "urutan": 44,
           "nama_siswa": "AUREL ELYSIA DWI ALMEERA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 22:08:58",
@@ -16320,7 +16328,7 @@
           "jarak": 415.32336
         },
         {
-          "urutan": 44,
+          "urutan": 45,
           "nama_siswa": "MUHAMMAD LINGGA NAGATA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:39",
@@ -16328,7 +16336,7 @@
           "jarak": 425.15779
         },
         {
-          "urutan": 45,
+          "urutan": 46,
           "nama_siswa": "KIMORA THALITA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:15:13",
@@ -16336,7 +16344,7 @@
           "jarak": 426.58016
         },
         {
-          "urutan": 46,
+          "urutan": 47,
           "nama_siswa": "MOCHAMAD SALMAN AL FARISI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:01:22",
@@ -16344,7 +16352,7 @@
           "jarak": 430.61051
         },
         {
-          "urutan": 47,
+          "urutan": 48,
           "nama_siswa": "IRSYAD ZAHIR SETYA AIRLANGGA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:19:10",
@@ -16352,7 +16360,7 @@
           "jarak": 437.6852
         },
         {
-          "urutan": 48,
+          "urutan": 49,
           "nama_siswa": "ABDUL QODIR AL-ROSYID",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:53:27",
@@ -16360,7 +16368,7 @@
           "jarak": 447.10245
         },
         {
-          "urutan": 49,
+          "urutan": 50,
           "nama_siswa": "ALMIERA ALEESHYA RAMADHANIE",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:20:44",
@@ -16368,7 +16376,7 @@
           "jarak": 456.90966
         },
         {
-          "urutan": 50,
+          "urutan": 51,
           "nama_siswa": "SELVEA FANESYA CAFARUNIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 21:27:08",
@@ -16376,7 +16384,7 @@
           "jarak": 462.43105
         },
         {
-          "urutan": 51,
+          "urutan": 52,
           "nama_siswa": "ZYHAIR AZZAHRAN SYAHRIR",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:00",
@@ -16384,7 +16392,7 @@
           "jarak": 464.95531
         },
         {
-          "urutan": 52,
+          "urutan": 53,
           "nama_siswa": "GHAZI IGOR AKINS",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 14:39:37",
@@ -16392,7 +16400,7 @@
           "jarak": 466.54142
         },
         {
-          "urutan": 53,
+          "urutan": 54,
           "nama_siswa": "AULIA GLADIS SAFITRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:12:20",
@@ -16400,7 +16408,7 @@
           "jarak": 469.86951
         },
         {
-          "urutan": 54,
+          "urutan": 55,
           "nama_siswa": "MUHAMMAD ALVAREZZA GHIFARI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:28:16",
@@ -16408,7 +16416,7 @@
           "jarak": 475.1396
         },
         {
-          "urutan": 55,
+          "urutan": 56,
           "nama_siswa": "SULTHAN ACHMAD BULQIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:24:55",
@@ -16416,7 +16424,7 @@
           "jarak": 493.66017
         },
         {
-          "urutan": 56,
+          "urutan": 57,
           "nama_siswa": "RAKHA RIFKY PUTRA PRATAMA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 19:49:53",
@@ -16424,7 +16432,7 @@
           "jarak": 509.23113
         },
         {
-          "urutan": 57,
+          "urutan": 58,
           "nama_siswa": "AHMAD DAFFA AL FAUQI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 10:01:35",
@@ -16432,7 +16440,7 @@
           "jarak": 515.41465
         },
         {
-          "urutan": 58,
+          "urutan": 59,
           "nama_siswa": "QURROTA A`YUNIN NISA`",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:28:53",
@@ -16440,7 +16448,7 @@
           "jarak": 515.62423
         },
         {
-          "urutan": 59,
+          "urutan": 60,
           "nama_siswa": "KIKY PRASTYAWAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:42:24",
@@ -16448,7 +16456,7 @@
           "jarak": 518.52319
         },
         {
-          "urutan": 60,
+          "urutan": 61,
           "nama_siswa": "REVAN ARZA SETIYAWAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:51:43",
@@ -16456,7 +16464,7 @@
           "jarak": 520.19747
         },
         {
-          "urutan": 61,
+          "urutan": 62,
           "nama_siswa": "MUHAMMAD ZHAFRAN ATALLAH RAMADHAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 22:16:37",
@@ -16464,7 +16472,7 @@
           "jarak": 528.4273
         },
         {
-          "urutan": 62,
+          "urutan": 63,
           "nama_siswa": "RARA GALUH CONDRO WULAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:33:10",
@@ -16472,7 +16480,7 @@
           "jarak": 530.79752
         },
         {
-          "urutan": 63,
+          "urutan": 64,
           "nama_siswa": "SYAHDAN GHAZY EL RAFIF",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:10:59",
@@ -16480,7 +16488,7 @@
           "jarak": 536.16707
         },
         {
-          "urutan": 64,
+          "urutan": 65,
           "nama_siswa": "DASTAN BEN ARFA RAHADIANSYAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 14:01:54",
@@ -16488,7 +16496,7 @@
           "jarak": 538.87776
         },
         {
-          "urutan": 65,
+          "urutan": 66,
           "nama_siswa": "SALVAREL FEBRIAN PAPINGKA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 10:56:13",
@@ -16496,7 +16504,7 @@
           "jarak": 546.27223
         },
         {
-          "urutan": 66,
+          "urutan": 67,
           "nama_siswa": "ZAINI PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:04:33",
@@ -16504,20 +16512,12 @@
           "jarak": 550.43754
         },
         {
-          "urutan": 67,
+          "urutan": 68,
           "nama_siswa": "ABHIDHAR ATHALA SHIDQI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:50",
           "sekolah_asal": "SDN WONOKROMO I/390",
           "jarak": 551.8739
-        },
-        {
-          "urutan": 68,
-          "nama_siswa": "NAYLA NUR ANNISA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:48:36",
-          "sekolah_asal": "SDN PAGESANGAN",
-          "jarak": 561.93531
         }
       ]
     },
@@ -16530,7 +16530,7 @@
       "total_pendaftar": 130,
       "highest_score": 106.77165,
       "lowest_score": 962.22442,
-      "waktu_api": "2026-07-05T18:18:39.127842Z",
+      "waktu_api": "2026-07-05T19:52:30.475152Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16970,12 +16970,12 @@
       "id": 34,
       "nama": "SMPN 34 Surabaya",
       "pagu": 59,
-      "jp_pilihan1": 75,
+      "jp_pilihan1": 76,
       "jp_pilihan2": 6,
-      "total_pendaftar": 81,
+      "total_pendaftar": 82,
       "highest_score": 213.79557,
       "lowest_score": 1360.5354,
-      "waktu_api": "2026-07-05T18:14:19.138881Z",
+      "waktu_api": "2026-07-05T19:47:37.931617Z",
       "ranking": [
         {
           "urutan": 1,
@@ -17460,7 +17460,7 @@
       "total_pendaftar": 220,
       "highest_score": 17.09305,
       "lowest_score": 621.99493,
-      "waktu_api": "2026-07-05T18:16:13.669893Z",
+      "waktu_api": "2026-07-05T19:49:53.937768Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18012,12 +18012,12 @@
       "id": 36,
       "nama": "SMPN 36 Surabaya",
       "pagu": 62,
-      "jp_pilihan1": 60,
+      "jp_pilihan1": 61,
       "jp_pilihan2": 49,
-      "total_pendaftar": 109,
+      "total_pendaftar": 110,
       "highest_score": 88.55333,
-      "lowest_score": 2117.90412,
-      "waktu_api": "2026-07-05T18:14:28.386362Z",
+      "lowest_score": 2115.88928,
+      "waktu_api": "2026-07-05T19:47:21.902009Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18197,6 +18197,14 @@
         },
         {
           "urutan": 23,
+          "nama_siswa": "MUSLIM HIDAYAH",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 01:04:33",
+          "sekolah_asal": "MI ITTAQU",
+          "jarak": 386.35766
+        },
+        {
+          "urutan": 24,
           "nama_siswa": "FEBIOLA ANGGRAINI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:11:07",
@@ -18204,7 +18212,7 @@
           "jarak": 405.8497
         },
         {
-          "urutan": 24,
+          "urutan": 25,
           "nama_siswa": "MARETA ALIKA CHALISTANDY",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:10:38",
@@ -18212,7 +18220,7 @@
           "jarak": 408.53067
         },
         {
-          "urutan": 25,
+          "urutan": 26,
           "nama_siswa": "DEWA MARCEL SUSANTO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:34:39",
@@ -18220,7 +18228,7 @@
           "jarak": 417.10547
         },
         {
-          "urutan": 26,
+          "urutan": 27,
           "nama_siswa": "ALEXZ FERNANDO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:07:53",
@@ -18228,7 +18236,7 @@
           "jarak": 451.33045
         },
         {
-          "urutan": 27,
+          "urutan": 28,
           "nama_siswa": "ROSYIDAH KALILA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 03:29:09",
@@ -18236,7 +18244,7 @@
           "jarak": 519.55356
         },
         {
-          "urutan": 28,
+          "urutan": 29,
           "nama_siswa": "AL-RASYID HIDAYATULLOH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:29:26",
@@ -18244,7 +18252,7 @@
           "jarak": 525.0212
         },
         {
-          "urutan": 29,
+          "urutan": 30,
           "nama_siswa": "MUSTAFA SYIHAAB ANSORULLAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 03:26:18",
@@ -18252,7 +18260,7 @@
           "jarak": 542.94942
         },
         {
-          "urutan": 30,
+          "urutan": 31,
           "nama_siswa": "FARAH AQILA SETYAWAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:13:23",
@@ -18260,7 +18268,7 @@
           "jarak": 550.8584
         },
         {
-          "urutan": 31,
+          "urutan": 32,
           "nama_siswa": "NAFISA HIKMAH AGUSTIN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:23:01",
@@ -18268,7 +18276,7 @@
           "jarak": 555.1803
         },
         {
-          "urutan": 32,
+          "urutan": 33,
           "nama_siswa": "RAFFI DWI ANANTO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:32:35",
@@ -18276,7 +18284,7 @@
           "jarak": 555.98018
         },
         {
-          "urutan": 33,
+          "urutan": 34,
           "nama_siswa": "NURILA PUTRI FAJRINA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:21",
@@ -18284,7 +18292,7 @@
           "jarak": 584.90172
         },
         {
-          "urutan": 34,
+          "urutan": 35,
           "nama_siswa": "NALITHA DEWI NUR AINI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:09:25",
@@ -18292,7 +18300,7 @@
           "jarak": 632.84927
         },
         {
-          "urutan": 35,
+          "urutan": 36,
           "nama_siswa": "BINTANG TETUKO WINARTO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:24:54",
@@ -18300,7 +18308,7 @@
           "jarak": 768.78744
         },
         {
-          "urutan": 36,
+          "urutan": 37,
           "nama_siswa": "MOCHAMAD RAMADHAN DAFFA ARTYUNA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 11:45:30",
@@ -18308,7 +18316,7 @@
           "jarak": 775.65573
         },
         {
-          "urutan": 37,
+          "urutan": 38,
           "nama_siswa": "MUHAMMAD PUTRA FAJAR",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:11:17",
@@ -18316,7 +18324,7 @@
           "jarak": 800.27415
         },
         {
-          "urutan": 38,
+          "urutan": 39,
           "nama_siswa": "DEVISKA ROSA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:07:53",
@@ -18324,7 +18332,7 @@
           "jarak": 847.82521
         },
         {
-          "urutan": 39,
+          "urutan": 40,
           "nama_siswa": "CELLO SATRYA WARDHANA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:06:43",
@@ -18332,7 +18340,7 @@
           "jarak": 1018.76792
         },
         {
-          "urutan": 40,
+          "urutan": 41,
           "nama_siswa": "DZAKIRAH AURELIA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:30:15",
@@ -18340,7 +18348,7 @@
           "jarak": 1309.13851
         },
         {
-          "urutan": 41,
+          "urutan": 42,
           "nama_siswa": "ILKYGRA QUEENSHA NABIGHAH",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:10:39",
@@ -18348,7 +18356,7 @@
           "jarak": 1518.35138
         },
         {
-          "urutan": 42,
+          "urutan": 43,
           "nama_siswa": "MOH. IDZA ARADI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 22:05:28",
@@ -18356,7 +18364,7 @@
           "jarak": 1566.31693
         },
         {
-          "urutan": 43,
+          "urutan": 44,
           "nama_siswa": "MOH. IDZA ARADA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 23:00:41",
@@ -18364,7 +18372,7 @@
           "jarak": 1566.31693
         },
         {
-          "urutan": 44,
+          "urutan": 45,
           "nama_siswa": "DEVA ALFAREZEL",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 19:05:41",
@@ -18372,7 +18380,7 @@
           "jarak": 1577.24333
         },
         {
-          "urutan": 45,
+          "urutan": 46,
           "nama_siswa": "RIZKI TAMA ADHITYA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 07:16:54",
@@ -18380,7 +18388,7 @@
           "jarak": 1577.66017
         },
         {
-          "urutan": 46,
+          "urutan": 47,
           "nama_siswa": "MUHAMMAD RAMADHAN AL GHAZALI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:07:59",
@@ -18388,7 +18396,7 @@
           "jarak": 1579.68179
         },
         {
-          "urutan": 47,
+          "urutan": 48,
           "nama_siswa": "AQBAR BINTANG DHARMAWAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:28",
@@ -18396,7 +18404,7 @@
           "jarak": 1663.51886
         },
         {
-          "urutan": 48,
+          "urutan": 49,
           "nama_siswa": "PATRA PAMUNGKAS",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:35:50",
@@ -18404,7 +18412,7 @@
           "jarak": 1683.12431
         },
         {
-          "urutan": 49,
+          "urutan": 50,
           "nama_siswa": "ZASKIA ZHIFARA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:26:15",
@@ -18412,7 +18420,7 @@
           "jarak": 1775.63132
         },
         {
-          "urutan": 50,
+          "urutan": 51,
           "nama_siswa": "MUHAMMAD SHOLIKUL FAHMI",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 04:14:00",
@@ -18420,7 +18428,7 @@
           "jarak": 1810.02925
         },
         {
-          "urutan": 51,
+          "urutan": 52,
           "nama_siswa": "PENDAR BUANA HERI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 04:52:53",
@@ -18428,7 +18436,7 @@
           "jarak": 1819.71528
         },
         {
-          "urutan": 52,
+          "urutan": 53,
           "nama_siswa": "MUHAMMAD RASYA ABRARY",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:48:41",
@@ -18436,7 +18444,7 @@
           "jarak": 1828.85081
         },
         {
-          "urutan": 53,
+          "urutan": 54,
           "nama_siswa": "MOCHAMAD FAIREL ATHARIZZ CALIEF",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 14:45:46",
@@ -18444,7 +18452,7 @@
           "jarak": 1833.39879
         },
         {
-          "urutan": 54,
+          "urutan": 55,
           "nama_siswa": "NA'JWA KHAIRA WILDA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:10:01",
@@ -18452,7 +18460,7 @@
           "jarak": 1850.05761
         },
         {
-          "urutan": 55,
+          "urutan": 56,
           "nama_siswa": "BAGAS PUTRA PRASETYO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:47:17",
@@ -18460,7 +18468,7 @@
           "jarak": 1860.61818
         },
         {
-          "urutan": 56,
+          "urutan": 57,
           "nama_siswa": "EIRENE GLORYA SUYONO",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:08:20",
@@ -18468,7 +18476,7 @@
           "jarak": 1908.60963
         },
         {
-          "urutan": 57,
+          "urutan": 58,
           "nama_siswa": "ZIGGY HAKESHA AL RAZQA SADEWA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 01:18:04",
@@ -18476,7 +18484,7 @@
           "jarak": 1923.22954
         },
         {
-          "urutan": 58,
+          "urutan": 59,
           "nama_siswa": "NABILA AULIA AZ ZAHRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:10:32",
@@ -18484,7 +18492,7 @@
           "jarak": 1959.64366
         },
         {
-          "urutan": 59,
+          "urutan": 60,
           "nama_siswa": "RAYYAN ZUHAIR RAMADHAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:10:16",
@@ -18492,7 +18500,7 @@
           "jarak": 1971.9974
         },
         {
-          "urutan": 60,
+          "urutan": 61,
           "nama_siswa": "ALIFIAH JANEETA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:52:56",
@@ -18500,20 +18508,12 @@
           "jarak": 2036.42042
         },
         {
-          "urutan": 61,
+          "urutan": 62,
           "nama_siswa": "MOH. KEVIN DEWANTORO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 15:04:01",
           "sekolah_asal": "SDN KETINTANG IV/421",
           "jarak": 2115.88928
-        },
-        {
-          "urutan": 62,
-          "nama_siswa": "FARZAN ABID MUNTAHA",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 16:04:00",
-          "sekolah_asal": "SDN DUKUH MENANGGAL I/424",
-          "jarak": 2117.90412
         }
       ]
     },
@@ -18526,7 +18526,7 @@
       "total_pendaftar": 218,
       "highest_score": 51.47127,
       "lowest_score": 541.08934,
-      "waktu_api": "2026-07-05T18:15:46.639930Z",
+      "waktu_api": "2026-07-05T19:46:31.915611Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18931,7 +18931,7 @@
       "total_pendaftar": 147,
       "highest_score": 251.28548,
       "lowest_score": 710.0254,
-      "waktu_api": "2026-07-05T18:17:04.306694Z",
+      "waktu_api": "2026-07-05T19:48:47.048000Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19331,12 +19331,12 @@
       "id": 39,
       "nama": "SMPN 39 Surabaya",
       "pagu": 59,
-      "jp_pilihan1": 129,
+      "jp_pilihan1": 130,
       "jp_pilihan2": 40,
-      "total_pendaftar": 169,
+      "total_pendaftar": 170,
       "highest_score": 15.63593,
-      "lowest_score": 647.5268,
-      "waktu_api": "2026-07-05T18:16:10.856609Z",
+      "lowest_score": 646.73521,
+      "waktu_api": "2026-07-05T19:50:33.291109Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19628,6 +19628,14 @@
         },
         {
           "urutan": 37,
+          "nama_siswa": "NAUVAL TRISTAN IBRANI",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 02:04:30",
+          "sekolah_asal": "SDN BARATA JAYA",
+          "jarak": 472.666
+        },
+        {
+          "urutan": 38,
           "nama_siswa": "JUNIOR SAFA ANNASTASYA CHILLY",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:19",
@@ -19635,7 +19643,7 @@
           "jarak": 475.35622
         },
         {
-          "urutan": 38,
+          "urutan": 39,
           "nama_siswa": "ALVARO ATHALLA FAEYZA EFFENDI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:02:38",
@@ -19643,7 +19651,7 @@
           "jarak": 485.14685
         },
         {
-          "urutan": 39,
+          "urutan": 40,
           "nama_siswa": "MUHAMMAD SULTHAN `ALA UDDIN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:04:46",
@@ -19651,7 +19659,7 @@
           "jarak": 485.20335
         },
         {
-          "urutan": 40,
+          "urutan": 41,
           "nama_siswa": "MIKHAEL CHRISTIANO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 23:33:33",
@@ -19659,7 +19667,7 @@
           "jarak": 508.9021
         },
         {
-          "urutan": 41,
+          "urutan": 42,
           "nama_siswa": "M. FEBRIANSYAH PRAMANA ARSANTIO PUTRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:24",
@@ -19667,7 +19675,7 @@
           "jarak": 524.20384
         },
         {
-          "urutan": 42,
+          "urutan": 43,
           "nama_siswa": "FERLITASYAH PERMATA ARSANTIA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:06:48",
@@ -19675,7 +19683,7 @@
           "jarak": 527.9137
         },
         {
-          "urutan": 43,
+          "urutan": 44,
           "nama_siswa": "FALENCIO BRAHMANTYO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:18:54",
@@ -19683,7 +19691,7 @@
           "jarak": 531.13436
         },
         {
-          "urutan": 44,
+          "urutan": 45,
           "nama_siswa": "NAZIRA ANIQOH RAHMI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:36:08",
@@ -19691,7 +19699,7 @@
           "jarak": 548.83367
         },
         {
-          "urutan": 45,
+          "urutan": 46,
           "nama_siswa": "NAOMI AZAHRA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:19:55",
@@ -19699,7 +19707,7 @@
           "jarak": 553.30086
         },
         {
-          "urutan": 46,
+          "urutan": 47,
           "nama_siswa": "ACHMAD AL-KHALIFI ZIKRI ARDI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:12:20",
@@ -19707,7 +19715,7 @@
           "jarak": 558.04466
         },
         {
-          "urutan": 47,
+          "urutan": 48,
           "nama_siswa": "CANTIKA SYAFITRI RAHMAWATI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 07:55:39",
@@ -19715,7 +19723,7 @@
           "jarak": 561.83677
         },
         {
-          "urutan": 48,
+          "urutan": 49,
           "nama_siswa": "AZKIYA MAULITA ZAHRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:53:22",
@@ -19723,7 +19731,7 @@
           "jarak": 576.79717
         },
         {
-          "urutan": 49,
+          "urutan": 50,
           "nama_siswa": "JENAHARA FAIDA ANNAILA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 10:18:29",
@@ -19731,7 +19739,7 @@
           "jarak": 608.54162
         },
         {
-          "urutan": 50,
+          "urutan": 51,
           "nama_siswa": "SATYA SWANDANA ANGGORO PUTRO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:57:09",
@@ -19739,7 +19747,7 @@
           "jarak": 610.75304
         },
         {
-          "urutan": 51,
+          "urutan": 52,
           "nama_siswa": "MUHAMMAD HABIB SAID",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:05:32",
@@ -19747,7 +19755,7 @@
           "jarak": 618.97069
         },
         {
-          "urutan": 52,
+          "urutan": 53,
           "nama_siswa": "MUHAMMAD ARESKY PUTRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:01:35",
@@ -19755,7 +19763,7 @@
           "jarak": 623.22169
         },
         {
-          "urutan": 53,
+          "urutan": 54,
           "nama_siswa": "ROBI SANTOSO",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 13:36:19",
@@ -19763,7 +19771,7 @@
           "jarak": 626.54332
         },
         {
-          "urutan": 54,
+          "urutan": 55,
           "nama_siswa": "ACHMAD ABU UBAIDILLAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:30:51",
@@ -19771,7 +19779,7 @@
           "jarak": 633.33201
         },
         {
-          "urutan": 55,
+          "urutan": 56,
           "nama_siswa": "GYSELL ANANDITA VIEVA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:46:22",
@@ -19779,7 +19787,7 @@
           "jarak": 633.98891
         },
         {
-          "urutan": 56,
+          "urutan": 57,
           "nama_siswa": "MOCH. ALFARISI AZIZ",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:33:43",
@@ -19787,7 +19795,7 @@
           "jarak": 641.75999
         },
         {
-          "urutan": 57,
+          "urutan": 58,
           "nama_siswa": "CHADIJAH AYUNING TYAS",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:10:24",
@@ -19795,20 +19803,12 @@
           "jarak": 644.65429
         },
         {
-          "urutan": 58,
+          "urutan": 59,
           "nama_siswa": "WAR RAIHAN ARRAHMAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:29:55",
           "sekolah_asal": "SD MARGORUKUN SURABAYA",
           "jarak": 646.73521
-        },
-        {
-          "urutan": 59,
-          "nama_siswa": "AQILA NOORA ALBY",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:30:02",
-          "sekolah_asal": "SD ADINDA SURABAYA",
-          "jarak": 647.5268
         }
       ]
     },
@@ -19821,7 +19821,7 @@
       "total_pendaftar": 96,
       "highest_score": 55.37737,
       "lowest_score": 1564.25147,
-      "waktu_api": "2026-07-05T18:26:27.949409Z",
+      "waktu_api": "2026-07-05T19:33:10.671667Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20322,7 +20322,7 @@
       "total_pendaftar": 231,
       "highest_score": 62.62545,
       "lowest_score": 538.72458,
-      "waktu_api": "2026-07-05T18:15:02.739332Z",
+      "waktu_api": "2026-07-05T19:48:06.998249Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20727,7 +20727,7 @@
       "total_pendaftar": 395,
       "highest_score": 251.13116,
       "lowest_score": 561.36569,
-      "waktu_api": "2026-07-05T18:12:27.764199Z",
+      "waktu_api": "2026-07-05T19:45:03.140647Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21260,7 +21260,7 @@
       "total_pendaftar": 179,
       "highest_score": 57.74162,
       "lowest_score": 719.77007,
-      "waktu_api": "2026-07-05T18:16:00.751002Z",
+      "waktu_api": "2026-07-05T19:48:27.596195Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21665,7 +21665,7 @@
       "total_pendaftar": 267,
       "highest_score": 53.69834,
       "lowest_score": 318.14347,
-      "waktu_api": "2026-07-05T18:15:42.723112Z",
+      "waktu_api": "2026-07-05T19:53:01.218444Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22094,7 +22094,7 @@
       "total_pendaftar": 192,
       "highest_score": 95.53361,
       "lowest_score": 908.68704,
-      "waktu_api": "2026-07-05T18:19:42.303269Z",
+      "waktu_api": "2026-07-05T19:59:21.781387Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22595,7 +22595,7 @@
       "total_pendaftar": 316,
       "highest_score": 229.31783,
       "lowest_score": 676.32939,
-      "waktu_api": "2026-07-05T18:13:26.502178Z",
+      "waktu_api": "2026-07-05T19:45:20.647751Z",
       "ranking": [
         {
           "urutan": 1,
@@ -23091,12 +23091,12 @@
       "id": 47,
       "nama": "SMPN 47 Surabaya",
       "pagu": 54,
-      "jp_pilihan1": 296,
+      "jp_pilihan1": 297,
       "jp_pilihan2": 69,
-      "total_pendaftar": 365,
+      "total_pendaftar": 366,
       "highest_score": 107.52666,
       "lowest_score": 349.97236,
-      "waktu_api": "2026-07-05T18:15:06.638107Z",
+      "waktu_api": "2026-07-05T19:49:56.101692Z",
       "ranking": [
         {
           "urutan": 1,
@@ -23536,12 +23536,12 @@
       "id": 48,
       "nama": "SMPN 48 Surabaya",
       "pagu": 54,
-      "jp_pilihan1": 159,
-      "jp_pilihan2": 58,
+      "jp_pilihan1": 158,
+      "jp_pilihan2": 59,
       "total_pendaftar": 217,
       "highest_score": 49.11366,
       "lowest_score": 366.03612,
-      "waktu_api": "2026-07-05T18:16:05.400073Z",
+      "waktu_api": "2026-07-05T19:48:45.530834Z",
       "ranking": [
         {
           "urutan": 1,
@@ -23986,7 +23986,7 @@
       "total_pendaftar": 101,
       "highest_score": 129.08121,
       "lowest_score": 1645.72219,
-      "waktu_api": "2026-07-05T18:19:20.501539Z",
+      "waktu_api": "2026-07-05T19:51:25.682941Z",
       "ranking": [
         {
           "urutan": 1,
@@ -24519,7 +24519,7 @@
       "total_pendaftar": 199,
       "highest_score": 159.45188,
       "lowest_score": 672.38256,
-      "waktu_api": "2026-07-05T18:16:17.796659Z",
+      "waktu_api": "2026-07-05T19:47:57.026411Z",
       "ranking": [
         {
           "urutan": 1,
@@ -24964,7 +24964,7 @@
       "total_pendaftar": 63,
       "highest_score": 128.35593,
       "lowest_score": 2973.06899,
-      "waktu_api": "2026-07-05T18:20:33.447532Z",
+      "waktu_api": "2026-07-05T19:55:56.676208Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25249,7 +25249,7 @@
       "total_pendaftar": 88,
       "highest_score": 59.41823,
       "lowest_score": 1005.63425,
-      "waktu_api": "2026-07-05T18:18:43.914337Z",
+      "waktu_api": "2026-07-05T19:56:05.580824Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25550,7 +25550,7 @@
       "total_pendaftar": 378,
       "highest_score": 84.6451,
       "lowest_score": 530.68677,
-      "waktu_api": "2026-07-05T18:24:26.982405Z",
+      "waktu_api": "2026-07-05T19:37:09.143787Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25995,7 +25995,7 @@
       "total_pendaftar": 155,
       "highest_score": 42.37806,
       "lowest_score": 553.5212,
-      "waktu_api": "2026-07-05T18:23:36.164359Z",
+      "waktu_api": "2026-07-05T19:53:58.927352Z",
       "ranking": [
         {
           "urutan": 1,
@@ -26480,7 +26480,7 @@
       "total_pendaftar": 86,
       "highest_score": 107.89145,
       "lowest_score": 577.7965,
-      "waktu_api": "2026-07-05T18:18:49.678763Z",
+      "waktu_api": "2026-07-05T19:55:16.440983Z",
       "ranking": [
         {
           "urutan": 1,
@@ -26749,7 +26749,7 @@
       "total_pendaftar": 295,
       "highest_score": 18.87138,
       "lowest_score": 500.82931,
-      "waktu_api": "2026-07-05T18:14:31.639422Z",
+      "waktu_api": "2026-07-05T19:46:49.980065Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27077,12 +27077,12 @@
       "id": 57,
       "nama": "SMPN 57 Surabaya",
       "pagu": 67,
-      "jp_pilihan1": 79,
+      "jp_pilihan1": 80,
       "jp_pilihan2": 34,
-      "total_pendaftar": 113,
+      "total_pendaftar": 114,
       "highest_score": 110.45537,
-      "lowest_score": 1369.05968,
-      "waktu_api": "2026-07-05T18:19:23.843198Z",
+      "lowest_score": 1367.87405,
+      "waktu_api": "2026-07-05T19:54:28.387777Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27286,6 +27286,14 @@
         },
         {
           "urutan": 26,
+          "nama_siswa": "ABBAS ABDULLAH LATIF",
+          "pilihan_ke": 1,
+          "waktu_pendaftaran": "2026-07-06 02:06:54",
+          "sekolah_asal": "SDN janti 1",
+          "jarak": 834.99082
+        },
+        {
+          "urutan": 27,
           "nama_siswa": "INAYAH DWI APRILLIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:25:27",
@@ -27293,7 +27301,7 @@
           "jarak": 846.23973
         },
         {
-          "urutan": 27,
+          "urutan": 28,
           "nama_siswa": "AZAHRA PUTRI ISMAIL",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:39:09",
@@ -27301,7 +27309,7 @@
           "jarak": 859.68916
         },
         {
-          "urutan": 28,
+          "urutan": 29,
           "nama_siswa": "TUBAGUS IKHWANUDIN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-06 00:06:09",
@@ -27309,7 +27317,7 @@
           "jarak": 869.24213
         },
         {
-          "urutan": 29,
+          "urutan": 30,
           "nama_siswa": "FITRI NAJWA AMNESTY",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:13:11",
@@ -27317,7 +27325,7 @@
           "jarak": 886.04988
         },
         {
-          "urutan": 30,
+          "urutan": 31,
           "nama_siswa": "BEATRICE RATU ANANDHITA VITARA PUTRI ARVIERY LAKSANA DEWI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 06:55:33",
@@ -27325,7 +27333,7 @@
           "jarak": 888.8701
         },
         {
-          "urutan": 31,
+          "urutan": 32,
           "nama_siswa": "KINANTI AYU PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 17:01:38",
@@ -27333,7 +27341,7 @@
           "jarak": 894.46599
         },
         {
-          "urutan": 32,
+          "urutan": 33,
           "nama_siswa": "ZAFRAN ALIF NARIL SIMON",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:35:16",
@@ -27341,7 +27349,7 @@
           "jarak": 929.14097
         },
         {
-          "urutan": 33,
+          "urutan": 34,
           "nama_siswa": "SHAFIRA RATRI ZAHIRAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:03:51",
@@ -27349,7 +27357,7 @@
           "jarak": 954.30545
         },
         {
-          "urutan": 34,
+          "urutan": 35,
           "nama_siswa": "NAJWA SINFI MAULIDIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:20",
@@ -27357,7 +27365,7 @@
           "jarak": 959.2296
         },
         {
-          "urutan": 35,
+          "urutan": 36,
           "nama_siswa": "FADZIRA YESIKA TRIANDIKA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:07:52",
@@ -27365,7 +27373,7 @@
           "jarak": 963.97946
         },
         {
-          "urutan": 36,
+          "urutan": 37,
           "nama_siswa": "DEVA AULIYA PRATAMA PUTRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 10:18:14",
@@ -27373,7 +27381,7 @@
           "jarak": 995.31185
         },
         {
-          "urutan": 37,
+          "urutan": 38,
           "nama_siswa": "MANSOOR SYAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 11:19:33",
@@ -27381,7 +27389,7 @@
           "jarak": 1022.82146
         },
         {
-          "urutan": 38,
+          "urutan": 39,
           "nama_siswa": "NAFIZAH ADELIA WAHYUNINGTYAS",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 22:37:43",
@@ -27389,7 +27397,7 @@
           "jarak": 1034.27757
         },
         {
-          "urutan": 39,
+          "urutan": 40,
           "nama_siswa": "DOMINIC VALCO ANDERSON",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 22:43:31",
@@ -27397,7 +27405,7 @@
           "jarak": 1034.27757
         },
         {
-          "urutan": 40,
+          "urutan": 41,
           "nama_siswa": "MASAYU ZAHRA DZAKIRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:04:25",
@@ -27405,7 +27413,7 @@
           "jarak": 1040.7853
         },
         {
-          "urutan": 41,
+          "urutan": 42,
           "nama_siswa": "MUHAMMAD RIZAL MATOFANI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:06:52",
@@ -27413,7 +27421,7 @@
           "jarak": 1069.58278
         },
         {
-          "urutan": 42,
+          "urutan": 43,
           "nama_siswa": "AINUN ALIF MUSTAJZZAM",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:23:10",
@@ -27421,7 +27429,7 @@
           "jarak": 1077.36365
         },
         {
-          "urutan": 43,
+          "urutan": 44,
           "nama_siswa": "ADINDA RACHMA CINTA AYUDYA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 13:42:38",
@@ -27429,7 +27437,7 @@
           "jarak": 1079.65644
         },
         {
-          "urutan": 44,
+          "urutan": 45,
           "nama_siswa": "ANINDYA CLARISSA PUTRI PAHLEVI AL HASANI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:04:40",
@@ -27437,7 +27445,7 @@
           "jarak": 1085.56086
         },
         {
-          "urutan": 45,
+          "urutan": 46,
           "nama_siswa": "MUHAMMAD PRAWIRA ARKA PUTRA RAJENDRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 20:37:55",
@@ -27445,7 +27453,7 @@
           "jarak": 1134.06159
         },
         {
-          "urutan": 46,
+          "urutan": 47,
           "nama_siswa": "MAULANA SAKHI AZHARI ZAIDAN",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:10",
@@ -27453,7 +27461,7 @@
           "jarak": 1151.037
         },
         {
-          "urutan": 47,
+          "urutan": 48,
           "nama_siswa": "JIHAN AZ ZAHRA RAMADHANI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:20:06",
@@ -27461,7 +27469,7 @@
           "jarak": 1161.79191
         },
         {
-          "urutan": 48,
+          "urutan": 49,
           "nama_siswa": "NUR WAHYU YUDHISTIRA",
           "pilihan_ke": 2,
           "waktu_pendaftaran": "2026-07-05 09:04:36",
@@ -27469,7 +27477,7 @@
           "jarak": 1163.05356
         },
         {
-          "urutan": 49,
+          "urutan": 50,
           "nama_siswa": "AKMAL HISYAM NURROBI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:11:32",
@@ -27477,7 +27485,7 @@
           "jarak": 1170.62015
         },
         {
-          "urutan": 50,
+          "urutan": 51,
           "nama_siswa": "MOHAMMAD HANIF AIFIKRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 02:16:50",
@@ -27485,7 +27493,7 @@
           "jarak": 1172.28202
         },
         {
-          "urutan": 51,
+          "urutan": 52,
           "nama_siswa": "MUCHAMMAD RENO SAPUTRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:01:40",
@@ -27493,7 +27501,7 @@
           "jarak": 1175.11063
         },
         {
-          "urutan": 52,
+          "urutan": 53,
           "nama_siswa": "AIMAR SHAKHA AL MALIKI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 15:07:57",
@@ -27501,7 +27509,7 @@
           "jarak": 1175.74139
         },
         {
-          "urutan": 53,
+          "urutan": 54,
           "nama_siswa": "ZAHWA KAYLILA MAHIRA BALQIS",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:15:03",
@@ -27509,7 +27517,7 @@
           "jarak": 1180.79389
         },
         {
-          "urutan": 54,
+          "urutan": 55,
           "nama_siswa": "AZKA MAHARDHIKA AZZIKRI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:39:15",
@@ -27517,7 +27525,7 @@
           "jarak": 1194.23633
         },
         {
-          "urutan": 55,
+          "urutan": 56,
           "nama_siswa": "RANI APRILIA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 05:45:48",
@@ -27525,7 +27533,7 @@
           "jarak": 1223.83333
         },
         {
-          "urutan": 56,
+          "urutan": 57,
           "nama_siswa": "RESTU PUTRO JAGAD",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:13:00",
@@ -27533,7 +27541,7 @@
           "jarak": 1239.70641
         },
         {
-          "urutan": 57,
+          "urutan": 58,
           "nama_siswa": "ACHMAD PUTRA FAUZI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:33:12",
@@ -27541,7 +27549,7 @@
           "jarak": 1268.88389
         },
         {
-          "urutan": 58,
+          "urutan": 59,
           "nama_siswa": "MUHAMMAD RIZKY FAIZ ABDILLAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:11:48",
@@ -27549,7 +27557,7 @@
           "jarak": 1288.33392
         },
         {
-          "urutan": 59,
+          "urutan": 60,
           "nama_siswa": "ARTHA RASYA ANUGERAH",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 09:28:08",
@@ -27557,7 +27565,7 @@
           "jarak": 1306.56488
         },
         {
-          "urutan": 60,
+          "urutan": 61,
           "nama_siswa": "NOVELIA SYAKIRA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:27:36",
@@ -27565,7 +27573,7 @@
           "jarak": 1316.10033
         },
         {
-          "urutan": 61,
+          "urutan": 62,
           "nama_siswa": "KIREYNA BINAR PUSPITA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-06 00:23:39",
@@ -27573,7 +27581,7 @@
           "jarak": 1330.94128
         },
         {
-          "urutan": 62,
+          "urutan": 63,
           "nama_siswa": "MAULIIDATY AMIROTUN NISA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:23:31",
@@ -27581,7 +27589,7 @@
           "jarak": 1331.67575
         },
         {
-          "urutan": 63,
+          "urutan": 64,
           "nama_siswa": "MUHAMMAD FARIZ NAUFAL",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:09:42",
@@ -27589,7 +27597,15 @@
           "jarak": 1353.40173
         },
         {
-          "urutan": 64,
+          "urutan": 65,
+          "nama_siswa": "FARZAN ABID MUNTAHA",
+          "pilihan_ke": 2,
+          "waktu_pendaftaran": "2026-07-05 16:04:00",
+          "sekolah_asal": "SDN DUKUH MENANGGAL I/424",
+          "jarak": 1358.09893
+        },
+        {
+          "urutan": 66,
           "nama_siswa": "HANINDA FAIZA KHAIRANI",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 08:23:44",
@@ -27597,28 +27613,12 @@
           "jarak": 1358.55279
         },
         {
-          "urutan": 65,
+          "urutan": 67,
           "nama_siswa": "KENNARD NAJWAN HENDRYANANTA",
           "pilihan_ke": 1,
           "waktu_pendaftaran": "2026-07-05 01:02:53",
           "sekolah_asal": "SDN KUTISARI I",
           "jarak": 1367.87405
-        },
-        {
-          "urutan": 66,
-          "nama_siswa": "MUHAMMAD NAUFAL ARSYAD ATHALLAH",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:02:23",
-          "sekolah_asal": "SDN KUTISARI I",
-          "jarak": 1369.05968
-        },
-        {
-          "urutan": 67,
-          "nama_siswa": "MUHAMMAD NAUFAL RASYID ATHALLAH",
-          "pilihan_ke": 1,
-          "waktu_pendaftaran": "2026-07-05 01:02:30",
-          "sekolah_asal": "SDN KUTISARI I",
-          "jarak": 1369.05968
         }
       ]
     },
@@ -27626,12 +27626,12 @@
       "id": 58,
       "nama": "SMPN 58 Surabaya",
       "pagu": 40,
-      "jp_pilihan1": 349,
+      "jp_pilihan1": 350,
       "jp_pilihan2": 60,
-      "total_pendaftar": 409,
+      "total_pendaftar": 410,
       "highest_score": 56.89447,
       "lowest_score": 266.96359,
-      "waktu_api": "2026-07-05T18:17:34.088465Z",
+      "waktu_api": "2026-07-05T19:49:21.051625Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27964,7 +27964,7 @@
       "total_pendaftar": 51,
       "highest_score": 321.60157,
       "lowest_score": 2675.62828,
-      "waktu_api": "2026-07-05T18:17:31.080072Z",
+      "waktu_api": "2026-07-05T19:56:59.491220Z",
       "ranking": [
         {
           "urutan": 1,
@@ -28177,7 +28177,7 @@
       "total_pendaftar": 207,
       "highest_score": 118.8063,
       "lowest_score": 478.83353,
-      "waktu_api": "2026-07-05T18:15:07.648565Z",
+      "waktu_api": "2026-07-05T19:46:46.030737Z",
       "ranking": [
         {
           "urutan": 1,
@@ -28618,11 +28618,11 @@
       "nama": "SMPN 61 Surabaya",
       "pagu": 40,
       "jp_pilihan1": 167,
-      "jp_pilihan2": 114,
-      "total_pendaftar": 281,
+      "jp_pilihan2": 115,
+      "total_pendaftar": 282,
       "highest_score": 71.67764,
       "lowest_score": 324.2046,
-      "waktu_api": "2026-07-05T18:20:25.245512Z",
+      "waktu_api": "2026-07-05T19:51:32.313077Z",
       "ranking": [
         {
           "urutan": 1,
@@ -28955,7 +28955,7 @@
       "total_pendaftar": 120,
       "highest_score": 5.61201,
       "lowest_score": 1082.97612,
-      "waktu_api": "2026-07-05T18:19:18.306634Z",
+      "waktu_api": "2026-07-05T19:56:43.599968Z",
       "ranking": [
         {
           "urutan": 1,
@@ -29344,7 +29344,7 @@
       "total_pendaftar": 62,
       "highest_score": 27.70307,
       "lowest_score": 7080.17503,
-      "waktu_api": "2026-07-05T18:30:07.519006Z",
+      "waktu_api": "2026-07-05T19:34:41.336612Z",
       "ranking": [
         {
           "urutan": 1,
