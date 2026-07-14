@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T08:38:10.426Z",
+  "last_updated": "2026-07-14T10:26:13.783Z",
   "schools": [
     {
       "id": 1,
@@ -10,7 +10,7 @@
       "total_pendaftar": 449,
       "highest_score": 97.984,
       "lowest_score": 94.7448,
-      "waktu_api": "2026-07-14T08:33:17.222207Z",
+      "waktu_api": "2026-07-14T10:16:34.185659Z",
       "ranking": [
         {
           "urutan": 1,
@@ -815,7 +815,7 @@
       "total_pendaftar": 459,
       "highest_score": 95.5736,
       "lowest_score": 91.2808,
-      "waktu_api": "2026-07-14T08:16:34.235241Z",
+      "waktu_api": "2026-07-14T10:25:46.192006Z",
       "ranking": [
         {
           "urutan": 1,
@@ -1543,7 +1543,7 @@
       "total_pendaftar": 547,
       "highest_score": 98.0008,
       "lowest_score": 92.9328,
-      "waktu_api": "2026-07-14T08:16:34.366689Z",
+      "waktu_api": "2026-07-14T10:16:34.345560Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2205,7 +2205,7 @@
       "total_pendaftar": 462,
       "highest_score": 93.7344,
       "lowest_score": 90.4136,
-      "waktu_api": "2026-07-14T08:16:34.534410Z",
+      "waktu_api": "2026-07-14T10:16:34.466483Z",
       "ranking": [
         {
           "urutan": 1,
@@ -2735,7 +2735,7 @@
       "total_pendaftar": 578,
       "highest_score": 94.4124,
       "lowest_score": 89.3204,
-      "waktu_api": "2026-07-14T08:16:34.688770Z",
+      "waktu_api": "2026-07-14T10:16:34.607642Z",
       "ranking": [
         {
           "urutan": 1,
@@ -3397,7 +3397,7 @@
       "total_pendaftar": 659,
       "highest_score": 96.1736,
       "lowest_score": 93.4808,
-      "waktu_api": "2026-07-14T08:16:34.815823Z",
+      "waktu_api": "2026-07-14T10:16:34.733364Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4202,7 +4202,7 @@
       "total_pendaftar": 463,
       "highest_score": 91.5888,
       "lowest_score": 87.6,
-      "waktu_api": "2026-07-14T08:16:34.948470Z",
+      "waktu_api": "2026-07-14T10:16:34.871224Z",
       "ranking": [
         {
           "urutan": 1,
@@ -4798,7 +4798,7 @@
       "total_pendaftar": 415,
       "highest_score": 92.7608,
       "lowest_score": 87.0956,
-      "waktu_api": "2026-07-14T08:16:35.091623Z",
+      "waktu_api": "2026-07-14T10:16:35.001422Z",
       "ranking": [
         {
           "urutan": 1,
@@ -5328,7 +5328,7 @@
       "total_pendaftar": 496,
       "highest_score": 94.5204,
       "lowest_score": 90.88,
-      "waktu_api": "2026-07-14T08:16:35.231924Z",
+      "waktu_api": "2026-07-14T10:16:35.129095Z",
       "ranking": [
         {
           "urutan": 1,
@@ -5990,7 +5990,7 @@
       "total_pendaftar": 497,
       "highest_score": 92.1072,
       "lowest_score": 86.134,
-      "waktu_api": "2026-07-14T08:16:35.365768Z",
+      "waktu_api": "2026-07-14T10:16:35.259777Z",
       "ranking": [
         {
           "urutan": 1,
@@ -6652,7 +6652,7 @@
       "total_pendaftar": 491,
       "highest_score": 90.5704,
       "lowest_score": 84.1204,
-      "waktu_api": "2026-07-14T08:16:35.487840Z",
+      "waktu_api": "2026-07-14T10:16:35.391719Z",
       "ranking": [
         {
           "urutan": 1,
@@ -7248,7 +7248,7 @@
       "total_pendaftar": 592,
       "highest_score": 97.6684,
       "lowest_score": 90.9328,
-      "waktu_api": "2026-07-14T08:16:35.623740Z",
+      "waktu_api": "2026-07-14T10:16:35.522621Z",
       "ranking": [
         {
           "urutan": 1,
@@ -8053,7 +8053,7 @@
       "total_pendaftar": 300,
       "highest_score": 94.2796,
       "lowest_score": 87.5204,
-      "waktu_api": "2026-07-14T08:16:35.758665Z",
+      "waktu_api": "2026-07-14T10:16:35.649712Z",
       "ranking": [
         {
           "urutan": 1,
@@ -8715,7 +8715,7 @@
       "total_pendaftar": 438,
       "highest_score": 96.8284,
       "lowest_score": 86.758,
-      "waktu_api": "2026-07-14T08:16:35.894239Z",
+      "waktu_api": "2026-07-14T10:16:35.768386Z",
       "ranking": [
         {
           "urutan": 1,
@@ -9443,7 +9443,7 @@
       "total_pendaftar": 440,
       "highest_score": 93.3712,
       "lowest_score": 88.4784,
-      "waktu_api": "2026-07-14T08:16:36.025463Z",
+      "waktu_api": "2026-07-14T10:16:35.894039Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10171,7 +10171,7 @@
       "total_pendaftar": 319,
       "highest_score": 95.3868,
       "lowest_score": 86.9064,
-      "waktu_api": "2026-07-14T08:16:36.156717Z",
+      "waktu_api": "2026-07-14T10:16:36.052092Z",
       "ranking": [
         {
           "urutan": 1,
@@ -10976,7 +10976,7 @@
       "total_pendaftar": 432,
       "highest_score": 93.4128,
       "lowest_score": 86.5352,
-      "waktu_api": "2026-07-14T08:16:36.341392Z",
+      "waktu_api": "2026-07-14T10:16:36.188358Z",
       "ranking": [
         {
           "urutan": 1,
@@ -11704,7 +11704,7 @@
       "total_pendaftar": 348,
       "highest_score": 91.6252,
       "lowest_score": 85.6656,
-      "waktu_api": "2026-07-14T08:16:36.466655Z",
+      "waktu_api": "2026-07-14T10:16:36.311731Z",
       "ranking": [
         {
           "urutan": 1,
@@ -12234,7 +12234,7 @@
       "total_pendaftar": 558,
       "highest_score": 96.89,
       "lowest_score": 92.0008,
-      "waktu_api": "2026-07-14T08:16:36.590544Z",
+      "waktu_api": "2026-07-14T10:16:36.423052Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13039,7 +13039,7 @@
       "total_pendaftar": 465,
       "highest_score": 93.9872,
       "lowest_score": 86.268,
-      "waktu_api": "2026-07-14T08:16:36.726374Z",
+      "waktu_api": "2026-07-14T10:16:36.542282Z",
       "ranking": [
         {
           "urutan": 1,
@@ -13767,7 +13767,7 @@
       "total_pendaftar": 390,
       "highest_score": 89.9332,
       "lowest_score": 85.0128,
-      "waktu_api": "2026-07-14T08:16:36.873430Z",
+      "waktu_api": "2026-07-14T10:25:55.131021Z",
       "ranking": [
         {
           "urutan": 1,
@@ -14572,7 +14572,7 @@
       "total_pendaftar": 421,
       "highest_score": 94.7208,
       "lowest_score": 90.64,
-      "waktu_api": "2026-07-14T08:16:37.005442Z",
+      "waktu_api": "2026-07-14T10:16:36.690861Z",
       "ranking": [
         {
           "urutan": 1,
@@ -15377,7 +15377,7 @@
       "total_pendaftar": 418,
       "highest_score": 91.774,
       "lowest_score": 87.5736,
-      "waktu_api": "2026-07-14T08:16:37.154145Z",
+      "waktu_api": "2026-07-14T10:16:36.810597Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16039,7 +16039,7 @@
       "total_pendaftar": 326,
       "highest_score": 90.3592,
       "lowest_score": 83.5324,
-      "waktu_api": "2026-07-14T08:16:37.298255Z",
+      "waktu_api": "2026-07-14T10:16:36.930570Z",
       "ranking": [
         {
           "urutan": 1,
@@ -16701,7 +16701,7 @@
       "total_pendaftar": 521,
       "highest_score": 94.656,
       "lowest_score": 89.3196,
-      "waktu_api": "2026-07-14T08:16:37.427152Z",
+      "waktu_api": "2026-07-14T10:16:37.047860Z",
       "ranking": [
         {
           "urutan": 1,
@@ -17506,7 +17506,7 @@
       "total_pendaftar": 472,
       "highest_score": 96.9596,
       "lowest_score": 91.4812,
-      "waktu_api": "2026-07-14T08:16:37.555514Z",
+      "waktu_api": "2026-07-14T10:16:37.179159Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18234,7 +18234,7 @@
       "total_pendaftar": 471,
       "highest_score": 91.0876,
       "lowest_score": 83.6272,
-      "waktu_api": "2026-07-14T08:16:37.682274Z",
+      "waktu_api": "2026-07-14T10:16:37.289887Z",
       "ranking": [
         {
           "urutan": 1,
@@ -18830,7 +18830,7 @@
       "total_pendaftar": 328,
       "highest_score": 95.3204,
       "lowest_score": 86.1336,
-      "waktu_api": "2026-07-14T08:16:37.810854Z",
+      "waktu_api": "2026-07-14T10:16:37.400866Z",
       "ranking": [
         {
           "urutan": 1,
@@ -19558,7 +19558,7 @@
       "total_pendaftar": 560,
       "highest_score": 92.5608,
       "lowest_score": 88.7868,
-      "waktu_api": "2026-07-14T08:16:37.927630Z",
+      "waktu_api": "2026-07-14T10:16:37.531494Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20220,7 +20220,7 @@
       "total_pendaftar": 405,
       "highest_score": 91.6936,
       "lowest_score": 86.7732,
-      "waktu_api": "2026-07-14T08:16:38.062016Z",
+      "waktu_api": "2026-07-14T10:16:37.651886Z",
       "ranking": [
         {
           "urutan": 1,
@@ -20948,7 +20948,7 @@
       "total_pendaftar": 494,
       "highest_score": 88.9208,
       "lowest_score": 84.3452,
-      "waktu_api": "2026-07-14T08:16:38.198997Z",
+      "waktu_api": "2026-07-14T10:16:37.774274Z",
       "ranking": [
         {
           "urutan": 1,
@@ -21544,7 +21544,7 @@
       "total_pendaftar": 531,
       "highest_score": 90.626,
       "lowest_score": 85.2664,
-      "waktu_api": "2026-07-14T08:16:38.329069Z",
+      "waktu_api": "2026-07-14T10:16:37.903256Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22272,7 +22272,7 @@
       "total_pendaftar": 426,
       "highest_score": 89.7748,
       "lowest_score": 86.1736,
-      "waktu_api": "2026-07-14T08:16:38.457421Z",
+      "waktu_api": "2026-07-14T10:16:38.021344Z",
       "ranking": [
         {
           "urutan": 1,
@@ -22868,7 +22868,7 @@
       "total_pendaftar": 293,
       "highest_score": 92.4144,
       "lowest_score": 84.1192,
-      "waktu_api": "2026-07-14T08:16:38.578995Z",
+      "waktu_api": "2026-07-14T10:16:38.144337Z",
       "ranking": [
         {
           "urutan": 1,
@@ -23530,7 +23530,7 @@
       "total_pendaftar": 422,
       "highest_score": 94.9596,
       "lowest_score": 89.4136,
-      "waktu_api": "2026-07-14T08:16:38.703302Z",
+      "waktu_api": "2026-07-14T10:16:12.964487Z",
       "ranking": [
         {
           "urutan": 1,
@@ -24258,7 +24258,7 @@
       "total_pendaftar": 295,
       "highest_score": 90.4396,
       "lowest_score": 84.2664,
-      "waktu_api": "2026-07-14T08:16:38.833184Z",
+      "waktu_api": "2026-07-14T10:16:38.299039Z",
       "ranking": [
         {
           "urutan": 1,
@@ -24854,7 +24854,7 @@
       "total_pendaftar": 414,
       "highest_score": 94.3992,
       "lowest_score": 88.3748,
-      "waktu_api": "2026-07-14T08:16:38.957419Z",
+      "waktu_api": "2026-07-14T10:16:38.420932Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25384,7 +25384,7 @@
       "total_pendaftar": 556,
       "highest_score": 88.2416,
       "lowest_score": 85.1644,
-      "waktu_api": "2026-07-14T08:16:39.080351Z",
+      "waktu_api": "2026-07-14T10:16:38.540583Z",
       "ranking": [
         {
           "urutan": 1,
@@ -25914,7 +25914,7 @@
       "total_pendaftar": 428,
       "highest_score": 97.0276,
       "lowest_score": 89.1444,
-      "waktu_api": "2026-07-14T08:16:39.212422Z",
+      "waktu_api": "2026-07-14T10:16:38.663482Z",
       "ranking": [
         {
           "urutan": 1,
@@ -26576,7 +26576,7 @@
       "total_pendaftar": 330,
       "highest_score": 88.8404,
       "lowest_score": 82.9468,
-      "waktu_api": "2026-07-14T08:16:39.346967Z",
+      "waktu_api": "2026-07-14T10:16:38.782386Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27238,7 +27238,7 @@
       "total_pendaftar": 580,
       "highest_score": 91.1668,
       "lowest_score": 85.7472,
-      "waktu_api": "2026-07-14T08:16:39.498522Z",
+      "waktu_api": "2026-07-14T10:16:38.895651Z",
       "ranking": [
         {
           "urutan": 1,
@@ -27768,7 +27768,7 @@
       "total_pendaftar": 661,
       "highest_score": 89.8376,
       "lowest_score": 85.6404,
-      "waktu_api": "2026-07-14T08:16:39.695320Z",
+      "waktu_api": "2026-07-14T10:16:39.018513Z",
       "ranking": [
         {
           "urutan": 1,
@@ -28496,7 +28496,7 @@
       "total_pendaftar": 519,
       "highest_score": 91.722,
       "lowest_score": 88.5128,
-      "waktu_api": "2026-07-14T08:16:39.868255Z",
+      "waktu_api": "2026-07-14T10:16:39.148967Z",
       "ranking": [
         {
           "urutan": 1,
@@ -29026,7 +29026,7 @@
       "total_pendaftar": 699,
       "highest_score": 86.2536,
       "lowest_score": 83.3072,
-      "waktu_api": "2026-07-14T08:16:40.000399Z",
+      "waktu_api": "2026-07-14T10:16:39.279535Z",
       "ranking": [
         {
           "urutan": 1,
@@ -29622,7 +29622,7 @@
       "total_pendaftar": 551,
       "highest_score": 90.2924,
       "lowest_score": 85.5148,
-      "waktu_api": "2026-07-14T08:16:40.161600Z",
+      "waktu_api": "2026-07-14T10:16:39.408976Z",
       "ranking": [
         {
           "urutan": 1,
@@ -30284,7 +30284,7 @@
       "total_pendaftar": 548,
       "highest_score": 91.4384,
       "lowest_score": 87.7464,
-      "waktu_api": "2026-07-14T08:16:40.295388Z",
+      "waktu_api": "2026-07-14T10:16:39.556308Z",
       "ranking": [
         {
           "urutan": 1,
@@ -30946,7 +30946,7 @@
       "total_pendaftar": 475,
       "highest_score": 92.654,
       "lowest_score": 87.1992,
-      "waktu_api": "2026-07-14T08:16:40.438319Z",
+      "waktu_api": "2026-07-14T10:16:39.689014Z",
       "ranking": [
         {
           "urutan": 1,
@@ -31542,7 +31542,7 @@
       "total_pendaftar": 462,
       "highest_score": 90.1756,
       "lowest_score": 86.0664,
-      "waktu_api": "2026-07-14T08:16:40.590453Z",
+      "waktu_api": "2026-07-14T10:16:40.240779Z",
       "ranking": [
         {
           "urutan": 1,
@@ -32138,7 +32138,7 @@
       "total_pendaftar": 392,
       "highest_score": 87.4116,
       "lowest_score": 83.6132,
-      "waktu_api": "2026-07-14T08:16:40.755482Z",
+      "waktu_api": "2026-07-14T10:16:40.370872Z",
       "ranking": [
         {
           "urutan": 1,
@@ -32668,7 +32668,7 @@
       "total_pendaftar": 535,
       "highest_score": 91.9072,
       "lowest_score": 85.506,
-      "waktu_api": "2026-07-14T08:16:40.913118Z",
+      "waktu_api": "2026-07-14T10:16:40.493355Z",
       "ranking": [
         {
           "urutan": 1,
@@ -33264,7 +33264,7 @@
       "total_pendaftar": 389,
       "highest_score": 86.4816,
       "lowest_score": 82.1548,
-      "waktu_api": "2026-07-14T08:16:41.055150Z",
+      "waktu_api": "2026-07-14T10:16:40.613488Z",
       "ranking": [
         {
           "urutan": 1,
@@ -33717,7 +33717,7 @@
       "total_pendaftar": 342,
       "highest_score": 92.5996,
       "lowest_score": 85.1164,
-      "waktu_api": "2026-07-14T08:16:41.177945Z",
+      "waktu_api": "2026-07-14T10:16:40.740066Z",
       "ranking": [
         {
           "urutan": 1,
@@ -34093,7 +34093,7 @@
       "total_pendaftar": 624,
       "highest_score": 92.6272,
       "lowest_score": 87.9852,
-      "waktu_api": "2026-07-14T08:16:41.326443Z",
+      "waktu_api": "2026-07-14T10:16:40.865521Z",
       "ranking": [
         {
           "urutan": 1,
@@ -34689,7 +34689,7 @@
       "total_pendaftar": 611,
       "highest_score": 92.8932,
       "lowest_score": 84.2932,
-      "waktu_api": "2026-07-14T08:16:41.454067Z",
+      "waktu_api": "2026-07-14T10:16:40.988383Z",
       "ranking": [
         {
           "urutan": 1,
@@ -35351,7 +35351,7 @@
       "total_pendaftar": 187,
       "highest_score": 90.412,
       "lowest_score": 84.4792,
-      "waktu_api": "2026-07-14T08:16:41.586516Z",
+      "waktu_api": "2026-07-14T10:16:41.104935Z",
       "ranking": [
         {
           "urutan": 1,
@@ -35727,7 +35727,7 @@
       "total_pendaftar": 533,
       "highest_score": 91.1456,
       "lowest_score": 86.988,
-      "waktu_api": "2026-07-14T08:16:41.706930Z",
+      "waktu_api": "2026-07-14T10:16:41.223621Z",
       "ranking": [
         {
           "urutan": 1,
@@ -36180,7 +36180,7 @@
       "total_pendaftar": 408,
       "highest_score": 90.0768,
       "lowest_score": 82.6664,
-      "waktu_api": "2026-07-14T08:16:41.850453Z",
+      "waktu_api": "2026-07-14T10:16:41.338819Z",
       "ranking": [
         {
           "urutan": 1,
@@ -36776,7 +36776,7 @@
       "total_pendaftar": 558,
       "highest_score": 91.3844,
       "lowest_score": 87.0816,
-      "waktu_api": "2026-07-14T08:16:41.973754Z",
+      "waktu_api": "2026-07-14T10:16:41.449304Z",
       "ranking": [
         {
           "urutan": 1,
@@ -37229,7 +37229,7 @@
       "total_pendaftar": 298,
       "highest_score": 85.6656,
       "lowest_score": 82.3592,
-      "waktu_api": "2026-07-14T08:16:42.099792Z",
+      "waktu_api": "2026-07-14T10:16:41.577719Z",
       "ranking": [
         {
           "urutan": 1,
@@ -37605,7 +37605,7 @@
       "total_pendaftar": 496,
       "highest_score": 89.5468,
       "lowest_score": 84.706,
-      "waktu_api": "2026-07-14T08:16:42.234770Z",
+      "waktu_api": "2026-07-14T10:16:41.711202Z",
       "ranking": [
         {
           "urutan": 1,
@@ -38201,7 +38201,7 @@
       "total_pendaftar": 492,
       "highest_score": 91.946,
       "lowest_score": 88.6652,
-      "waktu_api": "2026-07-14T08:16:42.355729Z",
+      "waktu_api": "2026-07-14T10:16:41.826072Z",
       "ranking": [
         {
           "urutan": 1,
@@ -38654,7 +38654,7 @@
       "total_pendaftar": 264,
       "highest_score": 92.9668,
       "lowest_score": 85.3328,
-      "waktu_api": "2026-07-14T08:16:42.486516Z",
+      "waktu_api": "2026-07-14T10:16:41.958313Z",
       "ranking": [
         {
           "urutan": 1,
@@ -39107,7 +39107,7 @@
       "total_pendaftar": 150,
       "highest_score": 87.2384,
       "lowest_score": 80.8068,
-      "waktu_api": "2026-07-14T08:16:42.623232Z",
+      "waktu_api": "2026-07-14T10:16:42.073851Z",
       "ranking": [
         {
           "urutan": 1,
